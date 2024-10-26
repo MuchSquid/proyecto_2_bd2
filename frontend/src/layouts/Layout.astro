@@ -1,13 +1,16 @@
 ---
+import { NextUIProvider } from "@nextui-org/react";
 interface Props {
 	title: string;
 }
 
 const { title } = Astro.props;
+
 ---
 
+
 <!doctype html>
-<html lang="en">
+<html lang="en" class="bg-neutral-100 ">
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="description" content="Astro description" />
@@ -16,35 +19,47 @@ const { title } = Astro.props;
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
 	</head>
-	<body>
-		<slot />
+	<body class="h-screen">
+	  <main>
+		<NextUIProvider>
+			<slot />
+			
+		</NextUIProvider>
+	  </main>
 	</body>
+	<footer class="fixed bottom-0 w-full bg-white shadow-md">
+		<div class="flex items-center justify-between px-4 py-2">
+		  <div class="flex items-center space-x-4">
+			<img
+			  src="https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWN8ZW58MHx8MHx8fDA%3D"
+			  alt="Album Cover"
+			  class="w-10 h-10 rounded-md"
+			/>
+			<div>
+			  <p class="text-sm font-medium text-gray-900">Song Title</p>
+			  <p class="text-xs text-gray-500">Artist Name</p>
+			</div>
+		  </div>
+		  
+		  <div class="flex items-center space-x-4">
+			<button class="text-gray-600 hover:text-gray-900">
+			  ﹤﹤
+			</button>
+			<button class="text-gray-600 hover:text-gray-900">
+			  ▶️
+			</button>
+			<button class="text-gray-600 hover:text-gray-900">
+			  ﹥﹥
+			</button>
+		  </div>
+		  
+		  <div class="flex items-center space-x-2 w-1/2">
+			<p class="text-xs text-gray-500">0:00</p>
+			<div class="flex-grow bg-gray-300 h-1 rounded-full relative">
+			  <div class="bg-gray-600 h-1 rounded-full" style="width: 30%;"></div>
+			</div>
+			<p class="text-xs text-gray-500">3:30</p>
+		  </div>
+		</div>
+	  </footer>
 </html>
-<style is:global>
-	:root {
-		--accent: 136, 58, 234;
-		--accent-light: 224, 204, 250;
-		--accent-dark: 49, 10, 101;
-		--accent-gradient: linear-gradient(
-			45deg,
-			rgb(var(--accent)),
-			rgb(var(--accent-light)) 30%,
-			white 60%
-		);
-	}
-	html {
-		font-family: system-ui, sans-serif;
-		background: #13151a;
-	}
-	code {
-		font-family:
-			Menlo,
-			Monaco,
-			Lucida Console,
-			Liberation Mono,
-			DejaVu Sans Mono,
-			Bitstream Vera Sans Mono,
-			Courier New,
-			monospace;
-	}
-</style>
