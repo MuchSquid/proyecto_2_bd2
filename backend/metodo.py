@@ -26,10 +26,8 @@ def create_table_from_file(table_name, file_path):
 
 # Preprocesamiento de texto
 def preprocess_text(text):
-    # Tokenizar y convertir a minúsculas
     palabras = nltk.word_tokenize(text.lower())
     
-    # Cargar stopwords de varios idiomas
     stop_words = set()
     languages = [
         'english',    
@@ -54,15 +52,15 @@ def preprocess_text(text):
 
 # Función para calcular el índice TF-IDF
 def calculate_tf_idf(documents):
-    N = len(documents)  # Total de documentos
+    N = len(documents) 
     tf_idf_index = defaultdict(lambda: defaultdict(float))  # {term: {doc_id: tf-idf}}
     doc_term_freqs = defaultdict(lambda: defaultdict(int))  # {doc_id: {term: freq}}
-    doc_lengths = defaultdict(float)  # {doc_id: norm}
+    #doc_lengths = defaultdict(float)  # {doc_id: norm}
 
     # Calcular frecuencia de término (TF)
     for doc_id, text in enumerate(documents):
-        terms = preprocess_text(text)  # Usar el preprocesamiento aquí
-        total_terms = len(terms)
+        terms = preprocess_text(text) 
+        #total_terms = len(terms)
         for term in terms:
             doc_term_freqs[doc_id][term] += 1
 
@@ -89,7 +87,6 @@ def build_inverted_index_and_tfidf():
     
     return inverted_index, documents
 
-
 def calcular_norma(tfidf_data):
     # Calcular la norma para cada documento
     norms = defaultdict(float)
@@ -101,12 +98,12 @@ def calcular_norma(tfidf_data):
     for doc_id in norms:
         norms[doc_id] = np.sqrt(norms[doc_id])
 
-    return norms  # Retornar el diccionario de normas
+    return norms  
 
 def buscar_pista_en_csv(index, archivo_csv):
     with open(archivo_csv, mode='r', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for i, row in enumerate(reader):
-            if i == index:  # Comparar con el índice recibido
+            if i == index:  
                 return {'track_id': row['track_id'], 'track_name': row['track_name']}
-    return None  # Si no se encuentra
+    return None 

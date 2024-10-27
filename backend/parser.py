@@ -15,19 +15,15 @@ class SQLParser:
 
     # Función para analizar la consulta SQL
     def parse_query(self):
-        # Regex para SELECT ... WHERE ... LIKE
         select_pattern = r"SELECT (.+) FROM (\w+) WHERE (.+) liketo '(.+)'"
-        # Regex para CREATE TABLE ... FROM FILE ...
         create_table_pattern = r"CREATE TABLE (\w+) FROM FILE \"(.+)\""
 
-        # Detectar y analizar `CREATE TABLE`
         create_match = re.match(create_table_pattern, self.query, re.IGNORECASE)
         if create_match:
             self.table = create_match.group(1).strip()
             self.file_path = create_match.group(2).strip()
             return "CREATE_TABLE"
 
-        # Detectar y analizar `SELECT`
         select_match = re.match(select_pattern, self.query, re.IGNORECASE)
         if select_match:
             self.fields = [field.strip() for field in select_match.group(1).split(",")]
@@ -67,38 +63,33 @@ def search(condition_value, filename, top_k):
     query_norm = np.sqrt(sum(score ** 2 for score in query_vector.values()))
 
     # Calcular similitudes de coseno y obtener los documentos relevantes
-    norms = calcular_norma(tfidf_data)  # Calcular normas de documentos
+    norms = calcular_norma(tfidf_data) 
     similarities = {}
     for doc_id, score in query_vector.items():
-        if doc_id in norms:  # Asegurarse de que el documento tiene norma calculada
+        if doc_id in norms:  
             similarity = score / (query_norm * norms[doc_id]) if query_norm != 0 and norms[doc_id] != 0 else 0
             similarities[doc_id] = similarity
 
     # Ordenar los documentos por similitud y obtener los top-k
     top_docs = sorted(similarities.items(), key=lambda item: item[1], reverse=True)[:top_k]
-    return top_docs  # Retornar los documentos top y sus similitudes
+    return top_docs 
 
 # Función para ejecutar la búsqueda basada en la consulta
-def execute_query(parsed_query, filename):
+def execute_query(parsed_query, filename, top_k):
     # Obtenemos los campos y el valor de la condición
     fields = parsed_query['fields']
     condition_value = parsed_query['condition_value']
     table_name = parsed_query['table']
-
-    top_k = 3
     
-    # Verificamos si la tabla está en la base de datos
     if table_name not in database:
         raise ValueError(f"Tabla '{table_name}' no encontrada.")
 
-    # Filtramos los resultados utilizando `search`
     top_docs = search(condition_value, filename, top_k)
     
     return top_docs
 
 # Función para guardar el índice TF-IDF en un archivo JSON
 def save_index_to_json(tf_idf_index, filename="tfidf_index.json"):
-        #"norms": doc_lengths
     index_data = {
         "tfidf": tf_idf_index
     }
@@ -123,16 +114,17 @@ tf_idf_index = calculate_tf_idf(documents)
 filename = save_index_to_json(tf_idf_index)
 
 # Ejecutar consulta SELECT ... WHERE ... LIKE
-select_query = "SELECT track_name, track_artist FROM spotifyData WHERE lyrics liketo 'trees Pangarap'"
+select_query = "SELECT track_name, track_artist FROM spotifyData WHERE lyrics liketo 'trees Pangarap Bong'"
 parser = SQLParser(select_query)
+top_k = 2
 if parser.parse_query() == "SELECT":
     parsed_select = parser.get_parsed_query()
-    results = execute_query(parsed_select, filename)
+    results = execute_query(parsed_select, filename, top_k)
     print("Resultados de la consulta:")
     print(results)
 
     # Buscar las pistas correspondientes en el CSV
-    archivo_csv = 'dbprueba.csv'  # Asegúrate de poner el nombre correcto del archivo CSV
+    archivo_csv = 'dbprueba.csv'  
     for doc_id, _ in results:
         pista = buscar_pista_en_csv(int(doc_id), archivo_csv)  # Convertir a entero el doc_id
         if pista:
@@ -140,6 +132,3 @@ if parser.parse_query() == "SELECT":
             print(f"Track ID: {pista['track_id']}, Track Name: {pista['track_name']}")
         else:
             print(f"No se encontró ninguna pista con el ID {doc_id}.")
-
-    #for result in results:
-    #    print(result)
