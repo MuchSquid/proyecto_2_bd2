@@ -2,6 +2,7 @@
 import { NextUIProvider } from "@nextui-org/react";
 import { MdHomeFilled, MdFavorite } from "react-icons/md";
 import { FaMagnifyingGlass} from "react-icons/fa6";
+import { HiMiniMusicalNote } from "react-icons/hi2";
 import { LuLibrary } from "react-icons/lu";
 import { IoMdSettings } from "react-icons/io";
 import ViewTransitions from "astro/components/ViewTransitions.astro";
@@ -19,7 +20,8 @@ import ViewTransitions from "astro/components/ViewTransitions.astro";
   <body class="h-screen flex">
     <aside class="w-64 bg-white h-full shadow-md fixed">
       <div class="flex items-center justify-start h-16 pl-4">
-        <h1 class="text-xl font-bold">Proyecto BD2_2</h1>
+        <HiMiniMusicalNote size={25} />
+        <h1 class="text-xl font-bold ml-2">Music.ly</h1>
       </div>
       <nav class="mt-6">
         <ul class="space-y-2">
@@ -67,34 +69,5 @@ import ViewTransitions from "astro/components/ViewTransitions.astro";
     </main>
 
 
-    <footer class="fixed bottom-0 w-full bg-white shadow-md">
-      <div class="flex items-center justify-between px-4 py-2">
-        <div class="flex items-center space-x-4">
-          <img
-            src="https://akamai.sscdn.co/uploadfile/letras/albuns/7/e/e/e/344671397157010.jpg"
-            alt="Album Cover"
-            class="w-10 h-10 rounded-md"
-          />
-          <div>
-            <p class="text-sm font-medium text-gray-900">A Little Death</p>
-            <p class="text-xs text-gray-500">The Neighbourhood</p>
-          </div>
-        </div>
-
-        <div class="flex items-center space-x-4">
-          <button class="text-gray-600 hover:text-gray-900">﹤﹤</button>
-          <button class="text-gray-600 hover:text-gray-900">▶️</button>
-          <button class="text-gray-600 hover:text-gray-900">﹥﹥</button>
-        </div>
-
-        <div class="flex items-center space-x-2 w-1/2">
-          <p class="text-xs text-gray-500">0:00</p>
-          <div class="flex-grow bg-gray-300 h-1 rounded-full relative">
-            <div class="bg-gray-600 h-1 rounded-full" style="width: 30%;"></div>
-          </div>
-          <p class="text-xs text-gray-500">3:30</p>
-        </div>
-      </div>
-    </footer>
   </body>
 </html>

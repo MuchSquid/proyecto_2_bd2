@@ -1,10 +1,7 @@
 import psycopg2
 import psycopg2.extras
 import pandas as pd
-import matplotlib.pyplot as plt
-import random
 import re
-
 
 conn = psycopg2.connect(
     host="127.0.0.1",
@@ -14,7 +11,7 @@ conn = psycopg2.connect(
     port="5432"
 )
 
-def ejecutar_consulta(sql_str, select=False):
+def ejecutar_consulta(sql_str, select=True):
     try:
         cur = conn.cursor()
         cur.execute(sql_str)
@@ -23,12 +20,23 @@ def ejecutar_consulta(sql_str, select=False):
 
             if 'EXPLAIN' in sql_str.upper():
                 execution_plan = '\n'.join([row[0] for row in rows])
-                return execution_plan
+                
+                planning_time = re.search(r"Planning Time: (\d+\.\d+) ms", execution_plan)
+                execution_time = re.search(r"Execution Time: (\d+\.\d+) ms", execution_plan)
+                
+                planning_time_ms = float(planning_time.group(1)) if planning_time else None
+                execution_time_ms = float(execution_time.group(1)) if execution_time else None
+                
+                return {
+                    "execution_plan": execution_plan,
+                    "planning_time_ms": planning_time_ms,
+                    "execution_time_ms": execution_time_ms
+                }
             else:
                 df = pd.DataFrame(rows, columns=[desc[0] for desc in cur.description])
                 return df
         else:
-            conn.commit()   
+            conn.commit()
             return None
     except Exception as e:
         print(f"Error executing query: {e}")
@@ -37,13 +45,3 @@ def ejecutar_consulta(sql_str, select=False):
         raise e
     finally:
         cur.close()
-
-sql_str = """
-explain analyse
-SELECT track_id, track_name, ts_rank(to_tsvector('spanish', lyrics), to_tsquery('spanish', 'Amor')) AS similitud
-FROM spotifydata
-WHERE to_tsvector('spanish', lyrics) @@ to_tsquery('spanish', 'Amor')
-ORDER BY similitud DESC;
-"""
-
-print(ejecutar_consulta(sql_str, True))

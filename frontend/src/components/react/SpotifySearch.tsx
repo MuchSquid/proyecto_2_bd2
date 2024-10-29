@@ -1,6 +1,8 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Input, Button, Table, TableBody, TableCell, TableColumn, TableHeader, TableRow, Modal, ModalContent, ModalHeader, ModalBody, ModalFooter } from '@nextui-org/react';
-import { FaMagnifyingGlass} from "react-icons/fa6";
+import { Input, Button, Table, TableBody, TableCell, TableColumn, TableHeader, TableRow, Modal, ModalContent, ModalHeader, ModalBody } from '@nextui-org/react';
+// @ts-ignore
+import ColorThief from 'colorthief';
+import AudioPlayer from './AudioPlayer';
 
 interface Track {
   id: string;
@@ -8,6 +10,7 @@ interface Track {
   album: { images: { url: string }[]; name: string };
   artists: { name: string }[];
   preview_url: string;
+
 }
 
 const defaultImage = "https://via.placeholder.com/150"; 
@@ -48,8 +51,10 @@ const SpotifySearch2: React.FC = () => {
   const [loading, setLoading] = useState(false);
   const [selectedTrack, setSelectedTrack] = useState<Track | null>(null);
   const [isModalVisible, setIsModalVisible] = useState(false);
+  const [boxShadowColor, setBoxShadowColor] = useState<string>("rgba(0,0,0,0)");
+  const imgRef = useRef<HTMLImageElement>(null);
   const audioRef = useRef<HTMLAudioElement>(null);
-  
+
   useEffect(() => {
     async function fetchAccessToken() {
       const token = await getToken();
@@ -62,7 +67,6 @@ const SpotifySearch2: React.FC = () => {
   const handleSearch = async (event: React.FormEvent) => {
     event.preventDefault();
     if (!accessToken) return;
-
         
     setLoading(true);
     const tracks = await searchSpotifyTracks(accessToken, query);
@@ -75,16 +79,24 @@ const SpotifySearch2: React.FC = () => {
     setIsModalVisible(true);
   };
 
-
   const closeModal = () => {
     setIsModalVisible(false);
     setSelectedTrack(null);
   };
-  
+
+  useEffect(() => {
+    if (selectedTrack && imgRef.current) {
+      const colorThief = new ColorThief();
+      imgRef.current.onload = () => {
+        const color = colorThief.getColor(imgRef.current!);
+        setBoxShadowColor(`rgba(${color[0]}, ${color[1]}, ${color[2]}, 1)`);
+      };
+    }
+  }, [selectedTrack]);
 
   return (
     <div className='flex flex-col gap-4'>
-      <form onSubmit={handleSearch}  className='flex gap-2'>
+      <form onSubmit={handleSearch} className='flex gap-2'>
         <Input
           type="text"
           value={query}
@@ -110,10 +122,12 @@ const SpotifySearch2: React.FC = () => {
               {tracks.map((track) => (
                 <TableRow key={track.id} onClick={() => handleRowClick(track)}>
                   <TableCell>
-                    <img 
-                      src={track.album.images[0]?.url || defaultImage} 
-                      alt={track.name} 
-                      width="50" 
+                    <img
+                      src={track.album.images[0]?.url || defaultImage}
+                      alt={track.name}
+                      width="50"
+                      ref={imgRef}
+                      crossOrigin="anonymous"
                     />
                   </TableCell>
                   <TableCell>{track.name}</TableCell>
@@ -124,79 +138,53 @@ const SpotifySearch2: React.FC = () => {
               ))}
             </TableBody>
           </Table>
-          
         </div>
       )}
-       {/* <Modal isOpen={isModalVisible} onClose={closeModal}>
-        {selectedTrack && (
-          <div>
-            <h3>{selectedTrack.name}</h3>
-            <img
-              src={selectedTrack.album.images[0]?.url || defaultImage}
-              alt={selectedTrack.name}
-              width="150"
-              className='mb-4'
-            />
-            <p><strong>Album:</strong> {selectedTrack.album.name}</p>
-            <p><strong>Artists:</strong> {selectedTrack.artists.map((artist) => artist.name).join(', ')}</p>
-            <p><strong>Track ID:</strong> {selectedTrack.id}</p>
-            <Button onClick={closeModal}>Close</Button>
+      <Modal 
+        isOpen={isModalVisible} 
+        onOpenChange={closeModal} 
+        className='max-w-[450px] h-[720px] overflow-y-auto pb-5 bg-neutral-100 scrollbar-hide'
+        hideCloseButton={true}
+      >
+        <ModalContent >
+          {/* <ModalHeader className='text-3xl' >Song Details</ModalHeader> */}
+          <div className='p-6 text-2xl font-bold'>
+            Music<span className='text-red-600'>.ly</span>
           </div>
-        )}
-      </Modal> */}
-      <Modal isOpen={isModalVisible} onOpenChange={closeModal} className='max-w-[1200px] h-[800px] overflow-y-auto pb-5'>
-        <ModalContent>
-          <ModalHeader>Song Details</ModalHeader>
-          <ModalBody>
+          
+          <ModalBody className='flex justify-center pt-10'>
             {selectedTrack ? (
-              <div className="flex">
+              <div className="flex justify-center items-center">
                 <div>
-                  <img src={selectedTrack!.album.images[0]?.url || defaultImage} alt={selectedTrack!.name || ''} className="max-w-xs rounded-sm" />
-                  <p className="mt-5">{selectedTrack!.name}</p>
-                  <p className="text-sm text-opacity-70">{selectedTrack!.artists[0].name}</p>
-                  {selectedTrack!.preview_url && (
-                    <audio ref={audioRef} controls className="mt-5">
-                      <source src={selectedTrack!.preview_url} type="audio/mpeg" />
-                    </audio>
+                  <img 
+                    src={selectedTrack.album.images[0]?.url || defaultImage} 
+                    alt={selectedTrack.name || ''} 
+                    className="max-w-xs rounded-sm"  
+                    crossOrigin="anonymous"
+                    ref={imgRef}
+                    style={{ boxShadow: `0px 0px 50px ${boxShadowColor}` }} 
+                  />
+                  <p className="mt-10 mx-4 text-xl">{selectedTrack.name}</p>
+                  <p className="text-md mx-4 ext-opacity-70">{selectedTrack.artists[0].name}</p>
+                  {selectedTrack.preview_url && (
+                  <AudioPlayer src={selectedTrack.preview_url} />
                   )}
-                </div>
-                <div className="ml-5">
-                  <h3 className="text-green-500 font-semibold">Album:</h3>
-                  <p>{selectedTrack!.album?.name}</p>
-                  <Table aria-label="Album Tracks">
-                    <TableHeader>
-                      <TableColumn>#</TableColumn>
-                      <TableColumn>Title</TableColumn>
-                      <TableColumn>Artist(s)</TableColumn>
-                    </TableHeader>
-                    <TableBody>
-                      {tracks.map((track, index) => (
-                        <TableRow key={track.id}>
-                          <TableCell>{index + 1}</TableCell>
-                          <TableCell>{track.name}</TableCell>
-                          <TableCell>{track.artists.map(artist => artist.name).join(', ')}</TableCell>
-                        </TableRow>
-                      ))}
-                    </TableBody>
-                  </Table>
                 </div>
               </div>
             ) : (
               <p>Loading...</p>
             )}
-            {/* <h3 className="text-green-500 font-bold mt-4">Lyrics</h3>
-            <p>{selectedTrack!.selectedLyrics}</p> */}
+            <div className='flex pt-10 px-5 justify-center items-center text-xl font-bolD'>
+              Letra
+            </div>
+            <div className='flex px-5 justify-center text-center pb-6'>
+            broken foreign when stretch number back ride doctor island provide wall dried younger cost particles anywhere snake smooth unhappy element upward buffalo then create
+            wall dried younger cost particles anywhere snake smooth unhappy element upward buffalo then create
+            </div>
           </ModalBody>
-          {/* <ModalFooter>
-            <Button color="danger" onClick={closeModal}>
-              Close
-            </Button>
-          </ModalFooter> */}
         </ModalContent>
       </Modal>
-
     </div>
-    
   );
 };
 

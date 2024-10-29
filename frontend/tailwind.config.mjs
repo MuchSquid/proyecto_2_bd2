@@ -6,5 +6,8 @@ export default {
 		extend: {},
 	},
 	darkMode: "class",
-  	plugins: [nextui()]
+  	plugins: [
+		nextui(),    
+		require('tailwind-scrollbar-hide')
+	  ]
 }
