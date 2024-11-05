@@ -1,4 +1,7 @@
 import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('wordnet')
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from unidecode import unidecode
@@ -7,12 +10,13 @@ import csv
 import math
 from collections import defaultdict
 import string
+import json
+import os
+from datetime import datetime
+import time
 
-
-# Diccionario para almacenar las "tablas" en memoria
 database = {}
 
-# Función para crear la tabla desde el archivo CSV
 def create_table_from_file(table_name, file_path):
     with open(file_path, mode='r', encoding='utf-8') as csv_file:
         csv_reader = csv.DictReader(csv_file)
@@ -50,51 +54,164 @@ def preprocess_text(text):
     
     return palabras_lemmatizadas
 
-# Función para calcular el índice TF-IDF
-def calculate_tf_idf(documents):
-    N = len(documents) 
-    tf_idf_index = defaultdict(lambda: defaultdict(float))  # {term: {doc_id: tf-idf}}
-    doc_term_freqs = defaultdict(lambda: defaultdict(int))  # {doc_id: {term: freq}}
-    #doc_lengths = defaultdict(float)  # {doc_id: norm}
+def calculate_tf_idf(documents, inverted_index):
+    N = len(documents)
+    tf_idf_index = defaultdict(lambda: defaultdict(float))
 
-    # Calcular frecuencia de término (TF)
-    for doc_id, text in enumerate(documents):
-        terms = preprocess_text(text) 
-        #total_terms = len(terms)
-        for term in terms:
-            doc_term_freqs[doc_id][term] += 1
-
-    # Calcular TF-IDF
-    term_doc_count = defaultdict(int)  # {term: document count}
-    for doc_id, term_freqs in doc_term_freqs.items():
-        for term, freq in term_freqs.items():
-            term_doc_count[term] += 1
-            tf = freq / len(term_freqs)
-            idf = math.log(N / (1 + term_doc_count[term]))  # Sumar uno para evitar log(0)
+    for term, doc_ids in inverted_index.items():
+        idf = math.log(N / (1 + len(doc_ids)))
+        for doc_id in doc_ids:
+            tf = doc_ids.count(doc_id) / len(doc_ids)
             tf_idf_index[term][doc_id] = tf * idf
+
     return tf_idf_index
 
-# Construcción del índice invertido y TF-IDF
-def build_inverted_index_and_tfidf():
-    inverted_index = defaultdict(list)
-    documents = []
+def spimi_invert(documents, block_size_limit=1000):
+    blocks = []
+    current_block = defaultdict(list)
+    block_counter = 0
+
+    temp_dir = "BlocksTemporales"
+    log_dir = "indexLogs"
+    os.makedirs(temp_dir, exist_ok=True)
+    os.makedirs(log_dir, exist_ok=True)
     
-    for track in database['spotifyData']:
-        tokens = preprocess_text(track['text'])
-        documents.append(track['text'])  # Almacenamos el texto original para TF-IDF
-        for token in tokens:
-            inverted_index[token].append(len(documents) - 1)  # Usamos el índice del documento
+    log_file = os.path.join(log_dir, f"spimi_log_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt")
     
-    return inverted_index, documents
+    def log_status(message):
+        with open(log_file, 'a', encoding='utf-8') as f:
+            timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+            f.write(f"[{timestamp}] {message}\n")
+    
+    log_status("Iniciando proceso SPIMI")
+    log_status(f"Número total de documentos: {len(documents)}")
+
+    for doc_id, text in enumerate(documents):
+        terms = preprocess_text(text)
+        
+        for term in terms:
+            current_block[term].append(doc_id)
+            
+            if len(current_block) >= block_size_limit:
+                block_filename = f"block_{block_counter}.json"
+                block_path = os.path.join(temp_dir, block_filename)
+                
+                with open(block_path, 'w', encoding='utf-8') as f:
+                    json.dump(current_block, f)
+                
+                block_size = os.path.getsize(block_path) / 1024
+                log_status(f"Bloque {block_counter} creado:")
+                log_status(f"- Ubicación: {block_path}")
+                log_status(f"- Tamaño: {block_size:.2f} KB")
+                log_status(f"- Términos: {len(current_block)}")
+                
+                blocks.append(block_path)
+                current_block = defaultdict(list)
+                block_counter += 1
+
+#si no esta vacio se crea bloque
+    if current_block:
+        block_filename = f"block_{block_counter}.json"
+        block_path = os.path.join(temp_dir, block_filename)
+        
+        with open(block_path, 'w', encoding='utf-8') as f:
+            json.dump(current_block, f)
+        
+        block_size = os.path.getsize(block_path) / 1024
+        log_status(f"Bloque final {block_counter} creado:")
+        log_status(f"- Ubicación: {block_path}")
+        log_status(f"- Tamaño: {block_size:.2f} KB")
+        log_status(f"- Términos: {len(current_block)}")
+        
+        blocks.append(block_path)
+
+    log_status(f"SPIMI completado. Total de bloques: {len(blocks)}")
+    return blocks
+
+def merge_blocks(block_files):
+    log_dir = "indexLogs"
+    merge_log = os.path.join(log_dir, f"merge_log_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt")
+    
+    def log_merge(message):
+        with open(merge_log, 'a', encoding='utf-8') as f:
+            timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+            f.write(f"[{timestamp}] {message}\n")
+    
+    log_merge(" Se incia merge")
+    final_index = defaultdict(list)
+
+    for block_file in block_files:
+        if os.path.exists(block_file):
+            with open(block_file, 'r', encoding='utf-8') as f:
+                block_data = json.load(f)
+                log_merge(f"Procesando bloque: {block_file}")
+                log_merge(f" Términos en bloque: {len(block_data)}")
+                
+                for term, postings in block_data.items():
+                    final_index[term].extend(postings)
+        else:
+            log_merge(f"Bloque no encontrado: {block_file}")
+
+    log_merge("Merge completo")
+    log_merge(f"Términos totales en índice final: {len(final_index)}")
+    
+    return final_index
+
+def clean_temp_blocks(wait_time=15):
+    temp_dir = "BlocksTemporales"
+    log_dir = "indexLogs"
+    cleanup_log = os.path.join(log_dir, f"cleanup_log_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt")
+    
+    def log_cleanup(message):
+        with open(cleanup_log, 'a', encoding='utf-8') as f:
+            timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+            f.write(f"[{timestamp}] {message}\n")
+    
+    log_cleanup(f"{wait_time} segundos pra eliminar BlocksTemporales...")
+    # print(f"\nArchivos temporales en: {os.path.abspath(temp_dir)}")
+    print(f"Se tiene {wait_time} segundos para verificar, antes de que se eliminen.")
+    # print("Interrumpir programa, si se desea mantener.") //opcional?
+    
+    time.sleep(wait_time)
+    
+    for filename in os.listdir(temp_dir):
+        file_path = os.path.join(temp_dir, filename)
+        try:
+            if os.path.exists(file_path):
+                os.remove(file_path)
+                log_cleanup(f"Archivo eliminado: {filename}")
+        except Exception as e:
+            log_cleanup(f"Error al eliminar {filename}: {str(e)}")
+    
+    try:
+        os.rmdir(temp_dir)
+        log_cleanup("Carpeta temporal eliminado")
+    except Exception as e:
+        log_cleanup(f"Error al eliminar directorio temporal: {str(e)}")
+
+def build_inverted_index_and_tfidf(documents):
+    print("\nIniciando construcción del índice invertido...")
+    
+    block_files = spimi_invert(documents)
+    print(f"\nBloques creados: {len(block_files)}")
+    print("Archivos temporales en 'BlocksTemporales'")
+    print("Logs en 'indexLogs'")
+
+    inverted_index = merge_blocks(block_files)
+
+    tf_idf_index = calculate_tf_idf(documents, inverted_index)
+    
+    clean_temp_blocks()
+    
+    return inverted_index, tf_idf_index
+
 
 def calcular_norma(tfidf_data):
-    # Calcular la norma para cada documento
     norms = defaultdict(float)
     for term, docs in tfidf_data['tfidf'].items():
         for doc_id, score in docs.items():
             norms[doc_id] += score ** 2
 
-    # Tomar la raíz cuadrada para obtener la norma
     for doc_id in norms:
         norms[doc_id] = np.sqrt(norms[doc_id])
 
@@ -106,4 +223,4 @@ def buscar_pista_en_csv(index, archivo_csv):
         for i, row in enumerate(reader):
             if i == index:  
                 return {'track_id': row['track_id'], 'track_name': row['track_name']}
-    return None 
+    return None
