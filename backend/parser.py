@@ -4,7 +4,6 @@ import json
 import nltk
 nltk.download('punkt_tab')
 
-# Clase para representar el parser SQL
 class SQLParser:
     def __init__(self, query):
         self.query = query.strip()
@@ -14,7 +13,6 @@ class SQLParser:
         self.condition_value = ""
         self.file_path = ""
 
-    # Función para analizar la consulta SQL
     def parse_query(self):
         select_pattern = r"SELECT (.+) FROM (\w+) WHERE (.+) liketo '(.+)'"
         create_table_pattern = r"CREATE TABLE (\w+) FROM FILE \"(.+)\""
@@ -35,7 +33,6 @@ class SQLParser:
         
         raise SyntaxError("Consulta SQL malformada")
 
-    # Retorna los datos de la consulta
     def get_parsed_query(self):
         return {
             "fields": self.fields,
@@ -45,39 +42,36 @@ class SQLParser:
             "file_path": self.file_path
         }
 
-def search(condition_value, filename, top_k):
-    # Preprocesar la consulta para crear su vector TF-IDF
-    query_terms = preprocess_text(condition_value)
-    query_vector = defaultdict(float)
-
-    # Cargar el archivo JSON con los datos de TF-IDF
+def search(query, filename, top_k=5):
+    query_terms = preprocess_text(query)
+    
     with open(filename, 'r') as f:
-        tfidf_data = json.load(f)
-
-    # Calcular el vector TF-IDF para la consulta
+        tf_idf_data = json.load(f)
+        tf_idf_index = tf_idf_data['tfidf']
+    
+    query_vector = defaultdict(float)
     for term in query_terms:
-        if term in tfidf_data['tfidf']:
-            for doc_id, score in tfidf_data['tfidf'][term].items():
-                query_vector[doc_id] += score
-
-    # Calcular la norma del vector de la consulta
+        if term in tf_idf_index:
+            query_vector[term] = 1 * math.log(len(tf_idf_index) / (1 + len(tf_idf_index[term])))
+    
     query_norm = np.sqrt(sum(score ** 2 for score in query_vector.values()))
 
-    # Calcular similitudes de coseno y obtener los documentos relevantes
-    norms = calcular_norma(tfidf_data) 
+    norms = calcular_norma(tf_idf_data)
+    
     similarities = {}
-    for doc_id, score in query_vector.items():
-        if doc_id in norms:  
-            similarity = score / (query_norm * norms[doc_id]) if query_norm != 0 and norms[doc_id] != 0 else 0
-            similarities[doc_id] = similarity
+    for term, query_score in query_vector.items():
+        if term in tf_idf_index:
+            for doc_id, doc_score in tf_idf_index[term].items():
+                similarities[doc_id] = similarities.get(doc_id, 0) + query_score * doc_score
 
-    # Ordenar los documentos por similitud y obtener los top-k
+    for doc_id in similarities:
+        if doc_id in norms:
+            similarities[doc_id] /= (query_norm * norms[doc_id]) if query_norm != 0 and norms[doc_id] != 0 else 0
+    
     top_docs = sorted(similarities.items(), key=lambda item: item[1], reverse=True)[:top_k]
-    return top_docs 
+    return top_docs
 
-# Función para ejecutar la búsqueda basada en la consulta
 def execute_query(parsed_query, filename, top_k):
-    # Obtenemos los campos y el valor de la condición
     fields = parsed_query['fields']
     condition_value = parsed_query['condition_value']
     table_name = parsed_query['table']
@@ -89,7 +83,19 @@ def execute_query(parsed_query, filename, top_k):
     
     return top_docs
 
-# Función para guardar el índice TF-IDF en un archivo JSON
+def explainAnalyze(query, filename, top_k):
+    startTimer = time.time()
+    parser = SQLParser(query)
+    if parser.parse_query() == "SELECT":
+        parsed_select = parser.get_parsed_query()
+        results = execute_query(parsed_select, filename, top_k)
+    else:
+        print("Error al analizar la consulta.")
+    
+    end_timer = time.time()
+    execution_time = end_timer - startTimer
+    return results, execution_time
+
 def save_index_to_json(tf_idf_index, filename="tfidf_index.json"):
     index_data = {
         "tfidf": tf_idf_index
@@ -98,38 +104,42 @@ def save_index_to_json(tf_idf_index, filename="tfidf_index.json"):
         json.dump(index_data, f, indent=4)
     return filename
 
-# Crear tabla desde archivo
-create_query = 'CREATE TABLE spotifyData FROM FILE "dbprueba.csv"'
+create_query = 'CREATE TABLE spotifyData FROM FILE "spotifyData.csv"'
 parser = SQLParser(create_query)
 if parser.parse_query() == "CREATE_TABLE":
     parsed_create = parser.get_parsed_query()
     create_table_from_file(parsed_create['table'], parsed_create['file_path'])
 
-# Construir el índice invertido y TF-IDF
-inverted_index, documents = build_inverted_index_and_tfidf()
+documents = [track['text'] for track in database['spotifyData']]
 
-# Calcular el índice TF-IDF
-tf_idf_index = calculate_tf_idf(documents)
+inverted_index, documents = build_inverted_index_and_tfidf(documents)
 
-# Guardar el índice en un archivo JSON
+tf_idf_index = calculate_tf_idf(documents, inverted_index)
+
 filename = save_index_to_json(tf_idf_index)
 
-# Ejecutar consulta SELECT ... WHERE ... LIKE
-select_query = "SELECT track_name, track_artist FROM spotifyData WHERE lyrics liketo 'trees Pangarap Bong'"
+select_query = " SELECT track_name, track_artist FROM spotifyData WHERE lyrics liketo 'love'"
+# select_query = "SELECT track_name, track_artist FROM spotifyData WHERE track_name liketo ' it love'"
 parser = SQLParser(select_query)
-top_k = 2
-if parser.parse_query() == "SELECT":
-    parsed_select = parser.get_parsed_query()
-    results = execute_query(parsed_select, filename, top_k)
+top_k = 5
+
+#explain analyze
+results, execution_time = explainAnalyze(select_query, filename, top_k)
+
+if results:
     print("Resultados de la consulta:")
     print(results)
+    print(f"Tiempo de ejecución: {execution_time} segundos")
 
-    # Buscar las pistas correspondientes en el CSV
-    archivo_csv = 'dbprueba.csv'  
+    # archivo_csv = 'dbprueba.csv'
+    archivo_csv = 'spotifyData.csv'
     for doc_id, _ in results:
-        pista = buscar_pista_en_csv(int(doc_id), archivo_csv)  # Convertir a entero el doc_id
+        pista = buscar_pista_en_csv(int(doc_id), archivo_csv)
+
         if pista:
             print(f"Detalles de la pista encontrada para el ID {doc_id}:")
             print(f"Track ID: {pista['track_id']}, Track Name: {pista['track_name']}")
         else:
             print(f"No se encontró ninguna pista con el ID {doc_id}.")
+
+
