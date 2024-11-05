@@ -1,7 +1,8 @@
 import re
 from metodo import *
 import json
-
+import nltk
+nltk.download('punkt_tab')
 
 # Clase para representar el parser SQL
 class SQLParser:

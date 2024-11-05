@@ -30,7 +30,7 @@ def ejecutar_consulta(sql_str, select=True):
                 return {
                     "execution_plan": execution_plan,
                     "planning_time_ms": planning_time_ms,
-                    "execution_time_ms": execution_time_ms
+                    "execution_time_ms": execution_time_ms,
                 }
             else:
                 df = pd.DataFrame(rows, columns=[desc[0] for desc in cur.description])
