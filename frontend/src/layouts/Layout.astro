@@ -1,15 +1,16 @@
 ---
 import { NextUIProvider } from "@nextui-org/react";
 import { MdHomeFilled, MdFavorite } from "react-icons/md";
-import { FaMagnifyingGlass} from "react-icons/fa6";
+import { FaMagnifyingGlass } from "react-icons/fa6";
 import { HiMiniMusicalNote } from "react-icons/hi2";
 import { LuLibrary } from "react-icons/lu";
 import { IoMdSettings } from "react-icons/io";
 import ViewTransitions from "astro/components/ViewTransitions.astro";
+import ThemeToggleButton from '../components/react/ThemeToggleButton.tsx';
 ---
 
 <!doctype html>
-<html lang="en" class="bg-neutral-100">
+<html lang="en" class="bg-neutral-100 dark:bg-black dark:text-gray-100">
   <head>
     <meta charset="UTF-8" />
     <meta name="description" content="Music App" />
@@ -17,57 +18,39 @@ import ViewTransitions from "astro/components/ViewTransitions.astro";
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <title>TurnOn Music</title>
   </head>
-  <body class="h-screen flex">
-    <aside class="w-64 bg-white h-full shadow-md fixed">
-      <div class="flex items-center justify-start h-16 pl-4">
-        <HiMiniMusicalNote size={25} />
-        <h1 class="text-xl font-bold ml-2">Music.ly</h1>
+  <body class="h-screen flex bg-neutral-100 dark:bg-black text-gray-900 dark:text-gray-100">
+    <aside class="w-56 bg-white dark:bg-black h-full shadow-md fixed">
+      <div class="flex items-center justify-between h-16 pl-4 pr-4">
+        <div class="flex items-center">
+          <HiMiniMusicalNote size={25} />
+          <h1 class="text-xl font-bold ml-2">Music.ly</h1>
+        </div>
+        
+        <ThemeToggleButton client:load />
       </div>
       <nav class="mt-6">
         <ul class="space-y-2">
           <li>
-            <a href="/home" class="flex items-center px-4 py-2 text-gray-700 hover:bg-gray-100">
-			  <MdHomeFilled size={25} />
+            <a href="/home" class="flex items-center px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+              <MdHomeFilled size={25} />
               <span class="ml-3">Home</span>
             </a>
           </li>
           <li>
-            <a href="/" class="flex items-center px-4 py-2 text-gray-700 hover:bg-gray-100">
-			  <FaMagnifyingGlass size={18} />
+            <a href="/" class="flex items-center px-4 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+              <FaMagnifyingGlass size={18} />
               <span class="ml-3">Search</span>
             </a>
           </li>
-          <!-- <li>
-            <a href="#" class="flex items-center px-4 py-2 text-gray-700 hover:bg-gray-100">
-			  <LuLibrary size={20} />
-              <span class="ml-3">Library</span>
-            </a>
-          </li> -->
-          <!-- <li>
-            <a href="#" class="flex items-center px-4 py-2 text-gray-700 hover:bg-gray-100">
-			  <MdFavorite size={18} />
-              <span class="ml-3">Liked Songs</span>
-            </a>
-          </li>
-          <li>
-            <a href="#" class="flex items-center px-4 py-2 text-gray-700 hover:bg-gray-100">
-			  <IoMdSettings size={20} />
-              <span class="ml-3">Settings</span>
-            </a>
-          </li> -->
         </ul>
       </nav>
-    
     </aside>
 
-    <main class="flex-1 ml-64  bg-neutral-100">
+    <main class="flex-1 ml-64 bg-neutral-100 dark:bg-black">
       <NextUIProvider>
-		<ViewTransitions  />
-
+        <ViewTransitions />
         <slot />
       </NextUIProvider>
     </main>
-
-
   </body>
 </html>

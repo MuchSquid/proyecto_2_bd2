@@ -52,6 +52,8 @@ const SpotifySearch2: React.FC = () => {
   const [selectedTrack, setSelectedTrack] = useState<Track | null>(null);
   const [isModalVisible, setIsModalVisible] = useState(false);
   const [boxShadowColor, setBoxShadowColor] = useState<string>("rgba(0,0,0,0)");
+  const [backgroundColor, setBackgroundColor] = useState<string>("rgba(0,0,0,0)");
+  const [textColor, setTextColor] = useState<string>("black"); 
   const imgRef = useRef<HTMLImageElement>(null);
   const audioRef = useRef<HTMLAudioElement>(null);
 
@@ -77,11 +79,29 @@ const SpotifySearch2: React.FC = () => {
   const handleRowClick = (track: Track) => {
     setSelectedTrack(track);
     setIsModalVisible(true);
+    
+    if (track?.album.images[0]) {
+      const img = new Image();
+      img.crossOrigin = "anonymous";
+      img.src = track.album.images[0].url;
+      img.onload = () => {
+        const colorThief = new ColorThief();
+        const color = colorThief.getColor(img);
+        const [r, g, b] = color;
+  
+        setBackgroundColor(`rgba(${r}, ${g}, ${b}, 1)`);
+        setTextColor(isColorDark(r, g, b) ? "white" : "black");
+      };
+    }
   };
 
   const closeModal = () => {
     setIsModalVisible(false);
     setSelectedTrack(null);
+  };
+  const isColorDark = (r: number, g: number, b: number) => {
+    const brightness = (r * 299 + g * 587 + b * 114) / 1000;
+    return brightness < 128;
   };
 
   useEffect(() => {
@@ -164,10 +184,10 @@ const SpotifySearch2: React.FC = () => {
                     ref={imgRef}
                     style={{ boxShadow: `0px 0px 50px ${boxShadowColor}` }} 
                   />
-                  <p className="mt-10 mx-4 text-xl">{selectedTrack.name}</p>
-                  <p className="text-md mx-4 ext-opacity-70">{selectedTrack.artists[0].name}</p>
+                  <p className="mt-10 mx-2 text-xl">{selectedTrack.name}</p>
+                  <p className="text-md mx-2 ext-opacity-70">{selectedTrack.artists[0].name}</p>
                   {selectedTrack.preview_url && (
-                  <AudioPlayer src={selectedTrack.preview_url} />
+                  <AudioPlayer src={selectedTrack.preview_url} textColor={''} backgroundColor={''}  />
                   )}
                 </div>
               </div>
