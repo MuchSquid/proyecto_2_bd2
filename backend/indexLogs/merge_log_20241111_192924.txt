@@ -1,0 +1,7 @@
+[2024-11-11 19:29:24]  Se incia merge
+[2024-11-11 19:29:24] Procesando bloque: BlocksTemporales/block_0.json
+[2024-11-11 19:29:24]  Términos en bloque: 1000
+[2024-11-11 19:29:24] Procesando bloque: BlocksTemporales/block_1.json
+[2024-11-11 19:29:24]  Términos en bloque: 842
+[2024-11-11 19:29:24] Merge completo
+[2024-11-11 19:29:24] Términos totales en índice final: 1626

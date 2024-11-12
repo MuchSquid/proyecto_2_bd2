@@ -1,0 +1,4 @@
+[2024-11-11 19:29:24] 15 segundos pra eliminar BlocksTemporales...
+[2024-11-11 19:29:39] Archivo eliminado: block_1.json
+[2024-11-11 19:29:39] Archivo eliminado: block_0.json
+[2024-11-11 19:29:39] Carpeta temporal eliminado

@@ -1,0 +1,11 @@
+[2024-11-11 19:29:23] Iniciando proceso SPIMI
+[2024-11-11 19:29:23] Número total de documentos: 27
+[2024-11-11 19:29:24] Bloque 0 creado:
+[2024-11-11 19:29:24] - Ubicación: BlocksTemporales/block_0.json
+[2024-11-11 19:29:24] - Tamaño: 20.08 KB
+[2024-11-11 19:29:24] - Términos: 1000
+[2024-11-11 19:29:24] Bloque final 1 creado:
+[2024-11-11 19:29:24] - Ubicación: BlocksTemporales/block_1.json
+[2024-11-11 19:29:24] - Tamaño: 21.83 KB
+[2024-11-11 19:29:24] - Términos: 842
+[2024-11-11 19:29:24] SPIMI completado. Total de bloques: 2

@@ -226,5 +226,5 @@ def buscar_pista_en_csv(index, archivo_csv):
         reader = csv.DictReader(file)
         for i, row in enumerate(reader):
             if i == index:  
-                return {'track_id': row['track_id'], 'track_name': row['track_name']}
+                return {'track_id': row['track_id'], 'track_name': row['track_name'], 'lyrics': row['lyrics']}
     return None

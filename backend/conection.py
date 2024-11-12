@@ -56,49 +56,111 @@ def get_time(
     else:
         raise HTTPException(status_code=500, detail="No se pudieron obtener los tiempos de planificación y ejecución.")
 
-
-@app.get("/get_data")
-def get_data(
+@app.get("/get_time_local")
+def get_time_local(
     q: str = Query(..., min_length=1, max_length=1000),
     k: int = Query(10, gt=0, lt=100000000000000),
 ): 
-    # Ejecutar la consulta
-    result = ejecutar_consulta(SqlData(q, k), select=True)
+    select_query = f" SELECT track_name, track_artist, lyrics FROM spotifyData WHERE lyrics liketo '{q}'"
+    parser = SQLParser(select_query)
+    filename = "tfidf_index.json"
+    archivo_csv = 'spotifyData.csv'
     
-    # Verificar si el resultado es un DataFrame y convertirlo a JSON
-    if isinstance(result, pd.DataFrame):
-        return result.to_dict(orient="records")
+    results, execution_time = explainAnalyze(select_query, filename, k)
     
-    # Si el resultado es una lista de tuplas, convertir a lista de diccionarios
-    elif isinstance(result, list):
-        columns = ["track_id", "track_name", "similitud", "lyrics"]
-        return [dict(zip(columns, row)) for row in result]
+    if results:
+        enhanced_results = []
+
+        for doc_id, score in results:
+            pista = buscar_pista_en_csv(int(doc_id), archivo_csv)
+            
+            if pista:
+                pista_data = {
+                    "track_id": pista['track_id'],
+                    "track_name": pista['track_name'],
+                    "lyrics": pista['lyrics'],
+                    "similitud": score,
+                }
+                enhanced_results.append(pista_data)
+            else:
+                enhanced_results.append({
+                    "track_id": doc_id,
+                    "error": "No se encontró ninguna pista con el ID especificado."
+                })
+        
+        
+        return { "planning_time_ms": execution_time,
+            "execution_time_ms": 0  ,
+            "Query" : {select_query}}
+    else:
+        raise HTTPException(status_code=404, detail="No se encontraron resultados para la consulta.")
+
+@app.get("/get_combined_data")
+def ge_data(
+    q: str = Query(..., min_length=1, max_length=1000),
+    k: int = Query(10, gt=0, lt=100000000000000),
+): 
     
+    time_result = ejecutar_consulta(SqlTime(q, k), select=True)
+    if "planning_time_ms" not in time_result or "execution_time_ms" not in time_result:
+        raise HTTPException(status_code=500, detail="No se pudieron obtener los tiempos de planificación y ejecución.")
+    
+    
+    data_result = ejecutar_consulta(SqlData(q, k), select=True)
+    if isinstance(data_result, pd.DataFrame):
+        data = data_result.to_dict(orient="records")
+    elif isinstance(data_result, list):
+        columns = ["track_id", "track_name", "lyrics", "similitud"]
+        data = [dict(zip(columns, row)) for row in data_result]
     else:
         raise HTTPException(status_code=500, detail="No se pudo obtener la data en el formato esperado.")
-    
-@app.get("/get_data")
+
+    return {
+        "planning_time_ms": time_result["planning_time_ms"],
+        "execution_time_ms": time_result["execution_time_ms"],
+        "query": SqlData(q, k),
+        "data": data
+    }
+
+
+@app.get("/get_data_local")    
 def get_data_local(
     q: str = Query(..., min_length=1, max_length=1000),
     k: int = Query(10, gt=0, lt=100000000000000),
 ): 
-    
-    select_query = "SELECT track_name, track_artist FROM spotifyData WHERE lyrics liketo 'love'"
+    select_query = f" SELECT track_name, track_artist, lyrics FROM spotifyData WHERE lyrics liketo '{q}'"
     parser = SQLParser(select_query)
-    top_k = 10  
+    filename = "tfidf_index.json"
+    archivo_csv = 'spotifyData.csv'
+    
+    results, execution_time = explainAnalyze(select_query, filename, k)
+    
+    if results:
+        enhanced_results = []
 
-    results, execution_time = explainAnalyze(select_query, 'tfidf_index.json', top_k)
-    
-    result = ejecutar_consulta(SqlData(q, k), select=True)
-    
-    # Verificar si el resultado es un DataFrame y convertirlo a JSON
-    if isinstance(result, pd.DataFrame):
-        return result.to_dict(orient="records")
-    
-    # Si el resultado es una lista de tuplas, convertir a lista de diccionarios
-    elif isinstance(result, list):
-        columns = ["track_id", "track_name", "similitud", "lyrics"]
-        return [dict(zip(columns, row)) for row in result]
-    
+        for doc_id, score in results:
+            pista = buscar_pista_en_csv(int(doc_id), archivo_csv)
+            
+            if pista:
+                pista_data = {
+                    "track_id": pista['track_id'],
+                    "track_name": pista['track_name'],
+                    "lyrics": pista['lyrics'],
+                    "similitud": score,
+                }
+                enhanced_results.append(pista_data)
+            else:
+                enhanced_results.append({
+                    "track_id": doc_id,
+                    "error": "No se encontró ninguna pista con el ID especificado."
+                })
+        
+        
+        return { "planning_time_ms": execution_time,
+            "execution_time_ms": 0,
+            "query": select_query,
+            "data": enhanced_results
+            }
+    # , {       "planning_time_ms": execution_time,}
     else:
-        raise HTTPException(status_code=500, detail="No se pudo obtener la data en el formato esperado.")
+        raise HTTPException(status_code=404, detail="No se encontraron resultados para la consulta.")

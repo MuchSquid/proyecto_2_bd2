@@ -1,8 +1,7 @@
 import re
 from metodo import *
 import json
-import nltk
-nltk.download('punkt_tab')
+
 
 class SQLParser:
     def __init__(self, query):
@@ -112,44 +111,47 @@ def save_index_to_json(tf_idf_index, filename="tfidf_index.json"):
     with open(filename, 'w') as f:
         json.dump(index_data, f, indent=4)
     return filename
-'''
-create_query = 'CREATE TABLE spotifyData FROM FILE "dbprueba.csv"'
-parser = SQLParser(create_query)
-if parser.parse_query() == "CREATE_TABLE":
-    parsed_create = parser.get_parsed_query()
-    create_table_from_file(parsed_create['table'], parsed_create['file_path'])
-    
-documents = [track['text'] for track in database['spotifyData']]
 
-inverted_index, documents = build_inverted_index_and_tfidf(documents)
 
-tf_idf_index = calculate_tf_idf(documents, inverted_index)
+#! Create Table
+# create_query = 'CREATE TABLE spotifyData FROM FILE "spotifyData.csv"'
+# parser = SQLParser(create_query)
+# if parser.parse_query() == "CREATE_TABLE":
+#     parsed_create = parser.get_parsed_query()
+#     create_table_from_file(parsed_create['table'], parsed_create['file_path'])
 
-filename = save_index_to_json(tf_idf_index)
+# documents = [track['text'] for track in database['spotifyData']]
 
-'''
-select_query = " SELECT track_name, track_artist FROM spotifyData WHERE lyrics liketo 'love'"
+# inverted_index, documents = build_inverted_index_and_tfidf(documents)
+
+# tf_idf_index = calculate_tf_idf(documents, inverted_index)
+
+# filename = save_index_to_json(tf_idf_index)
+
+#! Call an option
+
+select_query = " SELECT track_name, track_artist, lyrics FROM spotifyData WHERE lyrics liketo 'Amor'"
 # select_query = "SELECT track_name, track_artist FROM spotifyData WHERE track_name liketo ' it love'"
 parser = SQLParser(select_query)
-top_k = 5
+top_k = 1000000
 filename = "tfidf_index.json"
 #explain analyze
 results, execution_time = explainAnalyze(select_query, filename, top_k)
 
 if results:
-    print("Resultados de la consulta:")
-    print(results)
-    print(f"Tiempo de ejecución: {execution_time} segundos")
+    # print("Resultados de la consulta:")
+    # # archivo_csv = 'dbprueba.csv'
+    # archivo_csv = 'spotifyData.csv'
+    # for doc_id, score in results:
+    #     pista = buscar_pista_en_csv(int(doc_id), archivo_csv)
 
-    # archivo_csv = 'dbprueba.csv'
-    archivo_csv = 'spotifyData.csv'
-    for doc_id, _ in results:
-        pista = buscar_pista_en_csv(int(doc_id), archivo_csv)
+    #     if pista:
+    #         # print(f"Detalles de la pista encontrada para el ID {doc_id}:")
+    #         print(f"Track ID: {pista['track_id']}, Track Name: {pista['track_name']}, Similaridad: {score}", )
+    #     else:
+    #         print(f"No se encontró ninguna pista con el ID {doc_id}.")
 
-        if pista:
-            print(f"Detalles de la pista encontrada para el ID {doc_id}:")
-            print(f"Track ID: {pista['track_id']}, Track Name: {pista['track_name']}")
-        else:
-            print(f"No se encontró ninguna pista con el ID {doc_id}.")
+    print(f"\nTiempo de ejecución: {execution_time:.2f} segundos")
+    print(top_k)
 
-
+ 

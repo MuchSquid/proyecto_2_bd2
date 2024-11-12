@@ -1,0 +1,1959 @@
+[2024-11-11 19:31:07]  Se incia merge
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_0.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_1.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_2.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_3.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_4.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_5.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_6.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_7.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_8.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_9.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_10.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_11.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_12.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_13.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_14.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_15.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_16.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_17.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_18.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_19.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_20.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_21.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_22.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_23.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_24.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_25.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_26.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_27.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_28.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_29.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_30.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_31.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_32.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_33.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_34.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_35.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_36.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_37.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_38.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_39.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_40.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_41.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_42.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_43.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_44.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_45.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_46.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_47.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_48.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_49.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_50.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_51.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_52.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_53.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_54.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_55.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_56.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_57.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_58.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_59.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_60.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_61.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_62.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_63.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_64.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_65.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_66.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_67.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_68.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_69.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_70.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_71.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_72.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_73.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_74.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_75.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_76.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_77.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_78.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_79.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_80.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_81.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_82.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_83.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_84.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_85.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_86.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_87.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_88.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_89.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_90.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_91.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_92.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_93.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_94.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_95.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_96.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_97.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_98.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_99.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_100.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_101.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_102.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_103.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_104.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_105.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_106.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_107.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_108.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_109.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_110.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_111.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_112.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_113.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_114.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_115.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_116.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_117.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_118.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_119.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_120.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_121.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_122.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_123.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_124.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_125.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_126.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_127.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_128.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_129.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_130.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_131.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_132.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_133.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_134.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_135.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_136.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_137.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_138.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_139.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_140.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_141.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_142.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_143.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_144.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_145.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_146.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_147.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_148.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_149.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_150.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_151.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_152.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_153.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_154.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_155.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_156.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_157.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_158.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_159.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_160.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_161.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_162.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_163.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_164.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_165.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_166.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_167.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_168.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_169.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_170.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_171.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_172.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_173.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_174.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_175.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_176.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_177.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_178.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_179.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_180.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_181.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_182.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_183.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_184.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_185.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_186.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_187.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_188.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_189.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_190.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_191.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_192.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_193.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_194.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_195.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_196.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_197.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_198.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_199.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_200.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_201.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_202.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_203.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_204.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_205.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_206.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_207.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_208.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_209.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_210.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_211.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_212.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:07] Procesando bloque: BlocksTemporales/block_213.json
+[2024-11-11 19:31:07]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_214.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_215.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_216.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_217.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_218.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_219.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_220.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_221.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_222.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_223.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_224.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_225.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_226.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_227.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_228.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_229.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_230.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_231.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_232.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_233.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_234.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_235.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_236.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_237.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_238.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_239.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_240.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_241.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_242.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_243.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_244.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_245.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_246.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_247.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_248.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_249.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_250.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_251.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_252.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_253.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_254.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_255.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_256.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_257.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_258.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_259.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_260.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_261.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_262.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_263.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_264.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_265.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_266.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_267.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_268.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_269.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_270.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_271.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_272.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_273.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_274.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_275.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_276.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_277.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_278.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_279.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_280.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_281.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_282.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_283.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_284.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_285.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_286.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_287.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_288.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_289.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_290.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_291.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_292.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_293.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_294.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_295.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_296.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_297.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_298.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_299.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_300.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_301.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_302.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_303.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_304.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_305.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_306.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_307.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_308.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_309.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_310.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_311.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_312.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_313.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_314.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_315.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_316.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_317.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_318.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_319.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_320.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_321.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_322.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_323.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_324.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_325.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_326.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_327.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_328.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_329.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_330.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_331.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_332.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_333.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_334.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_335.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_336.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_337.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_338.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_339.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_340.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_341.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_342.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_343.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_344.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_345.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_346.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_347.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_348.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_349.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_350.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_351.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_352.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_353.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_354.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_355.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_356.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_357.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_358.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_359.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_360.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_361.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_362.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_363.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_364.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_365.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_366.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_367.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_368.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_369.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_370.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_371.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_372.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_373.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_374.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_375.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_376.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_377.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_378.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_379.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_380.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_381.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_382.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_383.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_384.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_385.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_386.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_387.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_388.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_389.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_390.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_391.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_392.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_393.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_394.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_395.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_396.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_397.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_398.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_399.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_400.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_401.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_402.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_403.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_404.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_405.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_406.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_407.json
+[2024-11-11 19:31:08]  Términos en bloque: 1000
+[2024-11-11 19:31:08] Procesando bloque: BlocksTemporales/block_408.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_409.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_410.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_411.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_412.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_413.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_414.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_415.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_416.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_417.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_418.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_419.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_420.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_421.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_422.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_423.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_424.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_425.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_426.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_427.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_428.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_429.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_430.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_431.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_432.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_433.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_434.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_435.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_436.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_437.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_438.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_439.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_440.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_441.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_442.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_443.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_444.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_445.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_446.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_447.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_448.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_449.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_450.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_451.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_452.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_453.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_454.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_455.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_456.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_457.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_458.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_459.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_460.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_461.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_462.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_463.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_464.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_465.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_466.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_467.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_468.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_469.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_470.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_471.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_472.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_473.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_474.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_475.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_476.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_477.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_478.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_479.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_480.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_481.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_482.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_483.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_484.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_485.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_486.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_487.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_488.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_489.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_490.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_491.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_492.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_493.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_494.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_495.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_496.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_497.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_498.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_499.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_500.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_501.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_502.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_503.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_504.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_505.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_506.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_507.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_508.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_509.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_510.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_511.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_512.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_513.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_514.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_515.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_516.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_517.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_518.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_519.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_520.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_521.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_522.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_523.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_524.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_525.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_526.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_527.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_528.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_529.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_530.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_531.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_532.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_533.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_534.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_535.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_536.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_537.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_538.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_539.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_540.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_541.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_542.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_543.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_544.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_545.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_546.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_547.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_548.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_549.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_550.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_551.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_552.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_553.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_554.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_555.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_556.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_557.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_558.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_559.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_560.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_561.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_562.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_563.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_564.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_565.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_566.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_567.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_568.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_569.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_570.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_571.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_572.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_573.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_574.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_575.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_576.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_577.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_578.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_579.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_580.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_581.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_582.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_583.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_584.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_585.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_586.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_587.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_588.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_589.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_590.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_591.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_592.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_593.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_594.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_595.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_596.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_597.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_598.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_599.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_600.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_601.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_602.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_603.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_604.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_605.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_606.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_607.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_608.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_609.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_610.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_611.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_612.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_613.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_614.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_615.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_616.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_617.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_618.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_619.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_620.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_621.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_622.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_623.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_624.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_625.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_626.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_627.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_628.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_629.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_630.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_631.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_632.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_633.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_634.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_635.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_636.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_637.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_638.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_639.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_640.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_641.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_642.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_643.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_644.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_645.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_646.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_647.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_648.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_649.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_650.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_651.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_652.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_653.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_654.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_655.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_656.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_657.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_658.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_659.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_660.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_661.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_662.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_663.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_664.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_665.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_666.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_667.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_668.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_669.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_670.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_671.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_672.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_673.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_674.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_675.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_676.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_677.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_678.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_679.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_680.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_681.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_682.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_683.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_684.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_685.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_686.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_687.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_688.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_689.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_690.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_691.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_692.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_693.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_694.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_695.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_696.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_697.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_698.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_699.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_700.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_701.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_702.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_703.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_704.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_705.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_706.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_707.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_708.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_709.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_710.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_711.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_712.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_713.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_714.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_715.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_716.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_717.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_718.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_719.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_720.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_721.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_722.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_723.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_724.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_725.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_726.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_727.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_728.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_729.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_730.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_731.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_732.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_733.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_734.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_735.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_736.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_737.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_738.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_739.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_740.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_741.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_742.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_743.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_744.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_745.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_746.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_747.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_748.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_749.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_750.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_751.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_752.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_753.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_754.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_755.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_756.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_757.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_758.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_759.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_760.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_761.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_762.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_763.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_764.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_765.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_766.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_767.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_768.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_769.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_770.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_771.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_772.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_773.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_774.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_775.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_776.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_777.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_778.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_779.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_780.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_781.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_782.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_783.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_784.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_785.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_786.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_787.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_788.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_789.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_790.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_791.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_792.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_793.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_794.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_795.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_796.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_797.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_798.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_799.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_800.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_801.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_802.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_803.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_804.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_805.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_806.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_807.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_808.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_809.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_810.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_811.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_812.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_813.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_814.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_815.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_816.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_817.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_818.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_819.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_820.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_821.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_822.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_823.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_824.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_825.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_826.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_827.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_828.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_829.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_830.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_831.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_832.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_833.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_834.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_835.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_836.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_837.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_838.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_839.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_840.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_841.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_842.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_843.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_844.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_845.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_846.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_847.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_848.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_849.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_850.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_851.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_852.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_853.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_854.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_855.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_856.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_857.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_858.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_859.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_860.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_861.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_862.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_863.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_864.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_865.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_866.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_867.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_868.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_869.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_870.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_871.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_872.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_873.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_874.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_875.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_876.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_877.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_878.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_879.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_880.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_881.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_882.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_883.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_884.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_885.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_886.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_887.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_888.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_889.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_890.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_891.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_892.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_893.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_894.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_895.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_896.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_897.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_898.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_899.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_900.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_901.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_902.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_903.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_904.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_905.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_906.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_907.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_908.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_909.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_910.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_911.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_912.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_913.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_914.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_915.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_916.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_917.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_918.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_919.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_920.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_921.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_922.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_923.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_924.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_925.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_926.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_927.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_928.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_929.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_930.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_931.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_932.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_933.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_934.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_935.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_936.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_937.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_938.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_939.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_940.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_941.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_942.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_943.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_944.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_945.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_946.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_947.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_948.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_949.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_950.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_951.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_952.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_953.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_954.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_955.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_956.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_957.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_958.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_959.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_960.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_961.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_962.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_963.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_964.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_965.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_966.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_967.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_968.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_969.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_970.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_971.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_972.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_973.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_974.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_975.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_976.json
+[2024-11-11 19:31:09]  Términos en bloque: 1000
+[2024-11-11 19:31:09] Procesando bloque: BlocksTemporales/block_977.json
+[2024-11-11 19:31:09]  Términos en bloque: 781
+[2024-11-11 19:31:09] Merge completo
+[2024-11-11 19:31:09] Términos totales en índice final: 92837
