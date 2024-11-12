@@ -71,12 +71,21 @@ def search(query, filename, top_k=5):
     top_docs = sorted(similarities.items(), key=lambda item: item[1], reverse=True)[:top_k]
     return top_docs
 
+def load_table_names(filename="tablename.txt"):
+    # Cargar los nombres de tablas desde el archivo tablename.txt
+    with open(filename, mode='r', encoding='utf-8') as table_file:
+        table_names = {line.strip() for line in table_file}  # Usar un conjunto para búsqueda rápida
+    return table_names
+
 def execute_query(parsed_query, filename, top_k):
     fields = parsed_query['fields']
     condition_value = parsed_query['condition_value']
     table_name = parsed_query['table']
+
+    # Cargar los nombres de tablas desde el archivo
+    table_names = load_table_names()
     
-    if table_name not in database:
+    if table_name not in table_names:
         raise ValueError(f"Tabla '{table_name}' no encontrada.")
 
     top_docs = search(condition_value, filename, top_k)
@@ -103,8 +112,8 @@ def save_index_to_json(tf_idf_index, filename="tfidf_index.json"):
     with open(filename, 'w') as f:
         json.dump(index_data, f, indent=4)
     return filename
-
-create_query = 'CREATE TABLE spotifyData FROM FILE "spotifyData.csv"'
+'''
+create_query = 'CREATE TABLE spotifyData FROM FILE "dbprueba.csv"'
 parser = SQLParser(create_query)
 if parser.parse_query() == "CREATE_TABLE":
     parsed_create = parser.get_parsed_query()
@@ -118,11 +127,12 @@ tf_idf_index = calculate_tf_idf(documents, inverted_index)
 
 filename = save_index_to_json(tf_idf_index)
 
+'''
 select_query = " SELECT track_name, track_artist FROM spotifyData WHERE lyrics liketo 'love'"
 # select_query = "SELECT track_name, track_artist FROM spotifyData WHERE track_name liketo ' it love'"
 parser = SQLParser(select_query)
-top_k = 10  
-
+top_k = 5
+filename = "tfidf_index.json"
 #explain analyze
 results, execution_time = explainAnalyze(select_query, filename, top_k)
 

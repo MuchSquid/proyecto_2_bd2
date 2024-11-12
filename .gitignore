@@ -1,0 +1,30 @@
+# Ignorar el entorno virtual
+env/
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar notebooks temporales
+*.ipynb_checkpoints/
+
+# Ignorar archivos de configuración de base de datos
+*.sqlite3
+*.db
+
+# Ignorar archivos de salida de Jupyter
+*.out
+*.log
+
+# Ignorar archivos CSV que no deseas subir
+*.csv
+
+# Ignorar archivos y configuraciones de entorno específico
+*.env
+.DS_Store
+
+# Ignorar dependencias de Node (si tienes una carpeta 'node_modules' en frontend)
+frontend/node_modules/
+
+# Ignorar archivos y carpetas específicos de Visual Studio Code
+.vscode/

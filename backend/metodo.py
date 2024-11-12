@@ -26,6 +26,10 @@ def create_table_from_file(table_name, file_path):
             row['text'] = f"{row['track_name']} {row['track_artist']} {row['lyrics']}"
             records.append(row)
         database[table_name] = records
+    # Guardar el nombre de la tabla en un archivo
+    with open("tablename.txt", mode='a', encoding='utf-8') as table_file:
+        table_file.write(table_name + '\n')
+        
     print(f"Tabla '{table_name}' creada con datos de '{file_path}'")
 
 # Preprocesamiento de texto
