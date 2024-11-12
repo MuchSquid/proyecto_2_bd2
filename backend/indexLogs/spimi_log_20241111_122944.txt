@@ -1,0 +1,3915 @@
+[2024-11-11 12:29:44] Iniciando proceso SPIMI
+[2024-11-11 12:29:44] Número total de documentos: 16592
+[2024-11-11 12:29:45] Bloque 0 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_0.json
+[2024-11-11 12:29:45] - Tamaño: 18.69 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 1 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_1.json
+[2024-11-11 12:29:45] - Tamaño: 25.29 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 2 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_2.json
+[2024-11-11 12:29:45] - Tamaño: 23.37 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 3 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_3.json
+[2024-11-11 12:29:45] - Tamaño: 22.41 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 4 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_4.json
+[2024-11-11 12:29:45] - Tamaño: 23.68 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 5 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_5.json
+[2024-11-11 12:29:45] - Tamaño: 23.65 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 6 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_6.json
+[2024-11-11 12:29:45] - Tamaño: 33.76 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 7 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_7.json
+[2024-11-11 12:29:45] - Tamaño: 27.66 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 8 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_8.json
+[2024-11-11 12:29:45] - Tamaño: 24.84 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 9 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_9.json
+[2024-11-11 12:29:45] - Tamaño: 33.38 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 10 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_10.json
+[2024-11-11 12:29:45] - Tamaño: 25.10 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 11 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_11.json
+[2024-11-11 12:29:45] - Tamaño: 27.66 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 12 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_12.json
+[2024-11-11 12:29:45] - Tamaño: 24.93 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 13 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_13.json
+[2024-11-11 12:29:45] - Tamaño: 29.88 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 14 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_14.json
+[2024-11-11 12:29:45] - Tamaño: 28.36 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 15 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_15.json
+[2024-11-11 12:29:45] - Tamaño: 25.03 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 16 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_16.json
+[2024-11-11 12:29:45] - Tamaño: 32.24 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 17 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_17.json
+[2024-11-11 12:29:45] - Tamaño: 31.04 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 18 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_18.json
+[2024-11-11 12:29:45] - Tamaño: 31.64 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 19 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_19.json
+[2024-11-11 12:29:45] - Tamaño: 32.36 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:45] Bloque 20 creado:
+[2024-11-11 12:29:45] - Ubicación: BlocksTemporales/block_20.json
+[2024-11-11 12:29:45] - Tamaño: 26.01 KB
+[2024-11-11 12:29:45] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 21 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_21.json
+[2024-11-11 12:29:46] - Tamaño: 27.55 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 22 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_22.json
+[2024-11-11 12:29:46] - Tamaño: 26.05 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 23 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_23.json
+[2024-11-11 12:29:46] - Tamaño: 31.28 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 24 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_24.json
+[2024-11-11 12:29:46] - Tamaño: 29.38 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 25 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_25.json
+[2024-11-11 12:29:46] - Tamaño: 25.63 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 26 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_26.json
+[2024-11-11 12:29:46] - Tamaño: 29.60 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 27 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_27.json
+[2024-11-11 12:29:46] - Tamaño: 30.86 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 28 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_28.json
+[2024-11-11 12:29:46] - Tamaño: 27.15 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 29 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_29.json
+[2024-11-11 12:29:46] - Tamaño: 22.97 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 30 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_30.json
+[2024-11-11 12:29:46] - Tamaño: 30.34 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 31 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_31.json
+[2024-11-11 12:29:46] - Tamaño: 34.60 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 32 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_32.json
+[2024-11-11 12:29:46] - Tamaño: 26.19 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 33 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_33.json
+[2024-11-11 12:29:46] - Tamaño: 28.27 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 34 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_34.json
+[2024-11-11 12:29:46] - Tamaño: 25.85 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 35 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_35.json
+[2024-11-11 12:29:46] - Tamaño: 33.53 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 36 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_36.json
+[2024-11-11 12:29:46] - Tamaño: 29.18 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 37 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_37.json
+[2024-11-11 12:29:46] - Tamaño: 28.76 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 38 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_38.json
+[2024-11-11 12:29:46] - Tamaño: 23.02 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 39 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_39.json
+[2024-11-11 12:29:46] - Tamaño: 25.52 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 40 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_40.json
+[2024-11-11 12:29:46] - Tamaño: 24.49 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 41 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_41.json
+[2024-11-11 12:29:46] - Tamaño: 25.57 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 42 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_42.json
+[2024-11-11 12:29:46] - Tamaño: 25.98 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 43 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_43.json
+[2024-11-11 12:29:46] - Tamaño: 25.61 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 44 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_44.json
+[2024-11-11 12:29:46] - Tamaño: 29.55 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 45 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_45.json
+[2024-11-11 12:29:46] - Tamaño: 33.04 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 46 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_46.json
+[2024-11-11 12:29:46] - Tamaño: 27.27 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 47 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_47.json
+[2024-11-11 12:29:46] - Tamaño: 24.70 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 48 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_48.json
+[2024-11-11 12:29:46] - Tamaño: 34.96 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 49 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_49.json
+[2024-11-11 12:29:46] - Tamaño: 30.42 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 50 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_50.json
+[2024-11-11 12:29:46] - Tamaño: 25.81 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 51 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_51.json
+[2024-11-11 12:29:46] - Tamaño: 28.31 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 52 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_52.json
+[2024-11-11 12:29:46] - Tamaño: 25.80 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 53 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_53.json
+[2024-11-11 12:29:46] - Tamaño: 26.14 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 54 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_54.json
+[2024-11-11 12:29:46] - Tamaño: 31.19 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 55 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_55.json
+[2024-11-11 12:29:46] - Tamaño: 35.81 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 56 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_56.json
+[2024-11-11 12:29:46] - Tamaño: 32.38 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 57 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_57.json
+[2024-11-11 12:29:46] - Tamaño: 30.07 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 58 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_58.json
+[2024-11-11 12:29:46] - Tamaño: 27.60 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:46] Bloque 59 creado:
+[2024-11-11 12:29:46] - Ubicación: BlocksTemporales/block_59.json
+[2024-11-11 12:29:46] - Tamaño: 28.21 KB
+[2024-11-11 12:29:46] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 60 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_60.json
+[2024-11-11 12:29:47] - Tamaño: 32.36 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 61 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_61.json
+[2024-11-11 12:29:47] - Tamaño: 29.58 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 62 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_62.json
+[2024-11-11 12:29:47] - Tamaño: 32.11 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 63 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_63.json
+[2024-11-11 12:29:47] - Tamaño: 29.61 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 64 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_64.json
+[2024-11-11 12:29:47] - Tamaño: 32.38 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 65 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_65.json
+[2024-11-11 12:29:47] - Tamaño: 28.98 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 66 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_66.json
+[2024-11-11 12:29:47] - Tamaño: 31.40 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 67 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_67.json
+[2024-11-11 12:29:47] - Tamaño: 27.65 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 68 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_68.json
+[2024-11-11 12:29:47] - Tamaño: 26.11 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 69 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_69.json
+[2024-11-11 12:29:47] - Tamaño: 36.15 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 70 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_70.json
+[2024-11-11 12:29:47] - Tamaño: 30.94 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 71 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_71.json
+[2024-11-11 12:29:47] - Tamaño: 28.27 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 72 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_72.json
+[2024-11-11 12:29:47] - Tamaño: 26.69 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 73 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_73.json
+[2024-11-11 12:29:47] - Tamaño: 30.83 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 74 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_74.json
+[2024-11-11 12:29:47] - Tamaño: 33.11 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 75 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_75.json
+[2024-11-11 12:29:47] - Tamaño: 27.01 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 76 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_76.json
+[2024-11-11 12:29:47] - Tamaño: 30.43 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 77 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_77.json
+[2024-11-11 12:29:47] - Tamaño: 33.09 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 78 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_78.json
+[2024-11-11 12:29:47] - Tamaño: 31.67 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 79 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_79.json
+[2024-11-11 12:29:47] - Tamaño: 43.95 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 80 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_80.json
+[2024-11-11 12:29:47] - Tamaño: 41.08 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 81 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_81.json
+[2024-11-11 12:29:47] - Tamaño: 29.98 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 82 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_82.json
+[2024-11-11 12:29:47] - Tamaño: 27.82 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 83 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_83.json
+[2024-11-11 12:29:47] - Tamaño: 34.92 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 84 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_84.json
+[2024-11-11 12:29:47] - Tamaño: 26.39 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 85 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_85.json
+[2024-11-11 12:29:47] - Tamaño: 27.67 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 86 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_86.json
+[2024-11-11 12:29:47] - Tamaño: 38.80 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 87 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_87.json
+[2024-11-11 12:29:47] - Tamaño: 40.98 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 88 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_88.json
+[2024-11-11 12:29:47] - Tamaño: 37.26 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 89 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_89.json
+[2024-11-11 12:29:47] - Tamaño: 31.26 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 90 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_90.json
+[2024-11-11 12:29:47] - Tamaño: 32.51 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 91 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_91.json
+[2024-11-11 12:29:47] - Tamaño: 34.70 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 92 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_92.json
+[2024-11-11 12:29:47] - Tamaño: 31.15 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 93 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_93.json
+[2024-11-11 12:29:47] - Tamaño: 32.49 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 94 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_94.json
+[2024-11-11 12:29:47] - Tamaño: 29.67 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 95 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_95.json
+[2024-11-11 12:29:47] - Tamaño: 28.84 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 96 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_96.json
+[2024-11-11 12:29:47] - Tamaño: 26.88 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 97 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_97.json
+[2024-11-11 12:29:47] - Tamaño: 40.62 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 98 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_98.json
+[2024-11-11 12:29:47] - Tamaño: 29.95 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:47] Bloque 99 creado:
+[2024-11-11 12:29:47] - Ubicación: BlocksTemporales/block_99.json
+[2024-11-11 12:29:47] - Tamaño: 30.35 KB
+[2024-11-11 12:29:47] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 100 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_100.json
+[2024-11-11 12:29:48] - Tamaño: 38.11 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 101 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_101.json
+[2024-11-11 12:29:48] - Tamaño: 39.33 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 102 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_102.json
+[2024-11-11 12:29:48] - Tamaño: 34.49 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 103 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_103.json
+[2024-11-11 12:29:48] - Tamaño: 28.50 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 104 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_104.json
+[2024-11-11 12:29:48] - Tamaño: 27.87 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 105 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_105.json
+[2024-11-11 12:29:48] - Tamaño: 25.99 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 106 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_106.json
+[2024-11-11 12:29:48] - Tamaño: 28.24 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 107 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_107.json
+[2024-11-11 12:29:48] - Tamaño: 31.64 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 108 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_108.json
+[2024-11-11 12:29:48] - Tamaño: 29.97 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 109 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_109.json
+[2024-11-11 12:29:48] - Tamaño: 32.54 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 110 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_110.json
+[2024-11-11 12:29:48] - Tamaño: 34.52 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 111 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_111.json
+[2024-11-11 12:29:48] - Tamaño: 30.13 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 112 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_112.json
+[2024-11-11 12:29:48] - Tamaño: 31.45 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 113 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_113.json
+[2024-11-11 12:29:48] - Tamaño: 32.46 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 114 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_114.json
+[2024-11-11 12:29:48] - Tamaño: 30.07 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 115 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_115.json
+[2024-11-11 12:29:48] - Tamaño: 31.26 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 116 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_116.json
+[2024-11-11 12:29:48] - Tamaño: 31.19 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 117 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_117.json
+[2024-11-11 12:29:48] - Tamaño: 28.61 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 118 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_118.json
+[2024-11-11 12:29:48] - Tamaño: 24.76 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 119 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_119.json
+[2024-11-11 12:29:48] - Tamaño: 30.09 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 120 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_120.json
+[2024-11-11 12:29:48] - Tamaño: 25.67 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 121 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_121.json
+[2024-11-11 12:29:48] - Tamaño: 29.96 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 122 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_122.json
+[2024-11-11 12:29:48] - Tamaño: 30.82 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 123 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_123.json
+[2024-11-11 12:29:48] - Tamaño: 33.67 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 124 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_124.json
+[2024-11-11 12:29:48] - Tamaño: 26.76 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 125 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_125.json
+[2024-11-11 12:29:48] - Tamaño: 31.48 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 126 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_126.json
+[2024-11-11 12:29:48] - Tamaño: 31.24 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 127 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_127.json
+[2024-11-11 12:29:48] - Tamaño: 28.95 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 128 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_128.json
+[2024-11-11 12:29:48] - Tamaño: 28.99 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 129 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_129.json
+[2024-11-11 12:29:48] - Tamaño: 28.60 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 130 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_130.json
+[2024-11-11 12:29:48] - Tamaño: 30.79 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 131 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_131.json
+[2024-11-11 12:29:48] - Tamaño: 29.12 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 132 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_132.json
+[2024-11-11 12:29:48] - Tamaño: 34.22 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 133 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_133.json
+[2024-11-11 12:29:48] - Tamaño: 29.62 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 134 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_134.json
+[2024-11-11 12:29:48] - Tamaño: 25.21 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 135 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_135.json
+[2024-11-11 12:29:48] - Tamaño: 22.60 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 136 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_136.json
+[2024-11-11 12:29:48] - Tamaño: 27.57 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 137 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_137.json
+[2024-11-11 12:29:48] - Tamaño: 31.99 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 138 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_138.json
+[2024-11-11 12:29:48] - Tamaño: 32.13 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:48] Bloque 139 creado:
+[2024-11-11 12:29:48] - Ubicación: BlocksTemporales/block_139.json
+[2024-11-11 12:29:48] - Tamaño: 40.30 KB
+[2024-11-11 12:29:48] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 140 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_140.json
+[2024-11-11 12:29:49] - Tamaño: 30.98 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 141 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_141.json
+[2024-11-11 12:29:49] - Tamaño: 36.69 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 142 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_142.json
+[2024-11-11 12:29:49] - Tamaño: 28.76 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 143 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_143.json
+[2024-11-11 12:29:49] - Tamaño: 30.66 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 144 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_144.json
+[2024-11-11 12:29:49] - Tamaño: 29.07 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 145 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_145.json
+[2024-11-11 12:29:49] - Tamaño: 32.25 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 146 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_146.json
+[2024-11-11 12:29:49] - Tamaño: 38.30 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 147 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_147.json
+[2024-11-11 12:29:49] - Tamaño: 30.71 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 148 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_148.json
+[2024-11-11 12:29:49] - Tamaño: 30.54 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 149 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_149.json
+[2024-11-11 12:29:49] - Tamaño: 34.51 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 150 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_150.json
+[2024-11-11 12:29:49] - Tamaño: 31.09 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 151 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_151.json
+[2024-11-11 12:29:49] - Tamaño: 31.09 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 152 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_152.json
+[2024-11-11 12:29:49] - Tamaño: 27.96 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 153 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_153.json
+[2024-11-11 12:29:49] - Tamaño: 29.42 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 154 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_154.json
+[2024-11-11 12:29:49] - Tamaño: 27.60 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 155 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_155.json
+[2024-11-11 12:29:49] - Tamaño: 32.18 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 156 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_156.json
+[2024-11-11 12:29:49] - Tamaño: 33.47 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 157 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_157.json
+[2024-11-11 12:29:49] - Tamaño: 23.68 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 158 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_158.json
+[2024-11-11 12:29:49] - Tamaño: 31.07 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 159 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_159.json
+[2024-11-11 12:29:49] - Tamaño: 32.55 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 160 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_160.json
+[2024-11-11 12:29:49] - Tamaño: 29.26 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 161 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_161.json
+[2024-11-11 12:29:49] - Tamaño: 30.33 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 162 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_162.json
+[2024-11-11 12:29:49] - Tamaño: 27.95 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 163 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_163.json
+[2024-11-11 12:29:49] - Tamaño: 25.23 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 164 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_164.json
+[2024-11-11 12:29:49] - Tamaño: 37.65 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 165 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_165.json
+[2024-11-11 12:29:49] - Tamaño: 28.18 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 166 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_166.json
+[2024-11-11 12:29:49] - Tamaño: 34.25 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 167 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_167.json
+[2024-11-11 12:29:49] - Tamaño: 36.39 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 168 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_168.json
+[2024-11-11 12:29:49] - Tamaño: 26.49 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 169 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_169.json
+[2024-11-11 12:29:49] - Tamaño: 33.61 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 170 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_170.json
+[2024-11-11 12:29:49] - Tamaño: 38.40 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 171 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_171.json
+[2024-11-11 12:29:49] - Tamaño: 31.90 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 172 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_172.json
+[2024-11-11 12:29:49] - Tamaño: 33.31 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 173 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_173.json
+[2024-11-11 12:29:49] - Tamaño: 33.67 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 174 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_174.json
+[2024-11-11 12:29:49] - Tamaño: 30.87 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 175 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_175.json
+[2024-11-11 12:29:49] - Tamaño: 34.96 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 176 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_176.json
+[2024-11-11 12:29:49] - Tamaño: 27.17 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 177 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_177.json
+[2024-11-11 12:29:49] - Tamaño: 31.33 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:49] Bloque 178 creado:
+[2024-11-11 12:29:49] - Ubicación: BlocksTemporales/block_178.json
+[2024-11-11 12:29:49] - Tamaño: 31.15 KB
+[2024-11-11 12:29:49] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 179 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_179.json
+[2024-11-11 12:29:50] - Tamaño: 30.06 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 180 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_180.json
+[2024-11-11 12:29:50] - Tamaño: 33.09 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 181 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_181.json
+[2024-11-11 12:29:50] - Tamaño: 31.50 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 182 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_182.json
+[2024-11-11 12:29:50] - Tamaño: 25.65 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 183 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_183.json
+[2024-11-11 12:29:50] - Tamaño: 30.39 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 184 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_184.json
+[2024-11-11 12:29:50] - Tamaño: 36.20 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 185 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_185.json
+[2024-11-11 12:29:50] - Tamaño: 31.28 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 186 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_186.json
+[2024-11-11 12:29:50] - Tamaño: 29.96 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 187 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_187.json
+[2024-11-11 12:29:50] - Tamaño: 29.88 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 188 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_188.json
+[2024-11-11 12:29:50] - Tamaño: 28.35 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 189 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_189.json
+[2024-11-11 12:29:50] - Tamaño: 43.23 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 190 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_190.json
+[2024-11-11 12:29:50] - Tamaño: 25.34 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 191 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_191.json
+[2024-11-11 12:29:50] - Tamaño: 29.86 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 192 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_192.json
+[2024-11-11 12:29:50] - Tamaño: 36.32 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 193 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_193.json
+[2024-11-11 12:29:50] - Tamaño: 29.11 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 194 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_194.json
+[2024-11-11 12:29:50] - Tamaño: 30.50 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 195 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_195.json
+[2024-11-11 12:29:50] - Tamaño: 40.39 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 196 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_196.json
+[2024-11-11 12:29:50] - Tamaño: 30.56 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 197 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_197.json
+[2024-11-11 12:29:50] - Tamaño: 25.17 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 198 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_198.json
+[2024-11-11 12:29:50] - Tamaño: 31.10 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 199 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_199.json
+[2024-11-11 12:29:50] - Tamaño: 30.09 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 200 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_200.json
+[2024-11-11 12:29:50] - Tamaño: 33.75 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 201 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_201.json
+[2024-11-11 12:29:50] - Tamaño: 31.81 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 202 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_202.json
+[2024-11-11 12:29:50] - Tamaño: 32.97 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 203 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_203.json
+[2024-11-11 12:29:50] - Tamaño: 25.67 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 204 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_204.json
+[2024-11-11 12:29:50] - Tamaño: 28.51 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 205 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_205.json
+[2024-11-11 12:29:50] - Tamaño: 31.74 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 206 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_206.json
+[2024-11-11 12:29:50] - Tamaño: 37.51 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 207 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_207.json
+[2024-11-11 12:29:50] - Tamaño: 34.82 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 208 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_208.json
+[2024-11-11 12:29:50] - Tamaño: 32.83 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 209 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_209.json
+[2024-11-11 12:29:50] - Tamaño: 43.39 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 210 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_210.json
+[2024-11-11 12:29:50] - Tamaño: 30.18 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 211 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_211.json
+[2024-11-11 12:29:50] - Tamaño: 34.07 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 212 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_212.json
+[2024-11-11 12:29:50] - Tamaño: 35.59 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 213 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_213.json
+[2024-11-11 12:29:50] - Tamaño: 33.32 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 214 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_214.json
+[2024-11-11 12:29:50] - Tamaño: 34.76 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 215 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_215.json
+[2024-11-11 12:29:50] - Tamaño: 42.94 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:50] Bloque 216 creado:
+[2024-11-11 12:29:50] - Ubicación: BlocksTemporales/block_216.json
+[2024-11-11 12:29:50] - Tamaño: 30.15 KB
+[2024-11-11 12:29:50] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 217 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_217.json
+[2024-11-11 12:29:51] - Tamaño: 32.65 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 218 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_218.json
+[2024-11-11 12:29:51] - Tamaño: 28.00 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 219 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_219.json
+[2024-11-11 12:29:51] - Tamaño: 29.29 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 220 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_220.json
+[2024-11-11 12:29:51] - Tamaño: 29.89 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 221 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_221.json
+[2024-11-11 12:29:51] - Tamaño: 37.17 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 222 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_222.json
+[2024-11-11 12:29:51] - Tamaño: 27.33 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 223 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_223.json
+[2024-11-11 12:29:51] - Tamaño: 29.22 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 224 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_224.json
+[2024-11-11 12:29:51] - Tamaño: 33.17 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 225 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_225.json
+[2024-11-11 12:29:51] - Tamaño: 32.27 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 226 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_226.json
+[2024-11-11 12:29:51] - Tamaño: 25.62 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 227 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_227.json
+[2024-11-11 12:29:51] - Tamaño: 38.81 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 228 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_228.json
+[2024-11-11 12:29:51] - Tamaño: 33.61 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 229 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_229.json
+[2024-11-11 12:29:51] - Tamaño: 30.82 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 230 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_230.json
+[2024-11-11 12:29:51] - Tamaño: 28.04 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 231 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_231.json
+[2024-11-11 12:29:51] - Tamaño: 28.48 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 232 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_232.json
+[2024-11-11 12:29:51] - Tamaño: 36.84 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 233 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_233.json
+[2024-11-11 12:29:51] - Tamaño: 34.55 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 234 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_234.json
+[2024-11-11 12:29:51] - Tamaño: 29.37 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 235 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_235.json
+[2024-11-11 12:29:51] - Tamaño: 27.48 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 236 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_236.json
+[2024-11-11 12:29:51] - Tamaño: 35.05 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 237 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_237.json
+[2024-11-11 12:29:51] - Tamaño: 31.64 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 238 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_238.json
+[2024-11-11 12:29:51] - Tamaño: 29.57 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 239 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_239.json
+[2024-11-11 12:29:51] - Tamaño: 34.09 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 240 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_240.json
+[2024-11-11 12:29:51] - Tamaño: 30.52 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 241 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_241.json
+[2024-11-11 12:29:51] - Tamaño: 29.82 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 242 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_242.json
+[2024-11-11 12:29:51] - Tamaño: 28.76 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 243 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_243.json
+[2024-11-11 12:29:51] - Tamaño: 34.12 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 244 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_244.json
+[2024-11-11 12:29:51] - Tamaño: 28.18 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 245 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_245.json
+[2024-11-11 12:29:51] - Tamaño: 34.10 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 246 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_246.json
+[2024-11-11 12:29:51] - Tamaño: 28.78 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 247 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_247.json
+[2024-11-11 12:29:51] - Tamaño: 28.46 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 248 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_248.json
+[2024-11-11 12:29:51] - Tamaño: 30.45 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 249 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_249.json
+[2024-11-11 12:29:51] - Tamaño: 36.04 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 250 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_250.json
+[2024-11-11 12:29:51] - Tamaño: 30.00 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 251 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_251.json
+[2024-11-11 12:29:51] - Tamaño: 28.16 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 252 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_252.json
+[2024-11-11 12:29:51] - Tamaño: 37.38 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 253 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_253.json
+[2024-11-11 12:29:51] - Tamaño: 29.05 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 254 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_254.json
+[2024-11-11 12:29:51] - Tamaño: 26.20 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 255 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_255.json
+[2024-11-11 12:29:51] - Tamaño: 26.37 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:51] Bloque 256 creado:
+[2024-11-11 12:29:51] - Ubicación: BlocksTemporales/block_256.json
+[2024-11-11 12:29:51] - Tamaño: 32.98 KB
+[2024-11-11 12:29:51] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 257 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_257.json
+[2024-11-11 12:29:52] - Tamaño: 30.47 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 258 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_258.json
+[2024-11-11 12:29:52] - Tamaño: 27.91 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 259 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_259.json
+[2024-11-11 12:29:52] - Tamaño: 30.56 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 260 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_260.json
+[2024-11-11 12:29:52] - Tamaño: 25.75 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 261 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_261.json
+[2024-11-11 12:29:52] - Tamaño: 30.56 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 262 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_262.json
+[2024-11-11 12:29:52] - Tamaño: 32.22 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 263 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_263.json
+[2024-11-11 12:29:52] - Tamaño: 32.97 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 264 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_264.json
+[2024-11-11 12:29:52] - Tamaño: 29.18 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 265 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_265.json
+[2024-11-11 12:29:52] - Tamaño: 27.58 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 266 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_266.json
+[2024-11-11 12:29:52] - Tamaño: 32.72 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 267 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_267.json
+[2024-11-11 12:29:52] - Tamaño: 31.55 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 268 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_268.json
+[2024-11-11 12:29:52] - Tamaño: 39.13 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 269 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_269.json
+[2024-11-11 12:29:52] - Tamaño: 34.83 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 270 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_270.json
+[2024-11-11 12:29:52] - Tamaño: 31.46 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 271 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_271.json
+[2024-11-11 12:29:52] - Tamaño: 30.26 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 272 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_272.json
+[2024-11-11 12:29:52] - Tamaño: 27.65 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 273 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_273.json
+[2024-11-11 12:29:52] - Tamaño: 29.35 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 274 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_274.json
+[2024-11-11 12:29:52] - Tamaño: 29.46 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 275 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_275.json
+[2024-11-11 12:29:52] - Tamaño: 31.27 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 276 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_276.json
+[2024-11-11 12:29:52] - Tamaño: 30.84 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 277 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_277.json
+[2024-11-11 12:29:52] - Tamaño: 29.34 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 278 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_278.json
+[2024-11-11 12:29:52] - Tamaño: 31.05 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 279 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_279.json
+[2024-11-11 12:29:52] - Tamaño: 31.46 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 280 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_280.json
+[2024-11-11 12:29:52] - Tamaño: 35.99 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 281 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_281.json
+[2024-11-11 12:29:52] - Tamaño: 31.11 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 282 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_282.json
+[2024-11-11 12:29:52] - Tamaño: 26.04 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 283 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_283.json
+[2024-11-11 12:29:52] - Tamaño: 40.37 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 284 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_284.json
+[2024-11-11 12:29:52] - Tamaño: 26.30 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 285 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_285.json
+[2024-11-11 12:29:52] - Tamaño: 38.22 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 286 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_286.json
+[2024-11-11 12:29:52] - Tamaño: 27.58 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 287 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_287.json
+[2024-11-11 12:29:52] - Tamaño: 26.70 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 288 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_288.json
+[2024-11-11 12:29:52] - Tamaño: 32.52 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 289 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_289.json
+[2024-11-11 12:29:52] - Tamaño: 41.27 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 290 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_290.json
+[2024-11-11 12:29:52] - Tamaño: 32.18 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 291 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_291.json
+[2024-11-11 12:29:52] - Tamaño: 29.19 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 292 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_292.json
+[2024-11-11 12:29:52] - Tamaño: 28.44 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 293 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_293.json
+[2024-11-11 12:29:52] - Tamaño: 37.15 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 294 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_294.json
+[2024-11-11 12:29:52] - Tamaño: 34.22 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 295 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_295.json
+[2024-11-11 12:29:52] - Tamaño: 32.41 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 296 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_296.json
+[2024-11-11 12:29:52] - Tamaño: 32.04 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:52] Bloque 297 creado:
+[2024-11-11 12:29:52] - Ubicación: BlocksTemporales/block_297.json
+[2024-11-11 12:29:52] - Tamaño: 31.03 KB
+[2024-11-11 12:29:52] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 298 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_298.json
+[2024-11-11 12:29:53] - Tamaño: 37.72 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 299 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_299.json
+[2024-11-11 12:29:53] - Tamaño: 27.93 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 300 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_300.json
+[2024-11-11 12:29:53] - Tamaño: 25.47 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 301 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_301.json
+[2024-11-11 12:29:53] - Tamaño: 33.19 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 302 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_302.json
+[2024-11-11 12:29:53] - Tamaño: 30.10 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 303 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_303.json
+[2024-11-11 12:29:53] - Tamaño: 35.12 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 304 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_304.json
+[2024-11-11 12:29:53] - Tamaño: 32.69 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 305 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_305.json
+[2024-11-11 12:29:53] - Tamaño: 44.48 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 306 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_306.json
+[2024-11-11 12:29:53] - Tamaño: 29.37 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 307 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_307.json
+[2024-11-11 12:29:53] - Tamaño: 32.52 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 308 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_308.json
+[2024-11-11 12:29:53] - Tamaño: 31.50 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 309 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_309.json
+[2024-11-11 12:29:53] - Tamaño: 35.33 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 310 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_310.json
+[2024-11-11 12:29:53] - Tamaño: 31.75 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 311 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_311.json
+[2024-11-11 12:29:53] - Tamaño: 34.12 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 312 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_312.json
+[2024-11-11 12:29:53] - Tamaño: 35.01 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 313 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_313.json
+[2024-11-11 12:29:53] - Tamaño: 30.63 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 314 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_314.json
+[2024-11-11 12:29:53] - Tamaño: 41.28 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 315 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_315.json
+[2024-11-11 12:29:53] - Tamaño: 32.56 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 316 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_316.json
+[2024-11-11 12:29:53] - Tamaño: 35.87 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 317 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_317.json
+[2024-11-11 12:29:53] - Tamaño: 32.42 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 318 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_318.json
+[2024-11-11 12:29:53] - Tamaño: 30.15 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 319 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_319.json
+[2024-11-11 12:29:53] - Tamaño: 28.63 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 320 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_320.json
+[2024-11-11 12:29:53] - Tamaño: 30.46 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 321 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_321.json
+[2024-11-11 12:29:53] - Tamaño: 25.81 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 322 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_322.json
+[2024-11-11 12:29:53] - Tamaño: 27.78 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 323 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_323.json
+[2024-11-11 12:29:53] - Tamaño: 43.30 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 324 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_324.json
+[2024-11-11 12:29:53] - Tamaño: 30.70 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 325 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_325.json
+[2024-11-11 12:29:53] - Tamaño: 30.95 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 326 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_326.json
+[2024-11-11 12:29:53] - Tamaño: 25.71 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 327 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_327.json
+[2024-11-11 12:29:53] - Tamaño: 35.67 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 328 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_328.json
+[2024-11-11 12:29:53] - Tamaño: 32.71 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 329 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_329.json
+[2024-11-11 12:29:53] - Tamaño: 37.08 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 330 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_330.json
+[2024-11-11 12:29:53] - Tamaño: 29.86 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 331 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_331.json
+[2024-11-11 12:29:53] - Tamaño: 26.82 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 332 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_332.json
+[2024-11-11 12:29:53] - Tamaño: 29.50 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 333 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_333.json
+[2024-11-11 12:29:53] - Tamaño: 29.08 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:53] Bloque 334 creado:
+[2024-11-11 12:29:53] - Ubicación: BlocksTemporales/block_334.json
+[2024-11-11 12:29:53] - Tamaño: 23.81 KB
+[2024-11-11 12:29:53] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 335 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_335.json
+[2024-11-11 12:29:54] - Tamaño: 26.80 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 336 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_336.json
+[2024-11-11 12:29:54] - Tamaño: 30.58 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 337 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_337.json
+[2024-11-11 12:29:54] - Tamaño: 35.83 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 338 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_338.json
+[2024-11-11 12:29:54] - Tamaño: 32.41 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 339 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_339.json
+[2024-11-11 12:29:54] - Tamaño: 31.06 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 340 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_340.json
+[2024-11-11 12:29:54] - Tamaño: 29.86 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 341 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_341.json
+[2024-11-11 12:29:54] - Tamaño: 28.70 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 342 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_342.json
+[2024-11-11 12:29:54] - Tamaño: 28.40 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 343 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_343.json
+[2024-11-11 12:29:54] - Tamaño: 31.87 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 344 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_344.json
+[2024-11-11 12:29:54] - Tamaño: 29.80 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 345 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_345.json
+[2024-11-11 12:29:54] - Tamaño: 28.23 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 346 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_346.json
+[2024-11-11 12:29:54] - Tamaño: 34.82 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 347 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_347.json
+[2024-11-11 12:29:54] - Tamaño: 24.71 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 348 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_348.json
+[2024-11-11 12:29:54] - Tamaño: 26.85 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 349 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_349.json
+[2024-11-11 12:29:54] - Tamaño: 30.09 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 350 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_350.json
+[2024-11-11 12:29:54] - Tamaño: 33.90 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 351 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_351.json
+[2024-11-11 12:29:54] - Tamaño: 26.54 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 352 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_352.json
+[2024-11-11 12:29:54] - Tamaño: 26.59 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 353 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_353.json
+[2024-11-11 12:29:54] - Tamaño: 29.47 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 354 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_354.json
+[2024-11-11 12:29:54] - Tamaño: 27.64 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 355 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_355.json
+[2024-11-11 12:29:54] - Tamaño: 34.28 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 356 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_356.json
+[2024-11-11 12:29:54] - Tamaño: 31.82 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 357 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_357.json
+[2024-11-11 12:29:54] - Tamaño: 30.43 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 358 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_358.json
+[2024-11-11 12:29:54] - Tamaño: 28.90 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 359 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_359.json
+[2024-11-11 12:29:54] - Tamaño: 30.83 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 360 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_360.json
+[2024-11-11 12:29:54] - Tamaño: 34.20 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 361 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_361.json
+[2024-11-11 12:29:54] - Tamaño: 32.35 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 362 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_362.json
+[2024-11-11 12:29:54] - Tamaño: 30.08 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 363 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_363.json
+[2024-11-11 12:29:54] - Tamaño: 29.45 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 364 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_364.json
+[2024-11-11 12:29:54] - Tamaño: 38.71 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 365 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_365.json
+[2024-11-11 12:29:54] - Tamaño: 35.97 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 366 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_366.json
+[2024-11-11 12:29:54] - Tamaño: 43.28 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 367 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_367.json
+[2024-11-11 12:29:54] - Tamaño: 30.99 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 368 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_368.json
+[2024-11-11 12:29:54] - Tamaño: 33.80 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 369 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_369.json
+[2024-11-11 12:29:54] - Tamaño: 29.93 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 370 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_370.json
+[2024-11-11 12:29:54] - Tamaño: 35.67 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 371 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_371.json
+[2024-11-11 12:29:54] - Tamaño: 33.69 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:54] Bloque 372 creado:
+[2024-11-11 12:29:54] - Ubicación: BlocksTemporales/block_372.json
+[2024-11-11 12:29:54] - Tamaño: 34.58 KB
+[2024-11-11 12:29:54] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 373 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_373.json
+[2024-11-11 12:29:55] - Tamaño: 28.13 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 374 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_374.json
+[2024-11-11 12:29:55] - Tamaño: 27.46 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 375 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_375.json
+[2024-11-11 12:29:55] - Tamaño: 30.00 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 376 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_376.json
+[2024-11-11 12:29:55] - Tamaño: 27.84 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 377 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_377.json
+[2024-11-11 12:29:55] - Tamaño: 27.84 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 378 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_378.json
+[2024-11-11 12:29:55] - Tamaño: 25.40 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 379 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_379.json
+[2024-11-11 12:29:55] - Tamaño: 29.22 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 380 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_380.json
+[2024-11-11 12:29:55] - Tamaño: 30.92 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 381 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_381.json
+[2024-11-11 12:29:55] - Tamaño: 25.97 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 382 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_382.json
+[2024-11-11 12:29:55] - Tamaño: 44.61 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 383 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_383.json
+[2024-11-11 12:29:55] - Tamaño: 32.93 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 384 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_384.json
+[2024-11-11 12:29:55] - Tamaño: 30.26 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 385 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_385.json
+[2024-11-11 12:29:55] - Tamaño: 33.21 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 386 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_386.json
+[2024-11-11 12:29:55] - Tamaño: 28.76 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 387 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_387.json
+[2024-11-11 12:29:55] - Tamaño: 28.84 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 388 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_388.json
+[2024-11-11 12:29:55] - Tamaño: 26.45 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 389 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_389.json
+[2024-11-11 12:29:55] - Tamaño: 33.01 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 390 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_390.json
+[2024-11-11 12:29:55] - Tamaño: 38.68 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 391 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_391.json
+[2024-11-11 12:29:55] - Tamaño: 28.34 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 392 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_392.json
+[2024-11-11 12:29:55] - Tamaño: 35.50 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 393 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_393.json
+[2024-11-11 12:29:55] - Tamaño: 28.63 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 394 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_394.json
+[2024-11-11 12:29:55] - Tamaño: 33.28 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 395 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_395.json
+[2024-11-11 12:29:55] - Tamaño: 28.23 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 396 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_396.json
+[2024-11-11 12:29:55] - Tamaño: 37.57 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 397 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_397.json
+[2024-11-11 12:29:55] - Tamaño: 33.78 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 398 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_398.json
+[2024-11-11 12:29:55] - Tamaño: 25.54 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 399 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_399.json
+[2024-11-11 12:29:55] - Tamaño: 33.49 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 400 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_400.json
+[2024-11-11 12:29:55] - Tamaño: 30.22 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 401 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_401.json
+[2024-11-11 12:29:55] - Tamaño: 30.34 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 402 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_402.json
+[2024-11-11 12:29:55] - Tamaño: 28.51 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 403 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_403.json
+[2024-11-11 12:29:55] - Tamaño: 29.32 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 404 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_404.json
+[2024-11-11 12:29:55] - Tamaño: 29.15 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 405 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_405.json
+[2024-11-11 12:29:55] - Tamaño: 28.90 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 406 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_406.json
+[2024-11-11 12:29:55] - Tamaño: 36.43 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 407 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_407.json
+[2024-11-11 12:29:55] - Tamaño: 29.61 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 408 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_408.json
+[2024-11-11 12:29:55] - Tamaño: 32.98 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 409 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_409.json
+[2024-11-11 12:29:55] - Tamaño: 32.02 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 410 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_410.json
+[2024-11-11 12:29:55] - Tamaño: 28.11 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 411 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_411.json
+[2024-11-11 12:29:55] - Tamaño: 30.81 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 412 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_412.json
+[2024-11-11 12:29:55] - Tamaño: 30.20 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 413 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_413.json
+[2024-11-11 12:29:55] - Tamaño: 27.63 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:55] Bloque 414 creado:
+[2024-11-11 12:29:55] - Ubicación: BlocksTemporales/block_414.json
+[2024-11-11 12:29:55] - Tamaño: 28.21 KB
+[2024-11-11 12:29:55] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 415 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_415.json
+[2024-11-11 12:29:56] - Tamaño: 29.29 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 416 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_416.json
+[2024-11-11 12:29:56] - Tamaño: 24.16 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 417 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_417.json
+[2024-11-11 12:29:56] - Tamaño: 27.28 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 418 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_418.json
+[2024-11-11 12:29:56] - Tamaño: 33.46 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 419 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_419.json
+[2024-11-11 12:29:56] - Tamaño: 32.93 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 420 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_420.json
+[2024-11-11 12:29:56] - Tamaño: 38.68 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 421 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_421.json
+[2024-11-11 12:29:56] - Tamaño: 25.08 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 422 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_422.json
+[2024-11-11 12:29:56] - Tamaño: 33.86 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 423 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_423.json
+[2024-11-11 12:29:56] - Tamaño: 26.25 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 424 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_424.json
+[2024-11-11 12:29:56] - Tamaño: 33.48 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 425 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_425.json
+[2024-11-11 12:29:56] - Tamaño: 42.89 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 426 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_426.json
+[2024-11-11 12:29:56] - Tamaño: 23.92 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 427 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_427.json
+[2024-11-11 12:29:56] - Tamaño: 31.25 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 428 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_428.json
+[2024-11-11 12:29:56] - Tamaño: 32.45 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 429 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_429.json
+[2024-11-11 12:29:56] - Tamaño: 29.26 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 430 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_430.json
+[2024-11-11 12:29:56] - Tamaño: 36.31 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 431 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_431.json
+[2024-11-11 12:29:56] - Tamaño: 31.01 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 432 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_432.json
+[2024-11-11 12:29:56] - Tamaño: 41.83 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 433 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_433.json
+[2024-11-11 12:29:56] - Tamaño: 27.62 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 434 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_434.json
+[2024-11-11 12:29:56] - Tamaño: 31.02 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 435 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_435.json
+[2024-11-11 12:29:56] - Tamaño: 28.32 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 436 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_436.json
+[2024-11-11 12:29:56] - Tamaño: 33.87 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 437 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_437.json
+[2024-11-11 12:29:56] - Tamaño: 27.30 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 438 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_438.json
+[2024-11-11 12:29:56] - Tamaño: 28.96 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 439 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_439.json
+[2024-11-11 12:29:56] - Tamaño: 27.67 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 440 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_440.json
+[2024-11-11 12:29:56] - Tamaño: 26.06 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 441 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_441.json
+[2024-11-11 12:29:56] - Tamaño: 29.30 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 442 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_442.json
+[2024-11-11 12:29:56] - Tamaño: 24.94 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 443 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_443.json
+[2024-11-11 12:29:56] - Tamaño: 27.14 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 444 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_444.json
+[2024-11-11 12:29:56] - Tamaño: 33.18 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 445 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_445.json
+[2024-11-11 12:29:56] - Tamaño: 28.66 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 446 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_446.json
+[2024-11-11 12:29:56] - Tamaño: 33.66 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 447 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_447.json
+[2024-11-11 12:29:56] - Tamaño: 32.53 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 448 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_448.json
+[2024-11-11 12:29:56] - Tamaño: 31.05 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 449 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_449.json
+[2024-11-11 12:29:56] - Tamaño: 24.34 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 450 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_450.json
+[2024-11-11 12:29:56] - Tamaño: 28.09 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 451 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_451.json
+[2024-11-11 12:29:56] - Tamaño: 35.98 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 452 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_452.json
+[2024-11-11 12:29:56] - Tamaño: 29.41 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 453 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_453.json
+[2024-11-11 12:29:56] - Tamaño: 30.16 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 454 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_454.json
+[2024-11-11 12:29:56] - Tamaño: 31.12 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:56] Bloque 455 creado:
+[2024-11-11 12:29:56] - Ubicación: BlocksTemporales/block_455.json
+[2024-11-11 12:29:56] - Tamaño: 30.24 KB
+[2024-11-11 12:29:56] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 456 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_456.json
+[2024-11-11 12:29:57] - Tamaño: 26.00 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 457 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_457.json
+[2024-11-11 12:29:57] - Tamaño: 31.38 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 458 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_458.json
+[2024-11-11 12:29:57] - Tamaño: 37.41 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 459 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_459.json
+[2024-11-11 12:29:57] - Tamaño: 28.72 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 460 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_460.json
+[2024-11-11 12:29:57] - Tamaño: 31.87 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 461 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_461.json
+[2024-11-11 12:29:57] - Tamaño: 29.57 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 462 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_462.json
+[2024-11-11 12:29:57] - Tamaño: 28.64 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 463 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_463.json
+[2024-11-11 12:29:57] - Tamaño: 35.99 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 464 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_464.json
+[2024-11-11 12:29:57] - Tamaño: 35.39 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 465 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_465.json
+[2024-11-11 12:29:57] - Tamaño: 35.07 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 466 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_466.json
+[2024-11-11 12:29:57] - Tamaño: 34.84 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 467 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_467.json
+[2024-11-11 12:29:57] - Tamaño: 30.22 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 468 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_468.json
+[2024-11-11 12:29:57] - Tamaño: 28.36 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 469 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_469.json
+[2024-11-11 12:29:57] - Tamaño: 25.17 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 470 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_470.json
+[2024-11-11 12:29:57] - Tamaño: 25.73 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 471 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_471.json
+[2024-11-11 12:29:57] - Tamaño: 27.87 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 472 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_472.json
+[2024-11-11 12:29:57] - Tamaño: 27.33 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 473 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_473.json
+[2024-11-11 12:29:57] - Tamaño: 29.53 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 474 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_474.json
+[2024-11-11 12:29:57] - Tamaño: 28.38 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 475 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_475.json
+[2024-11-11 12:29:57] - Tamaño: 31.91 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 476 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_476.json
+[2024-11-11 12:29:57] - Tamaño: 32.93 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 477 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_477.json
+[2024-11-11 12:29:57] - Tamaño: 35.57 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 478 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_478.json
+[2024-11-11 12:29:57] - Tamaño: 31.76 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 479 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_479.json
+[2024-11-11 12:29:57] - Tamaño: 33.26 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 480 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_480.json
+[2024-11-11 12:29:57] - Tamaño: 32.53 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 481 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_481.json
+[2024-11-11 12:29:57] - Tamaño: 31.76 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 482 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_482.json
+[2024-11-11 12:29:57] - Tamaño: 32.70 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 483 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_483.json
+[2024-11-11 12:29:57] - Tamaño: 29.80 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 484 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_484.json
+[2024-11-11 12:29:57] - Tamaño: 27.34 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 485 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_485.json
+[2024-11-11 12:29:57] - Tamaño: 29.67 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 486 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_486.json
+[2024-11-11 12:29:57] - Tamaño: 28.93 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 487 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_487.json
+[2024-11-11 12:29:57] - Tamaño: 38.02 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 488 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_488.json
+[2024-11-11 12:29:57] - Tamaño: 26.86 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 489 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_489.json
+[2024-11-11 12:29:57] - Tamaño: 36.42 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 490 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_490.json
+[2024-11-11 12:29:57] - Tamaño: 37.01 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 491 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_491.json
+[2024-11-11 12:29:57] - Tamaño: 31.40 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 492 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_492.json
+[2024-11-11 12:29:57] - Tamaño: 33.65 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 493 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_493.json
+[2024-11-11 12:29:57] - Tamaño: 29.05 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:57] Bloque 494 creado:
+[2024-11-11 12:29:57] - Ubicación: BlocksTemporales/block_494.json
+[2024-11-11 12:29:57] - Tamaño: 33.77 KB
+[2024-11-11 12:29:57] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 495 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_495.json
+[2024-11-11 12:29:58] - Tamaño: 38.28 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 496 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_496.json
+[2024-11-11 12:29:58] - Tamaño: 26.90 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 497 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_497.json
+[2024-11-11 12:29:58] - Tamaño: 31.75 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 498 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_498.json
+[2024-11-11 12:29:58] - Tamaño: 26.30 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 499 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_499.json
+[2024-11-11 12:29:58] - Tamaño: 26.46 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 500 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_500.json
+[2024-11-11 12:29:58] - Tamaño: 32.19 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 501 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_501.json
+[2024-11-11 12:29:58] - Tamaño: 25.66 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 502 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_502.json
+[2024-11-11 12:29:58] - Tamaño: 29.10 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 503 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_503.json
+[2024-11-11 12:29:58] - Tamaño: 33.72 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 504 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_504.json
+[2024-11-11 12:29:58] - Tamaño: 38.72 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 505 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_505.json
+[2024-11-11 12:29:58] - Tamaño: 29.78 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 506 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_506.json
+[2024-11-11 12:29:58] - Tamaño: 31.36 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 507 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_507.json
+[2024-11-11 12:29:58] - Tamaño: 25.38 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 508 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_508.json
+[2024-11-11 12:29:58] - Tamaño: 30.56 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 509 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_509.json
+[2024-11-11 12:29:58] - Tamaño: 32.57 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 510 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_510.json
+[2024-11-11 12:29:58] - Tamaño: 25.75 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 511 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_511.json
+[2024-11-11 12:29:58] - Tamaño: 26.59 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 512 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_512.json
+[2024-11-11 12:29:58] - Tamaño: 32.68 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 513 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_513.json
+[2024-11-11 12:29:58] - Tamaño: 33.43 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 514 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_514.json
+[2024-11-11 12:29:58] - Tamaño: 37.28 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 515 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_515.json
+[2024-11-11 12:29:58] - Tamaño: 27.29 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 516 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_516.json
+[2024-11-11 12:29:58] - Tamaño: 28.16 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 517 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_517.json
+[2024-11-11 12:29:58] - Tamaño: 38.35 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 518 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_518.json
+[2024-11-11 12:29:58] - Tamaño: 26.92 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 519 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_519.json
+[2024-11-11 12:29:58] - Tamaño: 30.87 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 520 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_520.json
+[2024-11-11 12:29:58] - Tamaño: 25.90 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 521 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_521.json
+[2024-11-11 12:29:58] - Tamaño: 30.93 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 522 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_522.json
+[2024-11-11 12:29:58] - Tamaño: 34.96 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 523 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_523.json
+[2024-11-11 12:29:58] - Tamaño: 43.10 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 524 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_524.json
+[2024-11-11 12:29:58] - Tamaño: 29.09 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 525 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_525.json
+[2024-11-11 12:29:58] - Tamaño: 25.32 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 526 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_526.json
+[2024-11-11 12:29:58] - Tamaño: 36.61 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 527 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_527.json
+[2024-11-11 12:29:58] - Tamaño: 28.90 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 528 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_528.json
+[2024-11-11 12:29:58] - Tamaño: 35.01 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 529 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_529.json
+[2024-11-11 12:29:58] - Tamaño: 35.92 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 530 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_530.json
+[2024-11-11 12:29:58] - Tamaño: 31.52 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 531 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_531.json
+[2024-11-11 12:29:58] - Tamaño: 33.38 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 532 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_532.json
+[2024-11-11 12:29:58] - Tamaño: 30.96 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 533 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_533.json
+[2024-11-11 12:29:58] - Tamaño: 26.02 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 534 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_534.json
+[2024-11-11 12:29:58] - Tamaño: 33.12 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:58] Bloque 535 creado:
+[2024-11-11 12:29:58] - Ubicación: BlocksTemporales/block_535.json
+[2024-11-11 12:29:58] - Tamaño: 29.19 KB
+[2024-11-11 12:29:58] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 536 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_536.json
+[2024-11-11 12:29:59] - Tamaño: 27.16 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 537 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_537.json
+[2024-11-11 12:29:59] - Tamaño: 33.30 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 538 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_538.json
+[2024-11-11 12:29:59] - Tamaño: 26.47 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 539 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_539.json
+[2024-11-11 12:29:59] - Tamaño: 28.94 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 540 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_540.json
+[2024-11-11 12:29:59] - Tamaño: 29.21 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 541 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_541.json
+[2024-11-11 12:29:59] - Tamaño: 29.25 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 542 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_542.json
+[2024-11-11 12:29:59] - Tamaño: 32.52 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 543 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_543.json
+[2024-11-11 12:29:59] - Tamaño: 35.44 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 544 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_544.json
+[2024-11-11 12:29:59] - Tamaño: 31.37 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 545 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_545.json
+[2024-11-11 12:29:59] - Tamaño: 30.68 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 546 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_546.json
+[2024-11-11 12:29:59] - Tamaño: 32.08 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 547 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_547.json
+[2024-11-11 12:29:59] - Tamaño: 34.35 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 548 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_548.json
+[2024-11-11 12:29:59] - Tamaño: 28.56 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 549 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_549.json
+[2024-11-11 12:29:59] - Tamaño: 32.03 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 550 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_550.json
+[2024-11-11 12:29:59] - Tamaño: 30.97 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 551 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_551.json
+[2024-11-11 12:29:59] - Tamaño: 33.92 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 552 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_552.json
+[2024-11-11 12:29:59] - Tamaño: 35.10 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 553 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_553.json
+[2024-11-11 12:29:59] - Tamaño: 37.75 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 554 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_554.json
+[2024-11-11 12:29:59] - Tamaño: 30.37 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 555 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_555.json
+[2024-11-11 12:29:59] - Tamaño: 24.82 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 556 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_556.json
+[2024-11-11 12:29:59] - Tamaño: 32.41 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 557 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_557.json
+[2024-11-11 12:29:59] - Tamaño: 31.93 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 558 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_558.json
+[2024-11-11 12:29:59] - Tamaño: 32.66 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 559 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_559.json
+[2024-11-11 12:29:59] - Tamaño: 32.67 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 560 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_560.json
+[2024-11-11 12:29:59] - Tamaño: 26.24 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 561 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_561.json
+[2024-11-11 12:29:59] - Tamaño: 23.01 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 562 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_562.json
+[2024-11-11 12:29:59] - Tamaño: 39.08 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 563 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_563.json
+[2024-11-11 12:29:59] - Tamaño: 32.79 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 564 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_564.json
+[2024-11-11 12:29:59] - Tamaño: 28.36 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 565 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_565.json
+[2024-11-11 12:29:59] - Tamaño: 28.22 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 566 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_566.json
+[2024-11-11 12:29:59] - Tamaño: 32.75 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 567 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_567.json
+[2024-11-11 12:29:59] - Tamaño: 34.81 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 568 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_568.json
+[2024-11-11 12:29:59] - Tamaño: 25.95 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 569 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_569.json
+[2024-11-11 12:29:59] - Tamaño: 29.21 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 570 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_570.json
+[2024-11-11 12:29:59] - Tamaño: 31.57 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 571 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_571.json
+[2024-11-11 12:29:59] - Tamaño: 29.02 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 572 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_572.json
+[2024-11-11 12:29:59] - Tamaño: 30.43 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 573 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_573.json
+[2024-11-11 12:29:59] - Tamaño: 31.41 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 574 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_574.json
+[2024-11-11 12:29:59] - Tamaño: 30.28 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:29:59] Bloque 575 creado:
+[2024-11-11 12:29:59] - Ubicación: BlocksTemporales/block_575.json
+[2024-11-11 12:29:59] - Tamaño: 33.43 KB
+[2024-11-11 12:29:59] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 576 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_576.json
+[2024-11-11 12:30:00] - Tamaño: 31.58 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 577 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_577.json
+[2024-11-11 12:30:00] - Tamaño: 27.43 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 578 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_578.json
+[2024-11-11 12:30:00] - Tamaño: 29.35 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 579 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_579.json
+[2024-11-11 12:30:00] - Tamaño: 28.14 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 580 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_580.json
+[2024-11-11 12:30:00] - Tamaño: 29.37 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 581 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_581.json
+[2024-11-11 12:30:00] - Tamaño: 29.62 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 582 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_582.json
+[2024-11-11 12:30:00] - Tamaño: 31.98 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 583 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_583.json
+[2024-11-11 12:30:00] - Tamaño: 26.19 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 584 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_584.json
+[2024-11-11 12:30:00] - Tamaño: 30.47 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 585 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_585.json
+[2024-11-11 12:30:00] - Tamaño: 26.30 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 586 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_586.json
+[2024-11-11 12:30:00] - Tamaño: 31.94 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 587 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_587.json
+[2024-11-11 12:30:00] - Tamaño: 33.17 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 588 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_588.json
+[2024-11-11 12:30:00] - Tamaño: 34.57 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 589 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_589.json
+[2024-11-11 12:30:00] - Tamaño: 29.98 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 590 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_590.json
+[2024-11-11 12:30:00] - Tamaño: 30.45 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 591 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_591.json
+[2024-11-11 12:30:00] - Tamaño: 35.05 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 592 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_592.json
+[2024-11-11 12:30:00] - Tamaño: 27.03 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 593 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_593.json
+[2024-11-11 12:30:00] - Tamaño: 31.08 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 594 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_594.json
+[2024-11-11 12:30:00] - Tamaño: 32.20 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 595 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_595.json
+[2024-11-11 12:30:00] - Tamaño: 35.72 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 596 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_596.json
+[2024-11-11 12:30:00] - Tamaño: 37.50 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 597 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_597.json
+[2024-11-11 12:30:00] - Tamaño: 35.92 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 598 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_598.json
+[2024-11-11 12:30:00] - Tamaño: 27.06 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 599 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_599.json
+[2024-11-11 12:30:00] - Tamaño: 32.88 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 600 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_600.json
+[2024-11-11 12:30:00] - Tamaño: 34.30 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 601 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_601.json
+[2024-11-11 12:30:00] - Tamaño: 32.82 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 602 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_602.json
+[2024-11-11 12:30:00] - Tamaño: 25.27 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 603 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_603.json
+[2024-11-11 12:30:00] - Tamaño: 34.05 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 604 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_604.json
+[2024-11-11 12:30:00] - Tamaño: 34.12 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 605 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_605.json
+[2024-11-11 12:30:00] - Tamaño: 35.45 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 606 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_606.json
+[2024-11-11 12:30:00] - Tamaño: 33.03 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 607 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_607.json
+[2024-11-11 12:30:00] - Tamaño: 31.10 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 608 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_608.json
+[2024-11-11 12:30:00] - Tamaño: 27.98 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 609 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_609.json
+[2024-11-11 12:30:00] - Tamaño: 28.79 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 610 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_610.json
+[2024-11-11 12:30:00] - Tamaño: 40.80 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 611 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_611.json
+[2024-11-11 12:30:00] - Tamaño: 32.43 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 612 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_612.json
+[2024-11-11 12:30:00] - Tamaño: 32.49 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 613 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_613.json
+[2024-11-11 12:30:00] - Tamaño: 32.36 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 614 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_614.json
+[2024-11-11 12:30:00] - Tamaño: 36.75 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 615 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_615.json
+[2024-11-11 12:30:00] - Tamaño: 37.10 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:00] Bloque 616 creado:
+[2024-11-11 12:30:00] - Ubicación: BlocksTemporales/block_616.json
+[2024-11-11 12:30:00] - Tamaño: 29.45 KB
+[2024-11-11 12:30:00] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 617 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_617.json
+[2024-11-11 12:30:01] - Tamaño: 37.32 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 618 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_618.json
+[2024-11-11 12:30:01] - Tamaño: 29.65 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 619 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_619.json
+[2024-11-11 12:30:01] - Tamaño: 39.91 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 620 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_620.json
+[2024-11-11 12:30:01] - Tamaño: 36.32 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 621 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_621.json
+[2024-11-11 12:30:01] - Tamaño: 31.47 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 622 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_622.json
+[2024-11-11 12:30:01] - Tamaño: 32.17 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 623 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_623.json
+[2024-11-11 12:30:01] - Tamaño: 39.74 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 624 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_624.json
+[2024-11-11 12:30:01] - Tamaño: 30.02 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 625 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_625.json
+[2024-11-11 12:30:01] - Tamaño: 28.82 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 626 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_626.json
+[2024-11-11 12:30:01] - Tamaño: 28.70 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 627 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_627.json
+[2024-11-11 12:30:01] - Tamaño: 27.99 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 628 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_628.json
+[2024-11-11 12:30:01] - Tamaño: 45.12 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 629 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_629.json
+[2024-11-11 12:30:01] - Tamaño: 34.81 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 630 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_630.json
+[2024-11-11 12:30:01] - Tamaño: 29.21 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 631 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_631.json
+[2024-11-11 12:30:01] - Tamaño: 30.09 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 632 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_632.json
+[2024-11-11 12:30:01] - Tamaño: 30.59 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 633 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_633.json
+[2024-11-11 12:30:01] - Tamaño: 30.97 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 634 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_634.json
+[2024-11-11 12:30:01] - Tamaño: 34.12 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 635 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_635.json
+[2024-11-11 12:30:01] - Tamaño: 31.31 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 636 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_636.json
+[2024-11-11 12:30:01] - Tamaño: 30.28 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 637 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_637.json
+[2024-11-11 12:30:01] - Tamaño: 29.80 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 638 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_638.json
+[2024-11-11 12:30:01] - Tamaño: 38.56 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 639 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_639.json
+[2024-11-11 12:30:01] - Tamaño: 33.65 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 640 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_640.json
+[2024-11-11 12:30:01] - Tamaño: 29.35 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 641 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_641.json
+[2024-11-11 12:30:01] - Tamaño: 30.98 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 642 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_642.json
+[2024-11-11 12:30:01] - Tamaño: 33.29 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 643 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_643.json
+[2024-11-11 12:30:01] - Tamaño: 41.25 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 644 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_644.json
+[2024-11-11 12:30:01] - Tamaño: 28.93 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 645 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_645.json
+[2024-11-11 12:30:01] - Tamaño: 35.55 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 646 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_646.json
+[2024-11-11 12:30:01] - Tamaño: 32.32 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 647 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_647.json
+[2024-11-11 12:30:01] - Tamaño: 35.84 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 648 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_648.json
+[2024-11-11 12:30:01] - Tamaño: 40.09 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 649 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_649.json
+[2024-11-11 12:30:01] - Tamaño: 35.94 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 650 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_650.json
+[2024-11-11 12:30:01] - Tamaño: 29.34 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 651 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_651.json
+[2024-11-11 12:30:01] - Tamaño: 31.85 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 652 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_652.json
+[2024-11-11 12:30:01] - Tamaño: 32.93 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 653 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_653.json
+[2024-11-11 12:30:01] - Tamaño: 30.11 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 654 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_654.json
+[2024-11-11 12:30:01] - Tamaño: 45.90 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 655 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_655.json
+[2024-11-11 12:30:01] - Tamaño: 58.15 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 656 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_656.json
+[2024-11-11 12:30:01] - Tamaño: 29.50 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:01] Bloque 657 creado:
+[2024-11-11 12:30:01] - Ubicación: BlocksTemporales/block_657.json
+[2024-11-11 12:30:01] - Tamaño: 36.69 KB
+[2024-11-11 12:30:01] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 658 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_658.json
+[2024-11-11 12:30:02] - Tamaño: 39.60 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 659 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_659.json
+[2024-11-11 12:30:02] - Tamaño: 34.74 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 660 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_660.json
+[2024-11-11 12:30:02] - Tamaño: 35.84 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 661 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_661.json
+[2024-11-11 12:30:02] - Tamaño: 46.47 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 662 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_662.json
+[2024-11-11 12:30:02] - Tamaño: 35.99 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 663 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_663.json
+[2024-11-11 12:30:02] - Tamaño: 38.33 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 664 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_664.json
+[2024-11-11 12:30:02] - Tamaño: 37.61 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 665 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_665.json
+[2024-11-11 12:30:02] - Tamaño: 29.12 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 666 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_666.json
+[2024-11-11 12:30:02] - Tamaño: 33.64 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 667 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_667.json
+[2024-11-11 12:30:02] - Tamaño: 34.11 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 668 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_668.json
+[2024-11-11 12:30:02] - Tamaño: 34.36 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 669 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_669.json
+[2024-11-11 12:30:02] - Tamaño: 32.44 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 670 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_670.json
+[2024-11-11 12:30:02] - Tamaño: 30.07 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 671 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_671.json
+[2024-11-11 12:30:02] - Tamaño: 38.70 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 672 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_672.json
+[2024-11-11 12:30:02] - Tamaño: 30.27 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 673 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_673.json
+[2024-11-11 12:30:02] - Tamaño: 27.66 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 674 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_674.json
+[2024-11-11 12:30:02] - Tamaño: 34.55 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 675 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_675.json
+[2024-11-11 12:30:02] - Tamaño: 29.90 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 676 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_676.json
+[2024-11-11 12:30:02] - Tamaño: 27.43 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 677 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_677.json
+[2024-11-11 12:30:02] - Tamaño: 33.36 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 678 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_678.json
+[2024-11-11 12:30:02] - Tamaño: 34.24 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 679 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_679.json
+[2024-11-11 12:30:02] - Tamaño: 38.87 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 680 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_680.json
+[2024-11-11 12:30:02] - Tamaño: 39.78 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 681 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_681.json
+[2024-11-11 12:30:02] - Tamaño: 44.47 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 682 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_682.json
+[2024-11-11 12:30:02] - Tamaño: 30.30 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 683 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_683.json
+[2024-11-11 12:30:02] - Tamaño: 42.32 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 684 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_684.json
+[2024-11-11 12:30:02] - Tamaño: 37.06 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 685 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_685.json
+[2024-11-11 12:30:02] - Tamaño: 35.90 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 686 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_686.json
+[2024-11-11 12:30:02] - Tamaño: 30.11 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 687 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_687.json
+[2024-11-11 12:30:02] - Tamaño: 34.99 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 688 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_688.json
+[2024-11-11 12:30:02] - Tamaño: 41.84 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 689 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_689.json
+[2024-11-11 12:30:02] - Tamaño: 40.79 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 690 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_690.json
+[2024-11-11 12:30:02] - Tamaño: 36.02 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 691 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_691.json
+[2024-11-11 12:30:02] - Tamaño: 36.89 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 692 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_692.json
+[2024-11-11 12:30:02] - Tamaño: 31.95 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 693 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_693.json
+[2024-11-11 12:30:02] - Tamaño: 36.33 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 694 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_694.json
+[2024-11-11 12:30:02] - Tamaño: 32.84 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:02] Bloque 695 creado:
+[2024-11-11 12:30:02] - Ubicación: BlocksTemporales/block_695.json
+[2024-11-11 12:30:02] - Tamaño: 31.75 KB
+[2024-11-11 12:30:02] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 696 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_696.json
+[2024-11-11 12:30:03] - Tamaño: 35.80 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 697 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_697.json
+[2024-11-11 12:30:03] - Tamaño: 37.14 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 698 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_698.json
+[2024-11-11 12:30:03] - Tamaño: 34.73 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 699 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_699.json
+[2024-11-11 12:30:03] - Tamaño: 33.55 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 700 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_700.json
+[2024-11-11 12:30:03] - Tamaño: 37.61 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 701 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_701.json
+[2024-11-11 12:30:03] - Tamaño: 38.77 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 702 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_702.json
+[2024-11-11 12:30:03] - Tamaño: 37.18 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 703 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_703.json
+[2024-11-11 12:30:03] - Tamaño: 34.10 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 704 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_704.json
+[2024-11-11 12:30:03] - Tamaño: 38.32 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 705 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_705.json
+[2024-11-11 12:30:03] - Tamaño: 30.98 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 706 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_706.json
+[2024-11-11 12:30:03] - Tamaño: 29.19 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 707 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_707.json
+[2024-11-11 12:30:03] - Tamaño: 30.41 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 708 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_708.json
+[2024-11-11 12:30:03] - Tamaño: 35.71 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 709 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_709.json
+[2024-11-11 12:30:03] - Tamaño: 32.09 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 710 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_710.json
+[2024-11-11 12:30:03] - Tamaño: 52.99 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 711 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_711.json
+[2024-11-11 12:30:03] - Tamaño: 32.93 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 712 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_712.json
+[2024-11-11 12:30:03] - Tamaño: 29.87 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 713 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_713.json
+[2024-11-11 12:30:03] - Tamaño: 30.70 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 714 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_714.json
+[2024-11-11 12:30:03] - Tamaño: 31.14 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 715 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_715.json
+[2024-11-11 12:30:03] - Tamaño: 36.85 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 716 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_716.json
+[2024-11-11 12:30:03] - Tamaño: 33.06 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 717 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_717.json
+[2024-11-11 12:30:03] - Tamaño: 42.75 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 718 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_718.json
+[2024-11-11 12:30:03] - Tamaño: 31.21 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 719 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_719.json
+[2024-11-11 12:30:03] - Tamaño: 35.77 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 720 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_720.json
+[2024-11-11 12:30:03] - Tamaño: 40.14 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 721 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_721.json
+[2024-11-11 12:30:03] - Tamaño: 30.75 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 722 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_722.json
+[2024-11-11 12:30:03] - Tamaño: 37.90 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 723 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_723.json
+[2024-11-11 12:30:03] - Tamaño: 35.53 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 724 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_724.json
+[2024-11-11 12:30:03] - Tamaño: 26.01 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 725 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_725.json
+[2024-11-11 12:30:03] - Tamaño: 39.29 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 726 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_726.json
+[2024-11-11 12:30:03] - Tamaño: 32.69 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 727 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_727.json
+[2024-11-11 12:30:03] - Tamaño: 30.79 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 728 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_728.json
+[2024-11-11 12:30:03] - Tamaño: 46.36 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 729 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_729.json
+[2024-11-11 12:30:03] - Tamaño: 34.61 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 730 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_730.json
+[2024-11-11 12:30:03] - Tamaño: 30.78 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 731 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_731.json
+[2024-11-11 12:30:03] - Tamaño: 43.26 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 732 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_732.json
+[2024-11-11 12:30:03] - Tamaño: 30.41 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:03] Bloque 733 creado:
+[2024-11-11 12:30:03] - Ubicación: BlocksTemporales/block_733.json
+[2024-11-11 12:30:03] - Tamaño: 36.65 KB
+[2024-11-11 12:30:03] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 734 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_734.json
+[2024-11-11 12:30:04] - Tamaño: 31.08 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 735 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_735.json
+[2024-11-11 12:30:04] - Tamaño: 33.59 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 736 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_736.json
+[2024-11-11 12:30:04] - Tamaño: 27.07 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 737 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_737.json
+[2024-11-11 12:30:04] - Tamaño: 36.49 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 738 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_738.json
+[2024-11-11 12:30:04] - Tamaño: 31.04 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 739 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_739.json
+[2024-11-11 12:30:04] - Tamaño: 31.12 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 740 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_740.json
+[2024-11-11 12:30:04] - Tamaño: 40.26 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 741 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_741.json
+[2024-11-11 12:30:04] - Tamaño: 25.53 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 742 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_742.json
+[2024-11-11 12:30:04] - Tamaño: 27.73 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 743 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_743.json
+[2024-11-11 12:30:04] - Tamaño: 31.18 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 744 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_744.json
+[2024-11-11 12:30:04] - Tamaño: 29.83 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 745 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_745.json
+[2024-11-11 12:30:04] - Tamaño: 55.40 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 746 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_746.json
+[2024-11-11 12:30:04] - Tamaño: 46.89 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 747 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_747.json
+[2024-11-11 12:30:04] - Tamaño: 34.46 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 748 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_748.json
+[2024-11-11 12:30:04] - Tamaño: 42.79 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 749 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_749.json
+[2024-11-11 12:30:04] - Tamaño: 32.95 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 750 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_750.json
+[2024-11-11 12:30:04] - Tamaño: 31.12 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 751 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_751.json
+[2024-11-11 12:30:04] - Tamaño: 32.73 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 752 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_752.json
+[2024-11-11 12:30:04] - Tamaño: 29.94 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 753 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_753.json
+[2024-11-11 12:30:04] - Tamaño: 31.44 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 754 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_754.json
+[2024-11-11 12:30:04] - Tamaño: 30.94 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 755 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_755.json
+[2024-11-11 12:30:04] - Tamaño: 32.37 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 756 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_756.json
+[2024-11-11 12:30:04] - Tamaño: 49.27 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 757 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_757.json
+[2024-11-11 12:30:04] - Tamaño: 36.36 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 758 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_758.json
+[2024-11-11 12:30:04] - Tamaño: 30.12 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 759 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_759.json
+[2024-11-11 12:30:04] - Tamaño: 25.21 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 760 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_760.json
+[2024-11-11 12:30:04] - Tamaño: 29.37 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 761 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_761.json
+[2024-11-11 12:30:04] - Tamaño: 41.01 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 762 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_762.json
+[2024-11-11 12:30:04] - Tamaño: 31.24 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 763 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_763.json
+[2024-11-11 12:30:04] - Tamaño: 36.02 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 764 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_764.json
+[2024-11-11 12:30:04] - Tamaño: 35.46 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 765 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_765.json
+[2024-11-11 12:30:04] - Tamaño: 33.60 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 766 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_766.json
+[2024-11-11 12:30:04] - Tamaño: 29.65 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 767 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_767.json
+[2024-11-11 12:30:04] - Tamaño: 33.29 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 768 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_768.json
+[2024-11-11 12:30:04] - Tamaño: 26.65 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 769 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_769.json
+[2024-11-11 12:30:04] - Tamaño: 25.34 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 770 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_770.json
+[2024-11-11 12:30:04] - Tamaño: 40.57 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 771 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_771.json
+[2024-11-11 12:30:04] - Tamaño: 33.60 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 772 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_772.json
+[2024-11-11 12:30:04] - Tamaño: 31.17 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 773 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_773.json
+[2024-11-11 12:30:04] - Tamaño: 37.43 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 774 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_774.json
+[2024-11-11 12:30:04] - Tamaño: 34.60 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:04] Bloque 775 creado:
+[2024-11-11 12:30:04] - Ubicación: BlocksTemporales/block_775.json
+[2024-11-11 12:30:04] - Tamaño: 30.01 KB
+[2024-11-11 12:30:04] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 776 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_776.json
+[2024-11-11 12:30:05] - Tamaño: 30.48 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 777 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_777.json
+[2024-11-11 12:30:05] - Tamaño: 28.32 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 778 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_778.json
+[2024-11-11 12:30:05] - Tamaño: 32.00 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 779 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_779.json
+[2024-11-11 12:30:05] - Tamaño: 34.69 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 780 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_780.json
+[2024-11-11 12:30:05] - Tamaño: 39.67 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 781 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_781.json
+[2024-11-11 12:30:05] - Tamaño: 40.43 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 782 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_782.json
+[2024-11-11 12:30:05] - Tamaño: 25.98 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 783 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_783.json
+[2024-11-11 12:30:05] - Tamaño: 32.57 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 784 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_784.json
+[2024-11-11 12:30:05] - Tamaño: 31.97 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 785 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_785.json
+[2024-11-11 12:30:05] - Tamaño: 32.17 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 786 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_786.json
+[2024-11-11 12:30:05] - Tamaño: 36.41 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 787 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_787.json
+[2024-11-11 12:30:05] - Tamaño: 35.70 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 788 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_788.json
+[2024-11-11 12:30:05] - Tamaño: 28.88 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 789 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_789.json
+[2024-11-11 12:30:05] - Tamaño: 35.28 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 790 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_790.json
+[2024-11-11 12:30:05] - Tamaño: 29.49 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 791 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_791.json
+[2024-11-11 12:30:05] - Tamaño: 32.91 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 792 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_792.json
+[2024-11-11 12:30:05] - Tamaño: 32.54 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 793 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_793.json
+[2024-11-11 12:30:05] - Tamaño: 33.01 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 794 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_794.json
+[2024-11-11 12:30:05] - Tamaño: 31.99 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 795 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_795.json
+[2024-11-11 12:30:05] - Tamaño: 37.52 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 796 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_796.json
+[2024-11-11 12:30:05] - Tamaño: 33.42 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 797 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_797.json
+[2024-11-11 12:30:05] - Tamaño: 30.60 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 798 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_798.json
+[2024-11-11 12:30:05] - Tamaño: 36.81 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 799 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_799.json
+[2024-11-11 12:30:05] - Tamaño: 30.96 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 800 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_800.json
+[2024-11-11 12:30:05] - Tamaño: 34.59 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 801 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_801.json
+[2024-11-11 12:30:05] - Tamaño: 31.52 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 802 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_802.json
+[2024-11-11 12:30:05] - Tamaño: 42.00 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 803 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_803.json
+[2024-11-11 12:30:05] - Tamaño: 35.93 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 804 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_804.json
+[2024-11-11 12:30:05] - Tamaño: 38.19 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 805 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_805.json
+[2024-11-11 12:30:05] - Tamaño: 50.73 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 806 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_806.json
+[2024-11-11 12:30:05] - Tamaño: 37.45 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 807 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_807.json
+[2024-11-11 12:30:05] - Tamaño: 36.07 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 808 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_808.json
+[2024-11-11 12:30:05] - Tamaño: 35.06 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 809 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_809.json
+[2024-11-11 12:30:05] - Tamaño: 35.28 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 810 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_810.json
+[2024-11-11 12:30:05] - Tamaño: 36.33 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 811 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_811.json
+[2024-11-11 12:30:05] - Tamaño: 31.70 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 812 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_812.json
+[2024-11-11 12:30:05] - Tamaño: 36.02 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 813 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_813.json
+[2024-11-11 12:30:05] - Tamaño: 39.19 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:05] Bloque 814 creado:
+[2024-11-11 12:30:05] - Ubicación: BlocksTemporales/block_814.json
+[2024-11-11 12:30:05] - Tamaño: 31.46 KB
+[2024-11-11 12:30:05] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 815 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_815.json
+[2024-11-11 12:30:06] - Tamaño: 26.13 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 816 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_816.json
+[2024-11-11 12:30:06] - Tamaño: 35.06 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 817 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_817.json
+[2024-11-11 12:30:06] - Tamaño: 34.85 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 818 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_818.json
+[2024-11-11 12:30:06] - Tamaño: 35.45 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 819 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_819.json
+[2024-11-11 12:30:06] - Tamaño: 38.71 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 820 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_820.json
+[2024-11-11 12:30:06] - Tamaño: 39.73 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 821 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_821.json
+[2024-11-11 12:30:06] - Tamaño: 38.12 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 822 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_822.json
+[2024-11-11 12:30:06] - Tamaño: 33.95 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 823 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_823.json
+[2024-11-11 12:30:06] - Tamaño: 28.24 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 824 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_824.json
+[2024-11-11 12:30:06] - Tamaño: 31.50 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 825 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_825.json
+[2024-11-11 12:30:06] - Tamaño: 35.12 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 826 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_826.json
+[2024-11-11 12:30:06] - Tamaño: 36.02 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 827 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_827.json
+[2024-11-11 12:30:06] - Tamaño: 56.12 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 828 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_828.json
+[2024-11-11 12:30:06] - Tamaño: 36.73 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 829 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_829.json
+[2024-11-11 12:30:06] - Tamaño: 37.10 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 830 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_830.json
+[2024-11-11 12:30:06] - Tamaño: 36.57 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 831 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_831.json
+[2024-11-11 12:30:06] - Tamaño: 34.53 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 832 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_832.json
+[2024-11-11 12:30:06] - Tamaño: 39.69 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 833 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_833.json
+[2024-11-11 12:30:06] - Tamaño: 36.62 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 834 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_834.json
+[2024-11-11 12:30:06] - Tamaño: 29.70 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 835 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_835.json
+[2024-11-11 12:30:06] - Tamaño: 34.24 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 836 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_836.json
+[2024-11-11 12:30:06] - Tamaño: 34.82 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 837 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_837.json
+[2024-11-11 12:30:06] - Tamaño: 27.92 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 838 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_838.json
+[2024-11-11 12:30:06] - Tamaño: 30.70 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 839 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_839.json
+[2024-11-11 12:30:06] - Tamaño: 31.49 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 840 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_840.json
+[2024-11-11 12:30:06] - Tamaño: 34.12 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 841 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_841.json
+[2024-11-11 12:30:06] - Tamaño: 37.10 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 842 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_842.json
+[2024-11-11 12:30:06] - Tamaño: 40.54 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 843 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_843.json
+[2024-11-11 12:30:06] - Tamaño: 31.73 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 844 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_844.json
+[2024-11-11 12:30:06] - Tamaño: 31.17 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 845 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_845.json
+[2024-11-11 12:30:06] - Tamaño: 36.67 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 846 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_846.json
+[2024-11-11 12:30:06] - Tamaño: 31.10 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 847 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_847.json
+[2024-11-11 12:30:06] - Tamaño: 35.44 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 848 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_848.json
+[2024-11-11 12:30:06] - Tamaño: 34.79 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 849 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_849.json
+[2024-11-11 12:30:06] - Tamaño: 36.10 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 850 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_850.json
+[2024-11-11 12:30:06] - Tamaño: 32.87 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 851 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_851.json
+[2024-11-11 12:30:06] - Tamaño: 26.05 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 852 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_852.json
+[2024-11-11 12:30:06] - Tamaño: 36.84 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:06] Bloque 853 creado:
+[2024-11-11 12:30:06] - Ubicación: BlocksTemporales/block_853.json
+[2024-11-11 12:30:06] - Tamaño: 44.76 KB
+[2024-11-11 12:30:06] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 854 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_854.json
+[2024-11-11 12:30:07] - Tamaño: 32.91 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 855 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_855.json
+[2024-11-11 12:30:07] - Tamaño: 37.06 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 856 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_856.json
+[2024-11-11 12:30:07] - Tamaño: 38.36 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 857 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_857.json
+[2024-11-11 12:30:07] - Tamaño: 38.24 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 858 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_858.json
+[2024-11-11 12:30:07] - Tamaño: 32.95 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 859 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_859.json
+[2024-11-11 12:30:07] - Tamaño: 35.08 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 860 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_860.json
+[2024-11-11 12:30:07] - Tamaño: 35.80 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 861 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_861.json
+[2024-11-11 12:30:07] - Tamaño: 41.42 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 862 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_862.json
+[2024-11-11 12:30:07] - Tamaño: 37.20 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 863 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_863.json
+[2024-11-11 12:30:07] - Tamaño: 32.91 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 864 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_864.json
+[2024-11-11 12:30:07] - Tamaño: 33.56 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 865 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_865.json
+[2024-11-11 12:30:07] - Tamaño: 53.53 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 866 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_866.json
+[2024-11-11 12:30:07] - Tamaño: 32.35 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 867 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_867.json
+[2024-11-11 12:30:07] - Tamaño: 30.82 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 868 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_868.json
+[2024-11-11 12:30:07] - Tamaño: 40.99 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 869 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_869.json
+[2024-11-11 12:30:07] - Tamaño: 28.90 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 870 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_870.json
+[2024-11-11 12:30:07] - Tamaño: 35.21 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 871 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_871.json
+[2024-11-11 12:30:07] - Tamaño: 35.97 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 872 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_872.json
+[2024-11-11 12:30:07] - Tamaño: 38.61 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 873 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_873.json
+[2024-11-11 12:30:07] - Tamaño: 44.31 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 874 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_874.json
+[2024-11-11 12:30:07] - Tamaño: 40.00 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 875 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_875.json
+[2024-11-11 12:30:07] - Tamaño: 29.95 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 876 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_876.json
+[2024-11-11 12:30:07] - Tamaño: 25.10 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 877 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_877.json
+[2024-11-11 12:30:07] - Tamaño: 39.58 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 878 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_878.json
+[2024-11-11 12:30:07] - Tamaño: 38.64 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 879 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_879.json
+[2024-11-11 12:30:07] - Tamaño: 32.47 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 880 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_880.json
+[2024-11-11 12:30:07] - Tamaño: 28.98 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 881 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_881.json
+[2024-11-11 12:30:07] - Tamaño: 31.68 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 882 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_882.json
+[2024-11-11 12:30:07] - Tamaño: 35.14 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 883 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_883.json
+[2024-11-11 12:30:07] - Tamaño: 33.42 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 884 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_884.json
+[2024-11-11 12:30:07] - Tamaño: 27.93 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 885 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_885.json
+[2024-11-11 12:30:07] - Tamaño: 37.06 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 886 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_886.json
+[2024-11-11 12:30:07] - Tamaño: 33.59 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 887 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_887.json
+[2024-11-11 12:30:07] - Tamaño: 36.02 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 888 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_888.json
+[2024-11-11 12:30:07] - Tamaño: 35.83 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 889 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_889.json
+[2024-11-11 12:30:07] - Tamaño: 32.97 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 890 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_890.json
+[2024-11-11 12:30:07] - Tamaño: 33.31 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 891 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_891.json
+[2024-11-11 12:30:07] - Tamaño: 39.45 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:07] Bloque 892 creado:
+[2024-11-11 12:30:07] - Ubicación: BlocksTemporales/block_892.json
+[2024-11-11 12:30:07] - Tamaño: 29.55 KB
+[2024-11-11 12:30:07] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 893 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_893.json
+[2024-11-11 12:30:08] - Tamaño: 31.19 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 894 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_894.json
+[2024-11-11 12:30:08] - Tamaño: 30.36 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 895 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_895.json
+[2024-11-11 12:30:08] - Tamaño: 28.76 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 896 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_896.json
+[2024-11-11 12:30:08] - Tamaño: 28.34 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 897 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_897.json
+[2024-11-11 12:30:08] - Tamaño: 34.97 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 898 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_898.json
+[2024-11-11 12:30:08] - Tamaño: 29.09 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 899 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_899.json
+[2024-11-11 12:30:08] - Tamaño: 28.52 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 900 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_900.json
+[2024-11-11 12:30:08] - Tamaño: 26.61 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 901 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_901.json
+[2024-11-11 12:30:08] - Tamaño: 35.07 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 902 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_902.json
+[2024-11-11 12:30:08] - Tamaño: 37.53 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 903 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_903.json
+[2024-11-11 12:30:08] - Tamaño: 37.77 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 904 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_904.json
+[2024-11-11 12:30:08] - Tamaño: 45.01 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 905 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_905.json
+[2024-11-11 12:30:08] - Tamaño: 37.62 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 906 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_906.json
+[2024-11-11 12:30:08] - Tamaño: 32.06 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 907 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_907.json
+[2024-11-11 12:30:08] - Tamaño: 32.05 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 908 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_908.json
+[2024-11-11 12:30:08] - Tamaño: 36.61 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 909 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_909.json
+[2024-11-11 12:30:08] - Tamaño: 42.65 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 910 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_910.json
+[2024-11-11 12:30:08] - Tamaño: 38.39 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 911 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_911.json
+[2024-11-11 12:30:08] - Tamaño: 39.75 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 912 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_912.json
+[2024-11-11 12:30:08] - Tamaño: 32.65 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 913 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_913.json
+[2024-11-11 12:30:08] - Tamaño: 34.52 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 914 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_914.json
+[2024-11-11 12:30:08] - Tamaño: 37.23 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 915 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_915.json
+[2024-11-11 12:30:08] - Tamaño: 34.89 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 916 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_916.json
+[2024-11-11 12:30:08] - Tamaño: 40.94 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 917 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_917.json
+[2024-11-11 12:30:08] - Tamaño: 27.12 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 918 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_918.json
+[2024-11-11 12:30:08] - Tamaño: 30.33 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 919 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_919.json
+[2024-11-11 12:30:08] - Tamaño: 33.23 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 920 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_920.json
+[2024-11-11 12:30:08] - Tamaño: 37.77 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 921 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_921.json
+[2024-11-11 12:30:08] - Tamaño: 35.50 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 922 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_922.json
+[2024-11-11 12:30:08] - Tamaño: 32.84 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 923 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_923.json
+[2024-11-11 12:30:08] - Tamaño: 32.53 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 924 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_924.json
+[2024-11-11 12:30:08] - Tamaño: 37.01 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 925 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_925.json
+[2024-11-11 12:30:08] - Tamaño: 29.78 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 926 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_926.json
+[2024-11-11 12:30:08] - Tamaño: 29.82 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 927 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_927.json
+[2024-11-11 12:30:08] - Tamaño: 38.66 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 928 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_928.json
+[2024-11-11 12:30:08] - Tamaño: 30.78 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 929 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_929.json
+[2024-11-11 12:30:08] - Tamaño: 31.71 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 930 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_930.json
+[2024-11-11 12:30:08] - Tamaño: 33.93 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 931 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_931.json
+[2024-11-11 12:30:08] - Tamaño: 35.58 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 932 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_932.json
+[2024-11-11 12:30:08] - Tamaño: 35.95 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:08] Bloque 933 creado:
+[2024-11-11 12:30:08] - Ubicación: BlocksTemporales/block_933.json
+[2024-11-11 12:30:08] - Tamaño: 30.13 KB
+[2024-11-11 12:30:08] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 934 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_934.json
+[2024-11-11 12:30:09] - Tamaño: 28.76 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 935 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_935.json
+[2024-11-11 12:30:09] - Tamaño: 33.44 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 936 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_936.json
+[2024-11-11 12:30:09] - Tamaño: 34.43 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 937 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_937.json
+[2024-11-11 12:30:09] - Tamaño: 35.90 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 938 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_938.json
+[2024-11-11 12:30:09] - Tamaño: 29.08 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 939 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_939.json
+[2024-11-11 12:30:09] - Tamaño: 28.96 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 940 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_940.json
+[2024-11-11 12:30:09] - Tamaño: 29.47 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 941 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_941.json
+[2024-11-11 12:30:09] - Tamaño: 52.68 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 942 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_942.json
+[2024-11-11 12:30:09] - Tamaño: 27.89 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 943 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_943.json
+[2024-11-11 12:30:09] - Tamaño: 32.70 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 944 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_944.json
+[2024-11-11 12:30:09] - Tamaño: 31.56 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 945 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_945.json
+[2024-11-11 12:30:09] - Tamaño: 35.19 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 946 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_946.json
+[2024-11-11 12:30:09] - Tamaño: 34.47 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 947 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_947.json
+[2024-11-11 12:30:09] - Tamaño: 34.38 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 948 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_948.json
+[2024-11-11 12:30:09] - Tamaño: 36.76 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 949 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_949.json
+[2024-11-11 12:30:09] - Tamaño: 31.82 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 950 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_950.json
+[2024-11-11 12:30:09] - Tamaño: 34.28 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 951 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_951.json
+[2024-11-11 12:30:09] - Tamaño: 33.49 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 952 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_952.json
+[2024-11-11 12:30:09] - Tamaño: 38.93 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 953 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_953.json
+[2024-11-11 12:30:09] - Tamaño: 35.07 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 954 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_954.json
+[2024-11-11 12:30:09] - Tamaño: 32.94 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 955 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_955.json
+[2024-11-11 12:30:09] - Tamaño: 32.13 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 956 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_956.json
+[2024-11-11 12:30:09] - Tamaño: 33.41 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 957 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_957.json
+[2024-11-11 12:30:09] - Tamaño: 36.81 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 958 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_958.json
+[2024-11-11 12:30:09] - Tamaño: 33.60 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 959 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_959.json
+[2024-11-11 12:30:09] - Tamaño: 32.36 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 960 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_960.json
+[2024-11-11 12:30:09] - Tamaño: 29.91 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 961 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_961.json
+[2024-11-11 12:30:09] - Tamaño: 38.65 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 962 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_962.json
+[2024-11-11 12:30:09] - Tamaño: 36.07 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 963 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_963.json
+[2024-11-11 12:30:09] - Tamaño: 42.43 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 964 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_964.json
+[2024-11-11 12:30:09] - Tamaño: 27.57 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 965 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_965.json
+[2024-11-11 12:30:09] - Tamaño: 36.49 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 966 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_966.json
+[2024-11-11 12:30:09] - Tamaño: 31.59 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 967 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_967.json
+[2024-11-11 12:30:09] - Tamaño: 31.32 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 968 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_968.json
+[2024-11-11 12:30:09] - Tamaño: 33.90 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 969 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_969.json
+[2024-11-11 12:30:09] - Tamaño: 37.28 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 970 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_970.json
+[2024-11-11 12:30:09] - Tamaño: 37.97 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 971 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_971.json
+[2024-11-11 12:30:09] - Tamaño: 44.17 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 972 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_972.json
+[2024-11-11 12:30:09] - Tamaño: 31.37 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:09] Bloque 973 creado:
+[2024-11-11 12:30:09] - Ubicación: BlocksTemporales/block_973.json
+[2024-11-11 12:30:09] - Tamaño: 28.39 KB
+[2024-11-11 12:30:09] - Términos: 1000
+[2024-11-11 12:30:10] Bloque 974 creado:
+[2024-11-11 12:30:10] - Ubicación: BlocksTemporales/block_974.json
+[2024-11-11 12:30:10] - Tamaño: 34.17 KB
+[2024-11-11 12:30:10] - Términos: 1000
+[2024-11-11 12:30:10] Bloque 975 creado:
+[2024-11-11 12:30:10] - Ubicación: BlocksTemporales/block_975.json
+[2024-11-11 12:30:10] - Tamaño: 32.01 KB
+[2024-11-11 12:30:10] - Términos: 1000
+[2024-11-11 12:30:10] Bloque 976 creado:
+[2024-11-11 12:30:10] - Ubicación: BlocksTemporales/block_976.json
+[2024-11-11 12:30:10] - Tamaño: 37.92 KB
+[2024-11-11 12:30:10] - Términos: 1000
+[2024-11-11 12:30:10] Bloque final 977 creado:
+[2024-11-11 12:30:10] - Ubicación: BlocksTemporales/block_977.json
+[2024-11-11 12:30:10] - Tamaño: 24.29 KB
+[2024-11-11 12:30:10] - Términos: 781
+[2024-11-11 12:30:10] SPIMI completado. Total de bloques: 978

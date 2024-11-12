@@ -109,7 +109,7 @@ parser = SQLParser(create_query)
 if parser.parse_query() == "CREATE_TABLE":
     parsed_create = parser.get_parsed_query()
     create_table_from_file(parsed_create['table'], parsed_create['file_path'])
-
+    
 documents = [track['text'] for track in database['spotifyData']]
 
 inverted_index, documents = build_inverted_index_and_tfidf(documents)
@@ -121,7 +121,7 @@ filename = save_index_to_json(tf_idf_index)
 select_query = " SELECT track_name, track_artist FROM spotifyData WHERE lyrics liketo 'love'"
 # select_query = "SELECT track_name, track_artist FROM spotifyData WHERE track_name liketo ' it love'"
 parser = SQLParser(select_query)
-top_k = 5
+top_k = 10  
 
 #explain analyze
 results, execution_time = explainAnalyze(select_query, filename, top_k)

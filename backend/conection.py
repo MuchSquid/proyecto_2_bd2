@@ -4,6 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from typing import Optional
 from postgresql import ejecutar_consulta
 import time
+from parser import *
 import pandas as pd
 
 app = FastAPI()
@@ -62,6 +63,32 @@ def get_data(
     k: int = Query(10, gt=0, lt=100000000000000),
 ): 
     # Ejecutar la consulta
+    result = ejecutar_consulta(SqlData(q, k), select=True)
+    
+    # Verificar si el resultado es un DataFrame y convertirlo a JSON
+    if isinstance(result, pd.DataFrame):
+        return result.to_dict(orient="records")
+    
+    # Si el resultado es una lista de tuplas, convertir a lista de diccionarios
+    elif isinstance(result, list):
+        columns = ["track_id", "track_name", "similitud", "lyrics"]
+        return [dict(zip(columns, row)) for row in result]
+    
+    else:
+        raise HTTPException(status_code=500, detail="No se pudo obtener la data en el formato esperado.")
+    
+@app.get("/get_data")
+def get_data_local(
+    q: str = Query(..., min_length=1, max_length=1000),
+    k: int = Query(10, gt=0, lt=100000000000000),
+): 
+    
+    select_query = "SELECT track_name, track_artist FROM spotifyData WHERE lyrics liketo 'love'"
+    parser = SQLParser(select_query)
+    top_k = 10  
+
+    results, execution_time = explainAnalyze(select_query, 'tfidf_index.json', top_k)
+    
     result = ejecutar_consulta(SqlData(q, k), select=True)
     
     # Verificar si el resultado es un DataFrame y convertirlo a JSON
