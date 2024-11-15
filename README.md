@@ -94,7 +94,7 @@ El índice resultante se utiliza para realizar búsquedas eficientes mediante la
 
 # Frontend
 
-Para el frontend se utilizo el framework de Astro con React para estilizar se uso nextui para las tablas,
+Para el frontend se utilizo el framework de Astro con React, ademas para estilizar el ui se utilizó la librería de NextUI la cual nos da tablas, botones, etc con un diseño responsivo y moderno.
 Ademas se uso typescript para la conexión con fastapi del backend.
 
 # Autores
