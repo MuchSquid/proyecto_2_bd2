@@ -11,7 +11,8 @@ Dataset: https://drive.google.com/drive/folders/1mMIidLbl75S0r_4Nlg-9zSHkjrBGog5
 ### Preprocesamiento
 
 
-### Experimento
+### Experimento (comparación de tiempos PostgreSQL vs Indice Invertido)
+
 ![img1](/img1.png)
 
 # Frontend
