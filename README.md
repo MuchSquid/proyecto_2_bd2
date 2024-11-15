@@ -98,6 +98,10 @@ El índice resultante se utiliza para realizar búsquedas eficientes mediante la
 
 - Para las conexiones con el backend se uso typescript para las conexiones con las apis de backend.
 
+- Se uso tambien adicional las librerias de spline para las animaciones.
+
+- Se uso la api de spotify para agrega imagenes y audios a las canciones seguin el id de cada canción que se obtiene de las canciones.
+
 # Autores
 
 |                     **Esteban Vasquez Grados**                   |                                 **Darío Ricardo Nuñes Villacorta**                                 |                       **Yamileth Yarel Rincón Tejada**                     |  **Flavia Ailen Mañuico Quequejana** |   **Maria Fernanda Surco Vergara**  |
