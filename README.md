@@ -58,6 +58,34 @@ def preprocess_text(text):
 El resultado de esta etapa es una lista de términos limpios y normalizados listos para ser indexados.
 
 ### SPIMI
+La función `spimi_invert` implementa el algoritmo **SPIMI** (*Single-Pass In-Memory Indexing*) para construir índices invertidos de manera eficiente, optimizando el uso de memoria. Este proceso implica dividir los documentos en bloques que se almacenan en memoria secundaria, asegurando que el límite de memoria disponible no se supere. Luego, se realiza un **merge** para combinar los bloques y producir un índice invertido final.
+
+#### Flujo principal:
+
+1. **Construcción del índice invertido por bloques:**  
+   - Los términos de cada documento se añaden a un bloque en memoria.
+   - Cuando el tamaño del bloque excede un límite predefinido, este se escribe en un archivo JSON en memoria secundaria.
+   - Cada bloque incluye una lista de documentos (*posting list*) donde aparece cada término.
+
+2. **Merge de bloques:**  
+   - Los bloques creados se combinan en un único índice invertido final.
+   - Durante este proceso, se actualizan métricas como la frecuencia de documentos (*df*) y las listas de documentos asociados a cada término.
+
+3. **Cálculo del índice TF-IDF:**  
+   - Se calcula el puntaje TF-IDF para cada término y documento utilizando la frecuencia del término (*tf*), frecuencia de documentos (*df*) y el total de documentos (*N*).  
+   - Los puntajes TF-IDF se almacenan en un índice separado para facilitar búsquedas eficientes.
+
+4. **Limpieza de bloques temporales:**  
+   - Una vez completado el índice invertido y el cálculo de TF-IDF, se eliminan los archivos temporales para liberar espacio en disco.
+
+#### Funciones principales:
+
+- `spimi_invert(documents, block_size_limit)`: Procesa documentos y genera bloques temporales con índices invertidos parciales.
+- `merge_blocks(block_files)`: Combina bloques en un único índice invertido final.
+- `calculate_tf_idf(documents, inverted_index)`: Calcula los puntajes TF-IDF para el índice.
+- `clean_temp_blocks()`: Elimina los bloques temporales creados durante el proceso.
+
+El índice resultante se utiliza para realizar búsquedas eficientes mediante la similitud de coseno, devolviendo los documentos más relevantes para una consulta dada.
 
 ### Experimento (comparación de tiempos PostgreSQL vs Indice Invertido)
 
