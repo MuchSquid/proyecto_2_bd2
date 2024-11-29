@@ -26,8 +26,8 @@ def loadData():
                 "track_id": track_id,
                 "track_name": fila["track_name"],
                 "track_artist": fila["track_artist"],
-                "track_preview": fila["track_preview"],
                 "lyrics": fila["lyrics"],
+                "mp3": fila["mp3"],
                 "MFCC_Vector": punto,
                 "duration": 30000,
             }
@@ -78,6 +78,7 @@ def knnRange(query, C, radius):
         if distance <= radius:
             results.append((distance, track_id))
     
+    results.sort(key=lambda x: x[0])
     return results
 
 
@@ -85,7 +86,7 @@ def main():
     puntos = loadData()
     puntos_reducidos, pca, scaler = reducirPCA(puntos)
     
-    track_id_query = '4l0O19WwpjzbDGkdFtkQ6W'
+    track_id_query = '00hdjyXt6MohKnCyDmhxOL'
     
     print("Búsqueda KNN:")
     if track_id_query in puntos_reducidos:
@@ -106,7 +107,7 @@ def main():
 
     if track_id_query in puntos_reducidos:
         query_vector = puntos_reducidos[track_id_query]["Reduced_MFCC"]
-        radius = 6.0
+        radius = 4.0
 
         range_results = knnRange(query_vector, puntos_reducidos, radius)
 
@@ -117,6 +118,7 @@ def main():
                 print(f"Distancia: {distance}, Track ID: {track_id}, Nombre: {song_info['track_name']}, Artista: {song_info['track_artist']}")
         else:
             print("No se encontraron canciones dentro del rango especificado.")
+    
     else:
         print(f"La canción con track_id {track_id_query} no existe en la base de datos.")
 
