@@ -7,6 +7,9 @@
 Dataset: https://drive.google.com/drive/folders/1mMIidLbl75S0r_4Nlg-9zSHkjrBGog5M?usp=drive_link 
 Se utilizo un dataset que contiene mas de 15000 canciones con sus letras cada una y 14 atributos
 
+Dataset 2 de música - mp3: https://drive.google.com/drive/u/3/folders/1J8RrRfegDamA51AzghoOiHxKvjplVxTM
+
+
 # Backend
 ### Índice Invertido
 
