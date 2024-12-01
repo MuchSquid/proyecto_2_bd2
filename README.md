@@ -116,24 +116,24 @@ Usaremos el track_id `09nSCeCs6eYfAIJVfye1CE` para realziar la experimentación 
 
 ### Aplicando con PCA (KNN Sequential y FAISS)
 
-N | KNN Sequential | RTree | FAISS
----|---|---|---|
-1000 | 137.13 ms | 1.00 ms | 19.96 ms
-2000 | 130.35 ms | 2.00 ms | 19.00 ms
-4000 | 148.48 ms |3.00 ms  | 18.99 ms
-6000 | 143.13 ms | 5.02 ms | 17.96 ms 
-8000 | 146.04 ms | 6.52 ms | 18.00 ms
-10000 | 141.16 ms | 7.00 ms | 21.00 ms
+N | KNN Sequential | KNN Range| RTree | FAISS
+---|---|---|---|---|
+1000 | 44.94 ms | 39.18 ms | 1.00 ms | 19.96 ms
+2000 | 48.14 ms | 46.14 ms | 2.00 ms | 19.00 ms
+4000 | 51.34 ms | 46.18 ms | 3.00 ms  | 18.99 ms
+6000 | 50.12 ms | 42.22 ms | 5.02 ms | 17.96 ms 
+8000 | 53.66 ms | 47.65 ms | 6.52 ms | 18.00 ms
+10000 | 46.71 ms | 41.34 ms | 7.00 ms | 21.00 ms
 
 ### Aplicando sin PCA (KNN Sequential y FAISS)
-N | KNN Sequential | RTree | FAISS
----|---|---|---|
-1000 | 176.72 ms |2.02 ms | 60.96 ms
-2000 | 173.69 ms |3.13 ms  | 41.97 ms
-4000 | 170.44 ms |4.01 ms  | 38.99 ms 
-6000 | 176.11 ms | 4.28 ms  | 40.00 ms
-8000 | 168.29 ms | 5.00 ms | 39.97 ms 
-10000 | 174.33 ms |7.02 ms  | 33.77 ms
+N | KNN Sequential | KNN Range| RTree | FAISS
+---|---|---|---|---|
+1000 | 86.31 ms | 87.92 ms | 2.02 ms | 60.96 ms
+2000 | 99.70 ms | 95.12 ms | 3.13 ms  | 41.97 ms
+4000 | 90.70 ms | 91.37 ms | 4.01 ms  | 38.99 ms 
+6000 | 92.11 ms | 82.47 ms | 4.28 ms  | 40.00 ms
+8000 | 87.61 ms | 77.95 ms | 5.00 ms | 39.97 ms 
+10000 | 86.00 ms | 78.90 ms | 7.02 ms | 33.77 ms
 
 
 # Frontend
