@@ -125,6 +125,8 @@ N | KNN Sequential | KNN Range| RTree | FAISS
 8000 | 53.66 ms | 47.65 ms | 6.52 ms | 29.00 ms
 10000 | 46.71 ms | 41.34 ms | 7.00 ms | 33.00 ms
 
+![experimentacionPCa](/img/tiempoPCA.png)
+
 ### Sin PCA
 N | KNN Sequential | KNN Range| RTree | FAISS
 ---|---|---|---|---|
@@ -135,6 +137,7 @@ N | KNN Sequential | KNN Range| RTree | FAISS
 8000 | 87.61 ms | 77.95 ms | 5.00 ms | 49.00 ms 
 10000 | 86.00 ms | 78.90 ms | 7.02 ms | 51.00 ms
 
+![experimentacionPCa](/img/tiempoSinPCA.png)
 
 # Frontend
 
