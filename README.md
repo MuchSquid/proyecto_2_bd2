@@ -116,26 +116,26 @@ Usaremos el track_id `09nSCeCs6eYfAIJVfye1CE` para realziar la experimentación 
 
 ### Aplicando PCA
 
-N | KNN Sequential | KNN Range| RTree | FAISS
----|---|---|---|---|
-1000 | 44.94 ms | 39.18 ms | 1.00 ms | 63.02 ms
-2000 | 48.14 ms | 46.14 ms | 2.00 ms | 35.99 ms
-4000 | 51.34 ms | 46.18 ms | 3.00 ms  | 32.00 ms
-6000 | 50.12 ms | 42.22 ms | 5.02 ms | 30.96 ms 
-8000 | 53.66 ms | 47.65 ms | 6.52 ms | 29.00 ms
-10000 | 46.71 ms | 41.34 ms | 7.00 ms | 33.00 ms
+N | KNN Sequential | KNN Range| RTree |RTree Range | FAISS
+---|---|---|---|---|---|
+1000 | 44.94 ms | 39.18 ms | 1.00 ms |0.96 ms| 63.02 ms
+2000 | 48.14 ms | 46.14 ms | 2.00 ms| 0.00 ms| 35.99 ms
+4000 | 51.34 ms | 46.18 ms | 3.00 ms |1.99 ms | 32.00 ms
+6000 | 50.12 ms | 42.22 ms | 5.02 ms| 3.05 ms| 30.96 ms 
+8000 | 53.66 ms | 47.65 ms | 6.52 ms | 3.48 ms| 29.00 ms
+10000 | 46.71 ms | 41.34 ms | 7.00 ms|3.04 ms | 33.00 ms
 
 ![experimentacionPCa](/img/tiempoPCA.png)
 
 ### Sin PCA
-N | KNN Sequential | KNN Range| RTree | FAISS
----|---|---|---|---|
-1000 | 86.31 ms | 87.92 ms | 2.02 ms | 77.00 ms
-2000 | 99.70 ms | 95.12 ms | 3.13 ms  | 50.00 ms
-4000 | 90.70 ms | 91.37 ms | 4.01 ms  | 49.97 ms 
-6000 | 92.11 ms | 82.47 ms | 4.28 ms  | 51.00 ms
-8000 | 87.61 ms | 77.95 ms | 5.00 ms | 49.00 ms 
-10000 | 86.00 ms | 78.90 ms | 7.02 ms | 51.00 ms
+N | KNN Sequential | KNN Range| RTree|RTree Range | FAISS
+---|---|---|---|---|---|
+1000 | 86.31 ms | 87.92 ms | 2.02 ms| 0.00 ms| 77.00 ms
+2000 | 99.70 ms | 95.12 ms | 3.13 ms |0.92 ms | 50.00 ms
+4000 | 90.70 ms | 91.37 ms | 4.01 ms| 2.04 ms | 49.97 ms 
+6000 | 92.11 ms | 82.47 ms | 4.28 ms |5.60 ms | 51.00 ms
+8000 | 87.61 ms | 77.95 ms | 5.00 ms |5.64 ms| 49.00 ms 
+10000 | 86.00 ms | 78.90 ms | 7.02 ms|  7.00 ms| 51.00 ms
 
 ![experimentacionPCa](/img/tiempoSinPCA.png)
 
