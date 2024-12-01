@@ -221,11 +221,11 @@ N | 4 | 8 | 16 | 32 | 64 | 128 | 256
 
 Se puede notar una diferencia de los tiempos en como van incrementando con respecto a la cantidad de bits, pero tambien existe una diferencia en la precisión, la canción buscada es una de reggaeton y por ejemplo, para los 4 bits nos retorna canciones que seguro tienen el mismo ritmo pero ninguna de reggaeton o español:
 
-![prueba1](/pruebareal2.png)
+![prueba1](/img/pruebareal2.PNG)
 
 En cambio con 256 ya nos salen algunas canciones en español y que si son reggaeton:
 
-![prueba2](/pruebareal1.png)
+![prueba2](/img/pruebareal1.PNG)
 
 ## Experimentación 
 Usaremos el track_id `09nSCeCs6eYfAIJVfye1CE` para realziar la experimentación con los 3 índices multidimensionales y compararlos.
