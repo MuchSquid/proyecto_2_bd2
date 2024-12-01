@@ -106,7 +106,7 @@ El algoritmo implementado utiliza dos enfoques principales para comparar y encon
 
 La distancia euclidiana se calcula mediante la función `euclidean_distance`, que toma dos vectores como entrada y devuelve la magnitud de la diferencia entre ellos. Esta métrica es fundamental para evaluar la proximidad entre los vectores de características. La cantidad de vectores caracteristicos dependerá de si aplicamos la reducción PCa o si se hace uso de la cantidad de vectores caracteristicos originales (`n=50`).
 
-(insertar imagen de distancia euclidiana)
+<img src="/img/euclidiana.png" style="width:60%; height:auto;">
 
 Y se define con este código:
 
