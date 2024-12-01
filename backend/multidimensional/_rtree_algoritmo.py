@@ -103,6 +103,14 @@ def knn_rtree(query, C, idx, track_to_id_map, k):
         print(f"Error en knn_rtree: {e}")
         return []
 
+def range_search_rtree(rtree_index, query_vector, radius):
+    min_bounds = [v - radius for v in query_vector]
+    max_bounds = [v + radius for v in query_vector]
+    
+    rect = tuple(min_bounds) + tuple(max_bounds)
+    results = list(rtree_index.intersection(rect)) 
+    return results
+
 def main():
     puntos = loadData()
     puntos_reducidos, pca, scaler = reducirPCA(puntos)
@@ -169,6 +177,57 @@ def experimentoTiempo():
         
         totalTiempo = knnRtreeFin - inicioTiempo
         print(f"Tiempo total: {totalTiempo * 1000:.2f} ms")
+
+
+def experimentoTiempoRangeSearch():
+    dataSizes = [1000, 2000, 4000, 6000, 8000, 10000]
+    radius = 4
+    track_id_query = '09nSCeCs6eYfAIJVfye1CE'
+
+    for size in dataSizes:
+        print(f"\nProcesando {size} datos...")
+        puntos = loadData()
+        puntos = dict(list(puntos.items())[:size]) 
+
+        inicioTiempo = time.time()
+        puntos_reducidos, pca, scaler = reducirPCA(puntos)
+        pcaTiempo = time.time()
+        print(f"Tiempo de reducción PCA: {(pcaTiempo - inicioTiempo) * 1000:.2f} ms")
+
+        if track_id_query not in puntos:
+            print(f"El track_id {track_id_query} no se encuentra en los datos. Saltando esta iteración.")
+            continue
+
+        query_vector = puntos[track_id_query]["Reduced_MFCC"]
+
+        rtreeInicio = time.time()
+        idx, track_to_id_map = construir_rtree_con_propiedades(puntos, dimensions=len(query_vector))
+        rtreeFin = time.time()
+        print(f"Tiempo de construcción R-tree: {(rtreeFin - pcaTiempo) * 1000:.2f} ms")
+
+        rangeInicio = time.time()
+        range_results = range_search_rtree(idx, query_vector, radius)
+        rangeFin = time.time()
+        print(f"Tiempo de búsqueda Range R-tree: {(rangeFin - rangeInicio) * 1000:.2f} ms")
+        resultados = []
+        for i in range_results:
+            track_id = track_to_id_map[i]
+            candidate_vector = puntos_reducidos[track_id]["Reduced_MFCC"]
+            distancia = np.linalg.norm(np.array(candidate_vector) - np.array(query_vector))
+            if distancia <= radius:
+                resultados.append((distancia, track_id))
+
+        resultados_ordenados = sorted(resultados, key=lambda x: x[0]) 
+        print(f"Se encontraron {len(resultados_ordenados)} canciones dentro del rango:")
+        
+        for distancia, track_id in resultados_ordenados[:5]: 
+            song_info = puntos[track_id]
+            print(f"Distancia: {distancia:.4f}, Track ID: {track_id}, Nombre: {song_info['track_name']}, Artista: {song_info['track_artist']}")
+
+        totalTiempo = rangeFin - inicioTiempo
+        print(f"Tiempo total para {size} datos: {totalTiempo * 1000:.2f} ms")
+
 if __name__ == "__main__":
     # experimentoTiempo()
     main()
+    # experimentoTiempoRangeSearch()
