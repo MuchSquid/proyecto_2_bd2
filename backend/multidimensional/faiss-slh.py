@@ -68,8 +68,8 @@ def experimentoTiempo():
         
         inicioTiempo = time.time()
 
-        n_bits = 64
-        dimension = len(next(iter(puntos.values()))["MFCC_Vector"])
+        n_bits = 128
+        dimension = 50
         index = faiss.IndexLSH(dimension, n_bits)
 
         mfcc_vectors = np.array([punto["MFCC_Vector"] for punto in puntos.values()]).astype('float32')
