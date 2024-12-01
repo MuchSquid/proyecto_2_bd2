@@ -153,7 +153,7 @@ def knnRange(query, C, radius):
     results.sort(key=lambda x: x[0])
     return results
 ```
-Por ejemplo, si aplicamos el algoritmo con el mismo `track_id` anterior (`0qYTZCo5Bwh1nsUFGZP3zn`) con un `radius` de 3.7 este es el resultado:
+Por ejemplo, si aplicamos el algoritmo con el mismo `track_id` anterior (`0qYTZCo5Bwh1nsUFGZP3zn`) con un `radius = 3.7` este es el resultado:
 
 ![knnRange](/img/knnRange_M.png)
 
