@@ -102,6 +102,52 @@ El índice resultante se utiliza para realizar búsquedas eficientes mediante la
 
 ## KNN Sequential
 
+El algoritmo implementado utiliza dos enfoques principales para comparar y encontrar canciones similares en una base de datos basada en sus vectores característicos: **KNN Secuencial** y **búsqueda por rango**. Ambos métodos emplean la distancia euclidiana como métrica para determinar la similitud entre las canciones y la consulta proporcionada por el usuario.
+
+La distancia euclidiana se calcula mediante la función `euclidean_distance`, que toma dos vectores como entrada y devuelve la magnitud de la diferencia entre ellos. Esta métrica es fundamental para evaluar la proximidad entre los vectores de características. La cantidad de vectores caracteristicos dependerá de si aplicamos la reducción PCa o si se hace uso de la cantidad de vectores caracteristicos originales (`n=50`).
+
+(insertar imagen de distancia euclidiana)
+
+Y se define con este código:
+
+```python
+def euclidean_distance(vector1, vector2):
+    return np.linalg.norm(np.array(vector1) - np.array(vector2))
+```
+El algoritmo **KNN Secuencial** consiste en encontrar las **k** canciones más cercanas al vector de query (el `track_id` de input). Para cada canción en la base de datos, se calcula la distancia euclidiana entre el vector de consulta y el vector de características (`MFCC_Vector` o `Reduced_MFCC` (aplicando PCA)) de la canción. Estas distancias se ordenan de menor a mayor, y se seleccionan las k canciones con menor distancia. El siguiente código implementa este proceso:
+
+```python
+def knnSeq(query, C, k):
+    distances = []
+    
+    for track_id, punto_info in C.items():
+        vector = punto_info["Reduced_MFCC"] #esto cambia si se aplica reducción PCA o no 
+        distance = euclidean_distance(query, vector)
+        distances.append((distance, track_id))
+    
+    distances.sort(key=lambda x: x[0])
+    return distances[:k]
+```
+Donde query es el vector de caracteristicas del `track_id` (identificador de la canción) de consulta, C es el diccionario que contiene la información de las canciones, y k es el número de canciones más cercanas que se desea encontrar.
+
+Por otro lado, la **búsqueda por rango** busca todas las canciones cuya distancia euclidiana con la consulta sea menor o igual a un radio (`radius`) especificado. Esto se utiliza para encontrar un conjunto dinámico de canciones que cumplan con un criterio de proximidad. 
+
+Su código es el siguiente:
+```python
+def knnRange(query, C, radius):
+    results = []
+    
+    for track_id, punto_info in C.items():
+        vector = punto_info["Reduced_MFCC"] #esto cambia si se aplica reducción PCA o no 
+        distance = euclidean_distance(query, vector)
+        
+        if distance <= radius:
+            results.append((distance, track_id))
+    
+    results.sort(key=lambda x: x[0])
+    return results
+```
+Las canciones que cumplen con el criterio de distancia son añadidas a la lista de resultados, que se ordena por proximidad antes de ser devuelta.
 
 ## RTree
 
