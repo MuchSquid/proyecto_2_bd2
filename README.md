@@ -118,12 +118,12 @@ Usaremos el track_id `09nSCeCs6eYfAIJVfye1CE` para realziar la experimentación 
 
 N | KNN Sequential | RTree | FAISS
 ---|---|---|---|
-1000 | 137.13 ms | 1.00 ms | 
-2000 | 130.35 ms | 2.00 ms | 
-4000 | 148.48 ms |3.00 ms  |  
-6000 | 143.13 ms | 5.02 ms | 
-8000 | 146.04 ms | 6.52 ms | 
-10000 | 141.16 ms | 7.00 ms | 
+1000 | 137.13 ms | 1.00 ms | 19.96 ms
+2000 | 130.35 ms | 2.00 ms | 19.00 ms
+4000 | 148.48 ms |3.00 ms  | 18.99 ms
+6000 | 143.13 ms | 5.02 ms | 17.96 ms 
+8000 | 146.04 ms | 6.52 ms | 18.00 ms
+10000 | 141.16 ms | 7.00 ms | 21.00 ms
 
 ### Aplicando sin PCA (KNN Sequential y FAISS)
 N | KNN Sequential | RTree | FAISS
