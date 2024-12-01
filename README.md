@@ -114,7 +114,7 @@ El índice resultante se utiliza para realizar búsquedas eficientes mediante la
 ## Experimentación 
 Usaremos el track_id `09nSCeCs6eYfAIJVfye1CE` para realziar la experimentación con los 3 índices multidimensionales y compararlos.
 
-### Aplicando con PCA (KNN Sequential y FAISS)
+### Aplicando PCA
 
 N | KNN Sequential | KNN Range| RTree | FAISS
 ---|---|---|---|---|
@@ -125,7 +125,7 @@ N | KNN Sequential | KNN Range| RTree | FAISS
 8000 | 53.66 ms | 47.65 ms | 6.52 ms | 18.00 ms
 10000 | 46.71 ms | 41.34 ms | 7.00 ms | 21.00 ms
 
-### Aplicando sin PCA (KNN Sequential y FAISS)
+### Sin PCA
 N | KNN Sequential | KNN Range| RTree | FAISS
 ---|---|---|---|---|
 1000 | 86.31 ms | 87.92 ms | 2.02 ms | 60.96 ms
