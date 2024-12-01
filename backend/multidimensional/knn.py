@@ -2,9 +2,9 @@ import numpy as np
 from sklearn.decomposition import PCA
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
+import time
 
-
-def loadData():
+def loadData(num_samples=None):
     file_path = '../../vectoresCaracteristicos/spotifyCompleto.csv'
     df = pd.read_csv(file_path, on_bad_lines="skip")
     puntos = {}
@@ -81,12 +81,11 @@ def knnRange(query, C, radius):
     results.sort(key=lambda x: x[0])
     return results
 
-
 def main():
     puntos = loadData()
     puntos_reducidos, pca, scaler = reducirPCA(puntos)
     
-    track_id_query = '00hdjyXt6MohKnCyDmhxOL'
+    track_id_query = '09nSCeCs6eYfAIJVfye1CE'
     
     print("Búsqueda KNN:")
     if track_id_query in puntos_reducidos:
@@ -122,5 +121,46 @@ def main():
     else:
         print(f"La canción con track_id {track_id_query} no existe en la base de datos.")
 
+def experimentoTiempo():
+    dataSizes = [1000, 2000, 4000, 8000, 10000]
+    k = 8
+    radius = 3.5
+
+    for size in dataSizes:
+        print(f"\nProcesando {size} datos...")
+        puntos = loadData(num_samples=size) 
+
+        inicioTiempo = time.time()
+
+        puntos_reducidos, pca, scaler = reducirPCA(puntos)
+        pcaTiempo = time.time()
+        print(f"Tiempo de reducción PCA: {(pcaTiempo - inicioTiempo) * 1000:.2f} ms")
+        
+        track_id_query = '09nSCeCs6eYfAIJVfye1CE'
+        # print("Búsqueda KNN:")
+
+        #knn secuencial
+        query_vector = puntos_reducidos[track_id_query]["Reduced_MFCC"]
+        closest_songs = knnSeq(query_vector, puntos_reducidos, k)
+        knnSecuencialTiempo = time.time()
+        print(f"Tiempo de búsqueda KNN Secuencial: {(knnSecuencialTiempo - pcaTiempo) * 1000:.2f} ms")
+
+            # print(f"Las {k} canciones más similares a la canción con track_id {track_id_query}:")
+        # for distance, track_id in closest_songs:
+        #     song_info = puntos_reducidos[track_id]
+        #     print(f"Distancia: {distance}, Track ID: {track_id}, Nombre: {song_info['track_name']}, Artista: {song_info['track_artist']}")
+
+        range_results = knnRange(query_vector, puntos_reducidos, radius)
+        knnRangeTiempo = time.time()
+        print(f"Tiempo de búsqueda KNN Range: {(knnRangeTiempo - knnSecuencialTiempo) * 1000:.2f} ms")
+        totalTiempo = knnRangeTiempo - inicioTiempo
+        
+        # for distance, track_id in range_results:
+        #         song_info = puntos_reducidos[track_id]
+        #         print(f"Distancia: {distance}, Track ID: {track_id}, Nombre: {song_info['track_name']}, Artista: {song_info['track_artist']}")
+        
+        print(f"Tiempo total: {totalTiempo * 1000:.2f} ms")
+
 if __name__ == "__main__":
-    main()
+    # main()
+    experimentoTiempo()
