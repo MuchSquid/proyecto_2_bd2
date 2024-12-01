@@ -95,6 +95,22 @@ El índice resultante se utiliza para realizar búsquedas eficientes mediante la
 
 ![img1](/img1.png)
 
+# Índices Multidimensionales
+
+
+### Experimentación 
+Usaremos el track_id `09nSCeCs6eYfAIJVfye1CE` para realziar la experimentación con los 3 índices multidimensionales y compararlos.
+
+N | KNN Sequential | RTree | FAISS
+---|---|---|---|
+1000 | 137.13 ms |  | 
+2000 | 130.35 ms |  |
+4000 | 148.48 ms |  |
+6000 | 143.13 ms |  |
+8000 | 146.04 ms |  |
+10000 | 141.16 ms |  |
+
+
 # Frontend
 
 - Para el frontend se utilizo el framework de Astro con React, ademas para estilizar el ui se utilizó la librería de NextUI la cual nos da tablas, botones, etc con un diseño responsivo y moderno.
