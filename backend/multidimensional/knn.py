@@ -122,7 +122,7 @@ def main():
         print(f"La canción con track_id {track_id_query} no existe en la base de datos.")
 
 def experimentoTiempo():
-    dataSizes = [1000, 2000, 4000, 8000, 10000]
+    dataSizes = [1000, 2000, 4000, 6000, 8000, 10000]
     k = 8
     radius = 3.5
 
