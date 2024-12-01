@@ -3,7 +3,8 @@ from sklearn.decomposition import PCA
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from rtree import index
-
+import time
+import numpy as np
 
 def loadData():
     file_path = '../../vectoresCaracteristicos/spotifyCompleto.csv'
@@ -59,42 +60,54 @@ def euclidean_distance(vector1, vector2):
     return np.linalg.norm(np.array(vector1) - np.array(vector2))
 
 
+
+
 def construir_rtree_con_propiedades(C, dimensions=15):
     prop = index.Property()
-    prop.dimension = dimensions  
-    prop.buffering_capacity = 10  
+    prop.dimension = dimensions
+    prop.buffering_capacity = 10
     prop.dat_extension = 'dat'
     prop.idx_extension = 'idx'
 
-    idx = index.Index('puntos', properties=prop, overwrite=True)
+    idx = index.Index(properties=prop, overwrite=True)
     track_to_id_map = {}
 
     for i, (track_id, punto_info) in enumerate(C.items()):
         vector = punto_info["Reduced_MFCC"]
-        idx.insert(i, vector + vector) 
+        
+        bounds = tuple(list(vector) * 2)
+        
+        idx.insert(i, bounds)
         track_to_id_map[i] = track_id 
 
     return idx, track_to_id_map
 
+
 def knn_rtree(query, C, idx, track_to_id_map, k):
+    try:
+        search_range = tuple(list(query) * 2)
+        
+        results = []
+        
+        for item in idx.nearest(search_range, k):
+            track_index = item if isinstance(item, int) else item.id
+            track_id = track_to_id_map[track_index]     
+            vector = C[track_id]["Reduced_MFCC"]
+            distance = euclidean_distance(query, vector)
+            results.append((distance, track_id))
     
-    nearest = list(idx.nearest((*query, *query), k))
-    results = []
-
-    for i in nearest:
-        track_id = track_to_id_map[i]
-        vector = C[track_id]["Reduced_MFCC"]
-        distance = euclidean_distance(query, vector)
-        results.append((distance, track_id))
-
-    results.sort(key=lambda x: x[0])  
-    return results
+        results.sort(key=lambda x: x[0])
+        return results
+    
+    except Exception as e:
+        print(f"Error en knn_rtree: {e}")
+        return []
 
 def main():
     puntos = loadData()
     puntos_reducidos, pca, scaler = reducirPCA(puntos)
     
-    track_id_query = '00Ia46AgCNfnXjzgH8PIKH'
+    track_id_query = '0qYTZCo5Bwh1nsUFGZP3zn'
 
     if track_id_query in puntos_reducidos:
         query_vector = puntos_reducidos[track_id_query]["Reduced_MFCC"]
@@ -114,5 +127,48 @@ def main():
 
 
 
+
+
+def experimentoTiempo():
+    dataSizes = [1000, 2000, 4000, 6000, 8000, 10000]
+    k = 8
+    radius = 3.5
+    
+    for size in dataSizes:
+        print(f"\nProcesando {size} datos...")
+        
+        puntos = loadData()
+        puntos = dict(list(puntos.items())[:size])
+        
+        inicioTiempo = time.time()
+        puntos_reducidos, pca, scaler = reducirPCA(puntos)
+        pcaTiempo = time.time()
+        print(f"Tiempo de reducción PCA: {(pcaTiempo - inicioTiempo) * 1000:.2f} ms")
+        
+        if not puntos_reducidos:
+            print("No hay datos reducidos. Saltando esta iteración.")
+            continue
+        
+        track_id_query = list(puntos_reducidos.keys())[0]
+        query_vector = puntos_reducidos["09nSCeCs6eYfAIJVfye1CE"]["Reduced_MFCC"]
+        
+        rtreeConstruccionInicio = time.time()
+        idx, track_to_id_map = construir_rtree_con_propiedades(puntos_reducidos, dimensions=len(query_vector))
+        rtreeConstruccionTiempo = time.time()
+        print(f"Tiempo de construcción R-tree: {(rtreeConstruccionTiempo - pcaTiempo) * 1000:.2f} ms")
+        
+        knnRtreeTiempo = time.time()
+        closest_songs_rtree = knn_rtree(query_vector, puntos_reducidos, idx, track_to_id_map, k)
+        knnRtreeFin = time.time()
+        print(f"Tiempo de búsqueda KNN R-tree: {(knnRtreeFin - rtreeConstruccionTiempo) * 1000:.2f} ms")
+        
+        print(f"Las {k} canciones más similares a la canción con track_id {track_id_query}:")
+        for distance, track_id in closest_songs_rtree:
+            song_info = puntos_reducidos[track_id]
+            print(f"Distancia: {distance:.4f}, Track ID: {track_id}, Nombre: {song_info['track_name']}, Artista: {song_info['track_artist']}")
+        
+        totalTiempo = knnRtreeFin - inicioTiempo
+        print(f"Tiempo total: {totalTiempo * 1000:.2f} ms")
 if __name__ == "__main__":
+    # experimentoTiempo()
     main()
