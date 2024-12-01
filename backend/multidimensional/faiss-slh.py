@@ -37,18 +37,7 @@ def loadData(num_samples=None):
     
     return puntos
 
-puntos = loadData()
-
-n_bits = 64
-dimension = len(next(iter(puntos.values()))["MFCC_Vector"])
-index = faiss.IndexLSH(dimension, n_bits)
-
-mfcc_vectors = np.array([punto["MFCC_Vector"] for punto in puntos.values()]).astype('float32')
-
-index.train(mfcc_vectors)
-index.add(mfcc_vectors)
-
-def faiss_lsh(track_id, k):
+def faiss_lsh(track_id, k, puntos, index):
     if track_id not in puntos:
         return None, None
     
@@ -79,8 +68,12 @@ def experimentoTiempo():
         
         inicioTiempo = time.time()
 
+        n_bits = 64
+        dimension = len(next(iter(puntos.values()))["MFCC_Vector"])
+        index = faiss.IndexLSH(dimension, n_bits)
+
         mfcc_vectors = np.array([punto["MFCC_Vector"] for punto in puntos.values()]).astype('float32')
-        index = faiss.IndexLSH(len(mfcc_vectors[0]), 64)
+
         index.train(mfcc_vectors)
         index.add(mfcc_vectors)
 
@@ -88,7 +81,7 @@ def experimentoTiempo():
 
         # Búsqueda FAISS
         faiss_start_time = time.time()
-        closest_songs, distances = faiss_lsh(track_id_query, k)
+        closest_songs, distances = faiss_lsh(track_id_query, k, puntos, index)
         faiss_end_time = time.time()
 
         print(f"Las {k} canciones más similares a la canción con track_id {track_id_query}:")
