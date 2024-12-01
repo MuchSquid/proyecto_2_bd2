@@ -97,6 +97,19 @@ El índice resultante se utiliza para realizar búsquedas eficientes mediante la
 
 # Índices Multidimensionales
 
+## MFFC (Extracción de vectores característicos)
+
+
+## KNN Sequential
+
+
+## RTree
+
+
+
+## FAISS
+
+
 
 ### Experimentación 
 Usaremos el track_id `09nSCeCs6eYfAIJVfye1CE` para realziar la experimentación con los 3 índices multidimensionales y compararlos.
