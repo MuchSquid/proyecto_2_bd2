@@ -68,7 +68,7 @@ def experimentoTiempo():
         
         inicioTiempo = time.time()
 
-        n_bits = 128
+        n_bits = 256
         dimension = 50
         index = faiss.IndexLSH(dimension, n_bits)
 
