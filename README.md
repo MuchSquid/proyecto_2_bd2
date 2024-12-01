@@ -98,7 +98,51 @@ El índice resultante se utiliza para realizar búsquedas eficientes mediante la
 # Índices Multidimensionales
 
 ## MFFC (Extracción de vectores característicos)
+Para representar las características acústicas de las canciones que vamos a indexar, utilizamos **MFCC**. Los MFCC son ampliamente utilizados en el procesamiento de audio, especialmente para tareas como clasificación y recuperación de música, ya que capturan los patrones de frecuencia de la señal de audio en un espacio logarítmico, que es más cercano a cómo percibimos el sonido.
 
+En este proyecto, decidimos utilizar **50 coeficientes MFCC** (usando `n_mfcc=50`)para capturar una representación más detallada y robusta de cada canción. Esta cantidad de coeficientes se selecciona para tener una mejor representación de las características acústicas, permitiendo una mayor precisión en la clasificación o búsqueda.
+
+```python
+def process_file(file_info):
+    track_id, folder_path = file_info
+    file_path = os.path.join(folder_path, f"{track_id}.mp3")
+    row_data = {f"MFCC{cc+1}": None for cc in range(50)}
+    row_data['mp3'] = file_path
+
+    if os.path.exists(file_path):
+        try:
+            audio_time_series, sampling_rate = librosa.load(file_path, sr=22050)
+            mfcc_array = librosa.feature.mfcc(y=audio_time_series, sr=sampling_rate, n_mfcc=50)
+            mean_mfcc_array = np.mean(mfcc_array, axis=1)
+            
+            # Guardar MFCCs en la fila
+            for cc in range(50):
+                row_data[f"MFCC{cc+1}"] = mean_mfcc_array[cc]
+        except Exception as e:
+            print(f"Error procesando {file_path}: {e}")
+    else:
+        print(f"Archivo MP3 no encontrado: {file_path}")
+    
+    return row_data
+```
+
+`process_file()`: Esta función se encarga de procesar cada archivo MP3. Primero obtiene la ruta del archivo y luego carga el audio. Después calcula los **50 vectores** utilizando la librería librosa y los promedia a lo largo del tiempo. Los coeficientes resultantes se guardan en un diccionario, junto con la ruta del archivo MP3, y se devuelve al final.
+
+```python
+def getLibrosaFeatures(spotify_df):
+    folder_path = 'mp3'
+    file_info_list = [(spotify_df.iloc[i].track_id, folder_path) for i in range(len(spotify_df))]
+
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        librosa_data = list(tqdm(executor.map(process_file, file_info_list), total=len(file_info_list)))
+
+    librosa_df = pd.DataFrame(librosa_data)
+    return librosa_df
+
+librosa_features_df = getLibrosaFeatures(music)
+```
+
+`getLibrosaFeatures()`: Esta función gestiona el procesamiento de múltiples archivos MP3. Utiliza **ThreadPoolExecutor** para procesar los archivos en paralelo, lo que mejora el rendimiento cuando se tienen muchos archivos para procesar. Al final, los resultados se almacenan en un DataFrame de Pandas, que contiene todos los coeficientes MFCC de cada canción.
 
 ## KNN Sequential
 
