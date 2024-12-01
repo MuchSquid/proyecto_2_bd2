@@ -130,6 +130,12 @@ def knnSeq(query, C, k):
 ```
 Donde query es el vector de caracteristicas del `track_id` (identificador de la canción) de consulta, C es el diccionario que contiene la información de las canciones, y k es el número de canciones más cercanas que se desea encontrar.
 
+Por ejemplo, si aplicamos el algoritmo de `knnSeq` con el `track_id` de `0qYTZCo5Bwh1nsUFGZP3zn`, con un `k = 8`, este viene a ser el resultado:
+
+![knnSeq](/img/knn_M.png)
+
+Los `k = 8` vecinos más cercanos incluyendose a sí mismo.
+
 Por otro lado, la **búsqueda por rango** busca todas las canciones cuya distancia euclidiana con la consulta sea menor o igual a un radio (`radius`) especificado. Esto se utiliza para encontrar un conjunto dinámico de canciones que cumplan con un criterio de proximidad. 
 
 Su código es el siguiente:
@@ -147,6 +153,10 @@ def knnRange(query, C, radius):
     results.sort(key=lambda x: x[0])
     return results
 ```
+Por ejemplo, si aplicamos el algoritmo con el mismo `track_id` anterior (`0qYTZCo5Bwh1nsUFGZP3zn`) con un `radius` de 3.7 este es el resultado:
+
+![knnRange](/img/knnRange_M.png)
+
 Las canciones que cumplen con el criterio de distancia son añadidas a la lista de resultados, que se ordena por proximidad antes de ser devuelta.
 
 ## RTree
