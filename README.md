@@ -116,12 +116,12 @@ Usaremos el track_id `09nSCeCs6eYfAIJVfye1CE` para realziar la experimentación 
 
 N | KNN Sequential | RTree | FAISS
 ---|---|---|---|
-1000 | 137.13 ms |  | 
-2000 | 130.35 ms |  |
-4000 | 148.48 ms |  |
-6000 | 143.13 ms |  |
-8000 | 146.04 ms |  |
-10000 | 141.16 ms |  |
+1000 | 137.13 ms |  | 60.96 ms
+2000 | 130.35 ms |  | 41.97 ms
+4000 | 148.48 ms |  | 38.99 ms 
+6000 | 143.13 ms |  | 40.00 ms
+8000 | 146.04 ms |  | 39.97 ms 
+10000 | 141.16 ms |  | 33.77 ms
 
 
 # Frontend
