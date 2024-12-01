@@ -242,16 +242,15 @@ N | KNN Sequential | KNN Range| RTree |RTree Range | FAISS
 10000 | 46.71 ms | 41.34 ms | 7.00 ms|3.04 ms | 33.00 ms
 
 ![experimentacionPCa](/img/tiempoPCA.png)
-
 ### Sin PCA
 N | KNN Sequential | KNN Range| RTree|RTree Range | FAISS
 ---|---|---|---|---|---|
-1000 | 86.31 ms | 87.92 ms | 2.02 ms| 0.00 ms| 77.00 ms
-2000 | 99.70 ms | 95.12 ms | 3.13 ms |0.92 ms | 50.00 ms
-4000 | 90.70 ms | 91.37 ms | 4.01 ms| 2.04 ms | 49.97 ms 
-6000 | 92.11 ms | 82.47 ms | 4.28 ms |5.60 ms | 51.00 ms
-8000 | 87.61 ms | 77.95 ms | 5.00 ms |5.64 ms| 49.00 ms 
-10000 | 86.00 ms | 78.90 ms | 7.02 ms|  7.00 ms| 51.00 ms
+1000 | 86.31 ms | 87.92 ms | 0.99 ms| 0.00 ms| 77.00 ms
+2000 | 99.70 ms | 95.12 ms | 2.48 ms |0.92 ms | 50.00 ms
+4000 | 90.70 ms | 91.37 ms | 4.40 ms| 2.04 ms | 49.97 ms 
+6000 | 92.11 ms | 82.47 ms | 9.51 ms |5.60 ms | 51.00 ms
+8000 | 87.61 ms | 77.95 ms | 13.51 ms |5.64 ms| 49.00 ms 
+10000 | 86.00 ms | 78.90 ms | 16.56 ms|  7.00 ms| 51.00 ms
 
 ![experimentacionPCa](/img/tiempoSinPCA.png)
 
