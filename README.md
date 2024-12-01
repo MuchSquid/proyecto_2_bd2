@@ -164,8 +164,35 @@ Las canciones que cumplen con el criterio de distancia son añadidas a la lista 
 
 
 ## FAISS
+Como tercera técnica utilizamos Faiss, el cuál, es una libreria para la eficiente búsqueda por similitud, más específico, utilizamos Faiss LSH. Faiss LSH trabajó con 2 parametros para inicializar el índice, dimension (la dimensión de los vectores) y nbits, esta última variable hace referencia al performance del índice, ya que, mientras mas bits tenga el índice la búsqueda va a ser mas efectiva, pero el performance irá empeorando. Para una búsqueda mas efectiva utilzamos 256 bits.
 
+Luego recopilamos los vectores reducidos aplicando las función de ReducirPCA() y les asignamos el formato de punto flotante de 32 bit, ya que, Faiss necesita eso para que funcione de manera correcta. Luego la función train(), lo que hace es que prepara las tablas hash necesarias para mapear a los vectores de entrada y por último, añade los vectores preparados al índice para poder hacer las consultas por similitud.
 
+La función faiss_lsh recibe 4 parámetros; el track_id que viene a ser la query, k que son la cantidad de elementos similares que devolveremos, puntos que es la data completa, e index que es el índice LSH ya inicializado.
+Primero revisa si la data contiene a la query, en caso contrario, retorna nada, ya que, no se encontró. Luego, obtenemos el vector reducido de la query para poder hacer las comparaciones. Después, utiliza la función search para poder buscar los k + 1 vectores más cercanos que devuelve distances (Distancia de los vectores mas cercanos de la query al k) e índices (Índice de los vectores más cercanos al k), se utilizó k + 1 porque al realizar la búsqueda puede ser que se encuentre a si mismo, entonces k + 1 retorna lo k valores má cercanos a la query, omitiendo a la query misma.
+
+Similares es una tupla que guarda índices y distancias, que luego filtra el vector de consulta de los resultados asegurándose de que el índice no coincida con el índice del track_id en el diccionario puntos, para luego traer los k más cercanos.
+
+Por último, divide la tupla en 2 arrays, uno con las distancias filtradas y otro con lo índices filtrados, estos índices sirven para poder recuperar los track_id´s y para luego acceder a la información completa en puntos (como nombre del artista, etc). Retorna la información de la canciones similares con sus distancias, si no se encuentran vecinos retorna listas vacías.
+
+Esta es un prueba de como es el performance con los diferentes nbits para la creación del índice con una canción de Maluma, Felices los 4: 
+
+N | 4 | 8 | 16 | 32 | 64 | 128 | 256
+---|---|---|---|---|---|---|---|
+1000 | 33.94 ms | 7.96 ms | 9.75 ms | 12.67 ms | 14.96 ms | 22.18 ms | 76.56 ms
+2000 | 7.99 ms | 7.96 ms | 8.97 ms | 9.99 ms | 16.96 ms | 17.00 ms | 51.23 ms
+4000 | 7.96 ms | 8.26 ms | 9.00 ms  | 10.00 ms| 11.96 ms | 18.00 ms | 49.97 ms
+6000 | 7.96 ms | 8.00 ms | 9.99 ms | 13.00 ms | 13.00 ms | 18.00 ms | 51.67 ms
+8000 | 7.96 ms | 7.00 ms | 8.99 ms | 9.96 ms | 12.34 ms | 17.97 ms | 47.98 ms
+10000 | 6.97 ms | 7.00 ms | 9.00 ms | 10.96 ms | 11.37 ms | 20.00 ms | 51.00 ms
+
+Se puede notar una diferencia de los tiempos en como van incrementando con respecto a la cantidad de bits, pero tambien existe una diferencia en la precisión, la canción buscada es una de reggaeton y por ejemplo, para los 4 bits nos retorna canciones que seguro tienen el mismo ritmo pero ninguna de reggaeton o español:
+
+![prueba1](/pruebareal2.png)
+
+En cambio con 256 ya nos salen algunas canciones en español y que si son reggaeton:
+
+![prueba2](/pruebareal1.png)
 
 ## Experimentación 
 Usaremos el track_id `09nSCeCs6eYfAIJVfye1CE` para realziar la experimentación con los 3 índices multidimensionales y compararlos.
