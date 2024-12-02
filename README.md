@@ -2,9 +2,17 @@
 
 # Introducción
 
-- Objetivo general: Desarrollar un sistema de base de datos multimedia integral que combine modelos relacionales y técnicas avanzadas de recuperación de información basadas en contenido, para optimizar la búsqueda y gestión eficiente de datos textuales y multimedia, con un enfoque particular en audio.
+### Objetivo General
+Desarrollar un sistema integral de búsqueda de canciones que combine consultas textuales mediante un índice invertido y PostgreSQL, además de algoritmos avanzados como KNN Secuencial, R-Tree y FAISS para analizar la similitud musical basada en características acústicas.   
 
+### Objetivos Específicos
+1. Implementar un índice invertido para realizar búsquedas eficientes en letras de canciones y compararlo con consultas textuales realizadas en PostgreSQL.  
+2. Desarrollar e integrar algoritmos de similitud musical basados en KNN Secuencial, R-Tree y FAISS utilizando características acústicas como vectores MFCC.  
+3. Evaluar y comparar el rendimiento del sistema en consultas textuales y análisis de similitud musical, considerando factores como tiempo de respuesta y precisión.  
+4. Diseñar experimentos para medir la eficiencia y escalabilidad de las herramientas utilizadas al manejar grandes volúmenes de datos.  
+5. Crear una interfaz unificada que permita realizar búsquedas tanto por texto en letras como por similitud en características musicales.  
 
+   
 ## Descripción de los Datasets  
 
 ### Dataset 1: Información General de Canciones de Spotify  
