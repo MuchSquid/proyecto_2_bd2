@@ -4,10 +4,30 @@
 
 - Objetivo general: Desarrollar un sistema de base de datos multimedia integral que combine modelos relacionales y técnicas avanzadas de recuperación de información basadas en contenido, para optimizar la búsqueda y gestión eficiente de datos textuales y multimedia, con un enfoque particular en audio.
 
-Dataset: https://drive.google.com/drive/folders/1mMIidLbl75S0r_4Nlg-9zSHkjrBGog5M?usp=drive_link 
-Se utilizo un dataset que contiene mas de 15000 canciones con sus letras cada una y 14 atributos
 
-Dataset 2 de música - mp3: https://drive.google.com/drive/u/3/folders/1J8RrRfegDamA51AzghoOiHxKvjplVxTM
+## Descripción de los Datasets  
+
+### Dataset 1: Información General de Canciones de Spotify  
+
+Este dataset contiene información detallada de más de 15,000 canciones de Spotify, ofreciendo una base sólida para el análisis tanto de características musicales como textuales, en sí tiene un total de 14 atributos. Los datos incluyen:  
+
+- **Información básica:** Nombre de la canción, artista, y álbum, proporcionando contexto sobre cada tema musical.  
+- **Características de audio:** Atributos como intensidad sonora, tempo, y valencia, entre otros, que permiten realizar análisis de propiedades acústicas.  
+- **Letras de las canciones:** Recopiladas a través de la biblioteca Genius en R, proporcionando un recurso textual para análisis semántico o estilístico.  
+- **Idioma de las letras:** Detectado utilizando la biblioteca `langdetect` en Python, lo que facilita el estudio lingüístico y cultural de las canciones.  
+- **Clasificación por géneros y subgéneros:** Información clave para analizar tendencias y patrones dentro de diferentes estilos musicales.  
+
+El archivo puede consultarse en el siguiente enlace:  [Dataset 1](https://drive.google.com/drive/folders/1mMIidLbl75S0r_4Nlg-9zSHkjrBGog5M?usp=drive_link).  
+
+### Dataset 2: Segmentos de Audio en Formato MP3  
+
+A partir del primer dataset, se generó un segundo conjunto de datos que contiene archivos de audio en formato mp3 para cada canción. Este dataset se diseñó para facilitar el análisis acústico directo, utilizando herramientas de extracción y procesamiento de audio.  
+
+- **Generación de archivos mp3:** Los archivos se descargaron utilizando la biblioteca `stdl`, asegurando una correspondencia directa con las canciones del primer dataset.  
+- **Recorte a 30 segundos:** Cada archivo se procesó con `ffmpeg` para recortar un segmento de 30 segundos, proporcionando un tamaño uniforme para el análisis acústico.  
+
+El archivo puede consultarse en el siguiente enlace: [Dataset 2](https://drive.google.com/drive/folders/1mMIidLbl75S0r_4Nlg-9zSHkjrBGog5M?usp=drive_link).  
+
 
 
 # Backend
