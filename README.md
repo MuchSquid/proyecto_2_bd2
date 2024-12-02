@@ -118,12 +118,12 @@ La función `spimi_invert` implementa el algoritmo **SPIMI** (*Single-Pass In-Me
 for doc_id, text in enumerate(documents):
     terms = preprocess_text(text)
 ```
-   - Cada término se almacena en el diccionario current_block junto con el identificador del documento:
+Cada término se almacena en el diccionario current_block junto con el identificador del documento:
 ```python
 for term in terms:
     current_block[term].append(doc_id)
 ```
-   - Cuando el tamaño de current_block alcanza el límite especificado (block_size_limit), el bloque se guarda en un archivo JSON dentro de temp_dir.
+Cuando el tamaño de current_block alcanza el límite especificado (block_size_limit), el bloque se guarda en un archivo JSON dentro de temp_dir.
  ```python
 if len(current_block) >= block_size_limit:
     block_filename = f"block_{block_counter}.json"
@@ -131,7 +131,7 @@ if len(current_block) >= block_size_limit:
     with open(block_path, 'w', encoding='utf-8') as f:
         json.dump(current_block, f)
 ```
- - Si quedan términos en current_block tras procesar todos los documentos, se guarda como un bloque final.
+Si quedan términos en current_block tras procesar todos los documentos, se guarda como un bloque final.
  ```python
 if current_block:
     block_filename = f"block_{block_counter}.json"
