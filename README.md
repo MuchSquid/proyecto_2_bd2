@@ -205,6 +205,111 @@ Las canciones que cumplen con el criterio de distancia son añadidas a la lista 
 
 ## RTree
 
+El algoritmo implementado utiliza R-tree como estructura de datos para realizar búsquedas eficientes de canciones similares en una base de datos basada en sus vectores característicos.
+Se ha probado este algoritmo junto con PCA, ya que R-tree es más propenso a caer en la "maldición de la dimensionalidad", lo que puede ocasionar problemas de rendimiento. La dimensionalidad elegida fue de 15.
+
+Hemos desarrollado dos algoritmos basados en R-tree:
+
+1. **Rtree por K Top:** Encuentra las k canciones más cercanas a la consulta.
+2. **Rtree por Rango:** Encuentra todas las canciones dentro de un rango de distancia especificado.
+
+### Construcción del R-tree
+Antes de realizar búsquedas, es necesario construir la estructura R-tree a partir de la base de datos. Esto se logra mediante la siguiente función:
+```
+def construir_rtree_con_propiedades(C, dimensions=15):
+    prop = index.Property()
+    prop.dimension = dimensions
+    prop.buffering_capacity = 10
+    prop.dat_extension = 'dat'
+    prop.idx_extension = 'idx'
+
+    idx = index.Index(properties=prop, overwrite=True)
+    track_to_id_map = {}
+
+    for i, (track_id, punto_info) in enumerate(C.items()):
+        vector = punto_info["Reduced_MFCC"]
+        
+        bounds = tuple(list(vector) * 2)
+        
+        idx.insert(i, bounds)
+        track_to_id_map[i] = track_id 
+
+    return idx, track_to_id_map
+
+```
+Descripción:
+
+- Esta función toma como entrada un diccionario C con la información de las canciones (vectores de características) y genera un índice R-tree optimizado.
+- También devuelve un mapeo de los índices del R-tree (idx) al track_id original, necesario para realizar consultas posteriores.
+
+----
+
+
+### Rtree por K Top
+El objetivo de esta función es encontrar las k canciones más cercanas al vector de consulta.
+
+```
+def knn_rtree(query, C, idx, track_to_id_map, k):
+
+    search_range = tuple(list(query) * 2)
+
+    results = []
+
+    for item in idx.nearest(search_range, k):
+        track_index = item if isinstance(item, int) else item.id
+        track_id = track_to_id_map[track_index]     
+        vector = C[track_id]["Reduced_MFCC"]
+        distance = euclidean_distance(query, vector)
+        results.append((distance, track_id))
+
+    results.sort(key=lambda x: x[0])
+    return results
+```
+Descripción:
+
+- La función toma como entrada un vector de consulta (query), el índice R-tree (idx), y la cantidad de elementos deseados (k).
+- Devuelve una lista de las k canciones más cercanas, ordenadas por distancia.
+
+**Ejemplo de prueba:**
+
+Se probó la función con un track_id de consulta cuyo vector se utilizó como query y k=8.
+
+**Resultado obtenido:**
+
+![rtree_normal](/rtreenormal.png)
+
+---
+
+### Rtree por Rango
+
+Este método encuentra todas las canciones que se encuentran dentro de un radio de distancia (radius) especificado.
+
+```
+def range_search_rtree(rtree_index, query_vector, radius):
+    min_bounds = [v - radius for v in query_vector]
+    max_bounds = [v + radius for v in query_vector]
+    
+    rect = tuple(min_bounds) + tuple(max_bounds)
+    results = list(rtree_index.intersection(rect)) 
+    return results
+
+```
+**Descripción:**
+
+- A diferencia de la búsqueda por K Top, aquí se define un rectángulo de búsqueda basado en el radio (radius) y el vector de consulta.
+- Devuelve todas las canciones cuyos vectores estén dentro del rango definido.
+
+**Ejemplo de prueba:**
+
+Se probó la función con un track_id de consulta y un radio de 4.
+
+**Resultado obtenido:**
+
+![rtree_range](/rtreesearch.png)
+
+
+### Conclusión
+En conclusión, al realizar experimentaciones con los algoritmos basados en R-tree, observamos que los tiempos de ejecución fueron considerablemente menores en comparación con otros métodos empleados. Esto valida la eficiencia de R-tree para búsquedas en grandes bases de datos cuando se utiliza con reducción de dimensionalidad como PCA.
 
 
 ## FAISS
