@@ -188,6 +188,6 @@ def experimentoTiempoKnnPCA(k,track_id_query, tipo):
     else:
         return totalRange
     
-if __name__ == "__main__":
-    # main()
-    experimentoTiempoKnn()
+# if __name__ == "__main__":
+#     # main()
+#     experimentoTiempoKnn()

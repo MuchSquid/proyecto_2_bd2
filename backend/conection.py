@@ -24,7 +24,7 @@ app.add_middleware(
     )
 
 def SqlTime(keyValue, top_k=10):
-    keyValue = keyValue.replace(" ", " & ")
+    keyValue = keyValue.replace(" ", " | ")
     return f"""
     explain analyse
     SELECT track_id, track_name, lyrics, ts_rank(to_tsvector('spanish', lyrics), to_tsquery('spanish', '{keyValue}')) AS similitud
@@ -35,7 +35,7 @@ def SqlTime(keyValue, top_k=10):
     """
 
 def SqlData(keyValue, top_k=10):
-    keyValue = keyValue.replace(" ", " & ")
+    keyValue = keyValue.replace(" ", " | ")
     return f"""
     SELECT track_id, track_name, lyrics, ts_rank(to_tsvector('spanish', lyrics), to_tsquery('spanish', '{keyValue}')) AS similitud
     FROM spotifydata

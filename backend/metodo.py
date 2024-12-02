@@ -95,8 +95,9 @@ def spimi_invert(documents, block_size_limit=1000):
         
         for term in terms:
             current_block[term].append(doc_id)
-            
-            if len(current_block) >= block_size_limit:
+            # Revisar si el tamaño del bloque supera el límite (por términos y postings)
+            if sum(len(postings) for postings in current_block.values()) >= block_size_limit:
+            #if len(current_block) >= block_size_limit:
                 block_filename = f"block_{block_counter}.json"
                 block_path = os.path.join(temp_dir, block_filename)
                 
@@ -153,13 +154,17 @@ def merge_blocks(block_files):
                 
                 for term, postings in block_data.items():
                     final_index[term].extend(postings)
+                    final_index[term] = sorted(set(final_index[term]))  # Ordenar y eliminar duplicados
         else:
             log_merge(f"Bloque no encontrado: {block_file}")
+
+    # Ordenar términos alfabéticamente
+    sorted_final_index = {term: final_index[term] for term in sorted(final_index)}
 
     log_merge("Merge completo")
     log_merge(f"Términos totales en índice final: {len(final_index)}")
     
-    return final_index
+    return sorted_final_index
 
 def clean_temp_blocks(wait_time=15):
     temp_dir = "BlocksTemporales"

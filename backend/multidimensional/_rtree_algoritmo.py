@@ -261,7 +261,7 @@ def experimentoTiempoRangeSearch():
         totalTiempo = rangeFin - inicioTiempo
         print(f"Tiempo total para {size} datos: {totalTiempo * 1000:.2f} ms")
 
-if __name__ == "__main__":
-    # experimentoTiempo()
-    main()
-    # experimentoTiempoRangeSearch()
+# if __name__ == "__main__":
+#     # experimentoTiempo()
+#     main()
+#     # experimentoTiempoRangeSearch()
