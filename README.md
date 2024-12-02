@@ -229,21 +229,27 @@ Y se define con este código:
 def euclidean_distance(vector1, vector2):
     return np.linalg.norm(np.array(vector1) - np.array(vector2))
 ```
-El algoritmo **KNN Secuencial** consiste en encontrar las **k** canciones más cercanas al vector de query (el `track_id` de input). Para cada canción en la base de datos, se calcula la distancia euclidiana entre el vector de consulta y el vector de características (`MFCC_Vector` o `Reduced_MFCC` (aplicando PCA)) de la canción. Estas distancias se ordenan de menor a mayor, y se seleccionan las k canciones con menor distancia. El siguiente código implementa este proceso:
+El algoritmo **KNN Secuencial** consiste en encontrar las **k** canciones más cercanas al vector de query (el `track_id` de input). Para cada canción en la base de datos, se calcula la distancia euclidiana entre el vector de consulta y el vector de características (`MFCC_Vector` o `Reduced_MFCC` (aplicando PCA)) de la canción. Estas distancias se almacenan en una **cola de prioridad (heap)** para seleccionar las k canciones con menor distancia de manera eficiente. El siguiente código implementa este proceso:  
 
 ```python
 def knnSeq(query, C, k):
-    distances = []
-    
+    priority_queue = []
+
     for track_id, punto_info in C.items():
-        vector = punto_info["Reduced_MFCC"] #esto cambia si se aplica reducción PCA o no 
+        vector = punto_info["Reduced_MFCC"]  # Esto cambia si se aplica reducción PCA o no
         distance = euclidean_distance(query, vector)
-        distances.append((distance, track_id))
+        # Negativo para mantener un max heap
+        heapq.heappush(priority_queue, (-distance, track_id))
+
+        if len(priority_queue) > k:
+            heapq.heappop(priority_queue)
     
-    distances.sort(key=lambda x: x[0])
-    return distances[:k]
-```
-Donde query es el vector de caracteristicas del `track_id` (identificador de la canción) de consulta, C es el diccionario que contiene la información de las canciones, y k es el número de canciones más cercanas que se desea encontrar.
+    return sorted([(abs(distance), track_id) for distance, track_id in priority_queue])
+```  
+
+Donde `query` es el vector de características del `track_id` (identificador de la canción) de consulta, `C` es el diccionario que contiene la información de las canciones, y `k` es el número de canciones más cercanas que se desea encontrar.  
+
+El uso de una **cola de prioridad** mejora la eficiencia del algoritmo al limitar el almacenamiento a las k distancias más pequeñas, eliminando automáticamente las distancias mayores durante el proceso. 
 
 Por ejemplo, si aplicamos el algoritmo de `knnSeq` con el `track_id` de `0qYTZCo5Bwh1nsUFGZP3zn`, con un `k = 8`, este viene a ser el resultado:
 
@@ -286,7 +292,7 @@ Hemos desarrollado dos algoritmos basados en R-tree:
 
 ### Construcción del R-tree
 Antes de realizar búsquedas, es necesario construir la estructura R-tree a partir de la base de datos. Esto se logra mediante la siguiente función:
-```
+```python
 def construir_rtree_con_propiedades(C, dimensions=15):
     prop = index.Property()
     prop.dimension = dimensions
@@ -308,7 +314,7 @@ def construir_rtree_con_propiedades(C, dimensions=15):
     return idx, track_to_id_map
 
 ```
-Descripción:
+**Descripción:**
 
 - Esta función toma como entrada un diccionario C con la información de las canciones (vectores de características) y genera un índice R-tree optimizado.
 - También devuelve un mapeo de los índices del R-tree (idx) al track_id original, necesario para realizar consultas posteriores.
@@ -319,7 +325,7 @@ Descripción:
 ### Rtree por K Top
 El objetivo de esta función es encontrar las k canciones más cercanas al vector de consulta.
 
-```
+```python
 def knn_rtree(query, C, idx, track_to_id_map, k):
 
     search_range = tuple(list(query) * 2)
@@ -336,7 +342,7 @@ def knn_rtree(query, C, idx, track_to_id_map, k):
     results.sort(key=lambda x: x[0])
     return results
 ```
-Descripción:
+**Descripción:**
 
 - La función toma como entrada un vector de consulta (query), el índice R-tree (idx), y la cantidad de elementos deseados (k).
 - Devuelve una lista de las k canciones más cercanas, ordenadas por distancia.
@@ -355,7 +361,7 @@ Se probó la función con un track_id de consulta cuyo vector se utilizó como q
 
 Este método encuentra todas las canciones que se encuentran dentro de un radio de distancia (radius) especificado.
 
-```
+```python
 def range_search_rtree(rtree_index, query_vector, radius):
     min_bounds = [v - radius for v in query_vector]
     max_bounds = [v + radius for v in query_vector]
