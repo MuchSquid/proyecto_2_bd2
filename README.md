@@ -113,7 +113,50 @@ La función `spimi_invert` implementa el algoritmo **SPIMI** (*Single-Pass In-Me
 #### Funciones principales:
 
 - `spimi_invert(documents, block_size_limit)`: Procesa documentos y genera bloques temporales con índices invertidos parciales.
+   - Se itera sobre cada documento en la lista documents, asignando un identificador único (doc_id) y procesando el texto mediante una función de preprocesamiento (como preprocess_text).
+```python
+for doc_id, text in enumerate(documents):
+    terms = preprocess_text(text)
+```
+   - Cada término se almacena en el diccionario current_block junto con el identificador del documento:
+```python
+for term in terms:
+    current_block[term].append(doc_id)
+```
+   - Cuando el tamaño de current_block alcanza el límite especificado (block_size_limit), el bloque se guarda en un archivo JSON dentro de temp_dir.
+ ```python
+if len(current_block) >= block_size_limit:
+    block_filename = f"block_{block_counter}.json"
+    block_path = os.path.join(temp_dir, block_filename)
+    with open(block_path, 'w', encoding='utf-8') as f:
+        json.dump(current_block, f)
+```
+ - Si quedan términos en current_block tras procesar todos los documentos, se guarda como un bloque final.
+ ```python
+if current_block:
+    block_filename = f"block_{block_counter}.json"
+    block_path = os.path.join(temp_dir, block_filename)
+    with open(block_path, 'w', encoding='utf-8') as f:
+        json.dump(current_block, f)
+```
 - `merge_blocks(block_files)`: Combina bloques en un único índice invertido final.
+   - El código itera sobre cada archivo en la lista block_files, donde cada archivo representa un bloque de índice invertido.
+ ```python
+for block_file in block_files:
+```
+Si el archivo existe, se abre y se carga como un diccionario (block_data) usando json.load y se registran detalles como el nombre del archivo y la cantidad de términos en el bloque.
+ ```python
+if os.path.exists(block_file):
+    with open(block_file, 'r', encoding='utf-8') as f:
+        block_data = json.load(f)
+        log_merge(f"Procesando bloque: {block_file}")
+        log_merge(f" Términos en bloque: {len(block_data)}")
+```
+Cada término del bloque y su lista de postings se combina en final_index. Esto se logra extendiendo las listas existentes (si el término ya estaba en el índice final) o añadiendo nuevos términos.
+ ```python
+for term, postings in block_data.items():
+    final_index[term].extend(postings)
+```
 - `calculate_tf_idf(documents, inverted_index)`: Calcula los puntajes TF-IDF para el índice.
 - `clean_temp_blocks()`: Elimina los bloques temporales creados durante el proceso.
 
