@@ -276,7 +276,7 @@ Se probó la función con un track_id de consulta cuyo vector se utilizó como q
 
 **Resultado obtenido:**
 
-![rtree_normal](/rtreenormal.png)
+![rtree_normal](/img/rtree_normal.png)
 
 ---
 
@@ -305,7 +305,7 @@ Se probó la función con un track_id de consulta y un radio de 4.
 
 **Resultado obtenido:**
 
-![rtree_range](/rtreesearch.png)
+![rtree_range](img/rtree_range.png)
 
 
 ### Conclusión
