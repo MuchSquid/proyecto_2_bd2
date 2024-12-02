@@ -452,7 +452,7 @@ En cambio con 256 ya nos salen algunas canciones en español y que si son reggae
 ![prueba2](/img/pruebareal1.PNG)
 
 ## Experimentación 
-Usaremos el track_id `09nSCeCs6eYfAIJVfye1CE` para realziar la experimentación con los 3 índices multidimensionales y compararlos.
+Usaremos el track_id `09nSCeCs6eYfAIJVfye1CE` para realizar la experimentación con los 3 índices multidimensionales, más 2 búsquedas por rango, y compararlos.
 
 ### Aplicando PCA
 
@@ -477,6 +477,21 @@ N | KNN Sequential | KNN Range| RTree|RTree Range | FAISS
 10000 | 86.00 ms | 78.90 ms | 16.56 ms|  7.00 ms| 51.00 ms
 
 ![experimentacionPCa](/img/tiempoSinPCA.png)
+
+### Conclusiones de la Experimentación
+
+Durante la experimentación, notamos un cambio  en los tiempos de ejecución y la calidad de los resultados al aplicar **PCA** en comparación con no usarlo, especialmente en los diferentes algoritmos analizados.
+
+Para los algoritmos **KNN Sequential** y **KNN Range**, aplicar PCA resultó en tiempos más rápidos a medida que aumentaba el número de vectores. Esto se debe a que la reducción de dimensionalidad hace que el cálculo de distancias sea más eficiente. Sin embargo, aunque PCA mejora el rendimiento de KNN, este sigue siendo más lento que los otros métodos, especialmente en búsquedas por rango.
+
+En el caso del **RTree**, vimos una mejora significativa al aplicar PCA. Sin esta reducción, el rendimiento del RTree se ve afectado por la **"maldición de la dimensionalidad"** (al igual que KNN), que disminuye su eficiencia conforme crecen las dimensiones de los datos. Al usar **PCA**, los tiempos de ejecución se redujeron considerablemente. También en **RTree Range** se observó una optimización en los tiempos de búsqueda, lo que confirma la utilidad de **PCA** en este tipo de estructuras.
+
+Por el lado del **FAISS**, aunque es eficiente para búsquedas en vectores de alta dimensión, vimos que aplicar PCA ayudó a mejorar aún más los tiempos de ejecución.
+
+Otro punto clave fue que, con PCA, la similitud en los resultados mejoró considerablemente. Al reducir las dimensiones, los tres algoritmos (**KNN**, **RTree** y **FAISS**) mostraron coincidencias en los resultados en aproximadamente un **70% de las búsquedas**, lo que no ocurría sin PCA, lo que refleja una representación más clara de los datos y una mayor consistencia en los patrones detectados.
+
+En conclusión, la implementación de **PCA** no solo reduce tiempos de consulta, especialmente en RTree, sino que también mejora la precisión en las búsquedas, haciendo más eficiente el manejo de datos de alta dimensión.
+
 
 # Frontend
 
