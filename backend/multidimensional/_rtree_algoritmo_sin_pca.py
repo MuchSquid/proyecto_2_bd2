@@ -8,7 +8,7 @@ import numpy as np
 
 
 def loadData():
-    file_path = '../../vectoresCaracteristicos/spotifyCompleto.csv'
+    file_path = '/Users/estebanmacbook/Document/Code/Astro/BD2_Proyecto/vectoresCaracteristicos/spotifyCompleto.csv'
     df = pd.read_csv(file_path, on_bad_lines="skip")
     puntos = {}
 
@@ -89,23 +89,52 @@ def knn_rtree(query, C, idx, track_to_id_map, k):
         print(f"Error en knn_rtree: {e}")
         return []
 
-def main():
+def mainRtree(k, track_id_query, tipo):
     puntos = loadData()
-    
-    track_id_query = '0qYTZCo5Bwh1nsUFGZP3zn'
+    # radius=40
+    # track_id_query = '0qYTZCo5Bwh1nsUFGZP3zn'
 
     if track_id_query in puntos:
         query_vector = puntos[track_id_query]["MFCC_Vector"]
         print("\nConstruyendo R-tree con propiedades...")
         idx, track_to_id_map = construir_rtree_con_propiedades(puntos, dimensions=len(query_vector))
-
+        inicioTiempo = time.time()
         print("\nBúsqueda KNN con R-tree:")
-        k = 10
-        closest_songs_rtree = knn_rtree(query_vector, puntos, idx, track_to_id_map, k)
+        if(tipo == 'secuencial'):    
+            closest_songs_rtree = knn_rtree(query_vector, puntos, idx, track_to_id_map, k)
+            FinBusqueda = time.time()
+            print(f"Tiempo de búsqueda KNN R-tree: {(FinBusqueda - inicioTiempo) * 1000:.2f} ms")
+            tiempofinal = FinBusqueda - inicioTiempo
+        
+            for distance, track_id in closest_songs_rtree:
+                song_info = puntos[track_id]
+                print(f"Distancia: {distance}, Track ID: {track_id}, Nombre: {song_info['track_name']}, Artista: {song_info['track_artist']}")
+                
+            return closest_songs_rtree, puntos, tiempofinal
 
-        for distance, track_id in closest_songs_rtree:
-            song_info = puntos[track_id]
-            print(f"Distancia: {distance}, Track ID: {track_id}, Nombre: {song_info['track_name']}, Artista: {song_info['track_artist']}")
+
+        
+        print("Busqueda RTree por rango:")
+        if(tipo == 'rango'):
+            rangeInicio = time.time()
+            range_results = range_search_rtree(idx, query_vector, k)
+            rangeFin = time.time()
+            print(f"Tiempo de búsqueda Range R-tree: {(rangeFin - rangeInicio) * 1000:.2f} ms")
+            resultados = []
+            for i in range_results:
+                track_id = track_to_id_map[i]
+                candidate_vector = puntos[track_id]["MFCC_Vector"]
+                distancia = np.linalg.norm(np.array(candidate_vector) - np.array(query_vector))
+                if distancia <= k:
+                    resultados.append((distancia, track_id))
+
+            resultados_ordenados = sorted(resultados, key=lambda x: x[0]) 
+            print(f"Se encontraron {len(resultados_ordenados)} canciones dentro del rango:")
+            for distancia, track_id in resultados_ordenados[:5]: 
+                song_info = puntos[track_id]
+                print(f"Distancia: {distancia:.4f}, Track ID: {track_id}, Nombre: {song_info['track_name']}, Artista: {song_info['track_artist']}")
+            tiempofinal = rangeFin - rangeInicio
+            return resultados_ordenados, puntos, tiempofinal
     else:
         print(f"La canción con track_id {track_id_query} no existe en la base de datos.")
 
@@ -202,6 +231,6 @@ def experimentoTiempoRangeSearch():
         print(f"Tiempo total para {size} datos: {totalTiempo * 1000:.2f} ms")
 
 if __name__ == "__main__":
-    # main()
+    main()
     # experimentoTiempo()
-    experimentoTiempoRangeSearch()
+    # experimentoTiempoRangeSearch()

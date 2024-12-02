@@ -36,7 +36,7 @@ const AudioPlayer: React.FC<AudioPlayerProps> = ({ src, textColor, backgroundCol
 
   const togglePlayPause = () => {
     const audio = audioRef.current;
-    if (audio) {
+    if (audio) {  
       if (isPlaying) {
         audio.pause();
       } else {

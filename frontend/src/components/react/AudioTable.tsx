@@ -78,15 +78,41 @@ const Tiempos: React.FC = () => {
   const [textColor, setTextColor] = useState<string>("black"); 
   const imgRef = useRef<HTMLImageElement>(null);
   const [apiChoice, setApiChoice] = useState<string>('');
+  const [apiChoice2, setApiChoice2] = useState<string>('');
+  const [apiChoice3PCA, setApiChoice3] = useState<string>('');
   const apiValues =[{
-    key: 'local',
-    value: 'local'
+    key: 'rtree',
+    value: 'rtree'
+
   },
   {
-    key: 'remote',
-    value: 'remote'
-  }
-]
+    key: 'faiss',
+    value: 'faiss'
+  },
+  {
+    key: 'knn',
+    value: 'knn'
+  }];
+
+  const apiValues2 =[{
+    key: 'rango',
+    value: 'rango'
+
+  },
+  {
+    key: 'secuencial',
+    value: 'secuencial'
+  }];
+
+  const pca =[{
+    key: 'si',
+    value: 'si'
+
+  },
+  {
+    key: 'no',
+    value: 'no'
+  }];
   
 
   useEffect(() => {
@@ -100,15 +126,34 @@ const Tiempos: React.FC = () => {
     setLoading(true);
     setError(null); 
     try {
-      const apiUrl = apiChoice === 'local' ? 'http://localhost:8000/get_data_local' : 'http://localhost:8000/get_combined_data';
-  
+      let apiUrl; 
+      if(apiChoice === 'knn' && apiChoice3PCA === 'si'){
+          apiUrl = 'http://localhost:8000/get_knn_data_pca';
+      }
+      else if(apiChoice === 'knn' && apiChoice3PCA === 'no'){
+        apiUrl = 'http://localhost:8000/get_knn_data';
+      }
+      else if(apiChoice === 'rtree' && apiChoice3PCA === 'si'){
+        apiUrl = 'http://localhost:8000/get_rtree_data_pca';
+      }
+      else if(apiChoice === 'rtree' && apiChoice3PCA === 'no'){
+        apiUrl = 'http://localhost:8000/get_rtree_data';
+      } 
+      else if(apiChoice === 'faiss' && apiChoice3PCA === 'si'){
+        apiUrl = 'http://localhost:8000/get_faissPCA_data';
+      }
+      else if(apiChoice === 'faiss' && apiChoice3PCA === 'no'){
+        apiUrl = 'http://localhost:8000/get_faiss_data';
+      }
+
+
       // Fetch the combined data
-      const response = await fetch(`${apiUrl}?q=${encodeURIComponent(query)}&k=${k}`);
+      const response = await fetch(`${apiUrl}?q=${encodeURIComponent(query)}&k=${k}&tipo=${apiChoice2}`);
       if (!response.ok) {
         throw new Error("Error en la respuesta de la API");
       }
       const combinedResult = await response.json();
-  
+      console.log(combinedResult.query);
       // Set the planning and execution time data
       setData({
         planning_time_ms: combinedResult.planning_time_ms,
@@ -172,6 +217,15 @@ const handleRowClick = async (track: TableRowData) => {
     setApiChoice(e.target.value);
   };
 
+  const handleSelectionChange2 = (e: any) => {
+    setApiChoice2(e.target.value);
+  }
+
+  const handleSelectionChange3 = (e: any) => {
+    setApiChoice3(e.target.value);
+  }
+
+
   const classNames = React.useMemo(
     () => ({
       // wrapper: ["max-h-[382px]", "max-w-3xl"],
@@ -210,18 +264,44 @@ const handleRowClick = async (track: TableRowData) => {
             />
             <Input 
               type="number" 
-              label="Límite" 
+              label="K/Radio" 
               onChange={(e) => setK(Number(e.target.value))} 
               className="dark:border-black border-1 rounded-xl shadow-sm" 
             />
             <Select 
-              label="Seleccionar API" 
+              label="Seleccionar Algoritmo" 
               selectedKeys={[apiChoice]}
               selectionMode='single'
               className="dark:border-black border-1 rounded-xl shadow-sm"
               onChange={handleSelectionChange}
             >
              {apiValues.map((api) => (
+               <SelectItem key={api.key}>
+                 {api.value}
+               </SelectItem>
+             ))}
+            </Select>
+            <Select 
+              label="Secuencial o rango" 
+              selectedKeys={[apiChoice2]}
+              selectionMode='single'
+              className="dark:border-black border-1 rounded-xl shadow-sm"
+              onChange={handleSelectionChange2}
+            >
+             {apiValues2.map((api) => (
+               <SelectItem key={api.key}>
+                 {api.value}
+               </SelectItem>
+             ))}
+            </Select>
+            <Select 
+              label="PCA" 
+              selectedKeys={[apiChoice3PCA]}
+              selectionMode='single'
+              className="dark:border-black border-1 rounded-xl shadow-sm"
+              onChange={handleSelectionChange3}
+            >
+             {pca.map((api) => (
                <SelectItem key={api.key}>
                  {api.value}
                </SelectItem>

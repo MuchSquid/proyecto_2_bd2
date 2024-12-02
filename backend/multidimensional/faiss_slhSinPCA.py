@@ -5,7 +5,7 @@ import time
 
 
 def loadData(num_samples=None):
-    file_path = 'c:/Users/Dario/Desktop/BD2/Proyecto3/spotifyCompleto.csv'
+    file_path = '/Users/estebanmacbook/Document/Code/Astro/BD2_Proyecto/vectoresCaracteristicos/spotifyCompleto.csv'
     df = pd.read_csv(file_path, on_bad_lines="skip")
     puntos = {}
 
@@ -58,9 +58,9 @@ def faiss_lsh(track_id, k, puntos, index):
         return [], []
     
     
-def experimentoTiempo():
+def experimentoTiempoFaiss(k, track_id_query):
     dataSizes = [1000, 2000, 4000, 6000, 8000, 10000]
-    k = 8
+    times = []
 
     for size in dataSizes:
         print(f"\nProcesando {size} datos...")
@@ -77,7 +77,7 @@ def experimentoTiempo():
         index.train(mfcc_vectors)
         index.add(mfcc_vectors)
 
-        track_id_query = '09nSCeCs6eYfAIJVfye1CE'
+        # track_id_query = '09nSCeCs6eYfAIJVfye1CE'
 
         # Búsqueda FAISS
         faiss_start_time = time.time()
@@ -94,5 +94,21 @@ def experimentoTiempo():
 
         totalTiempo = (faiss_end_time - inicioTiempo) * 1000
         print(f"Tiempo total de procesamiento (incluyendo FAISS): {totalTiempo:.2f} ms")
+        
+        times.append(totalTiempo)
+        
+    puntos = loadData(num_samples=size)
+        
+    inicioTiempo = time.time()
 
-experimentoTiempo()
+    n_bits = 256
+    dimension = 50
+    index = faiss.IndexLSH(dimension, n_bits)
+
+    mfcc_vectors = np.array([punto["MFCC_Vector"] for punto in puntos.values()]).astype('float32')
+
+    index.train(mfcc_vectors)
+    index.add(mfcc_vectors)
+    closest_songs, distances = faiss_lsh(track_id_query, k, puntos, index)
+    
+    return closest_songs, distances, times
