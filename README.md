@@ -251,6 +251,32 @@ librosa_features_df = getLibrosaFeatures(music)
 
 `getLibrosaFeatures()`: Esta función gestiona el procesamiento de múltiples archivos MP3. Utiliza **ThreadPoolExecutor** para procesar los archivos en paralelo, lo que mejora el rendimiento cuando se tienen muchos archivos para procesar. Al final, los resultados se almacenan en un DataFrame de Pandas, que contiene todos los coeficientes MFCC de cada canción.
 
+## Reducción aplicando PCA
+
+Utilizamos **PCA** (Análisis de Componentes Principales) para reducir la dimensionalidad de los vectores de características MFCC extraídos de las canciones. Se aplican **15 componentes** principales, lo que permite capturar la mayor parte de la varianza de los datos originales y mejorar la eficiencia de los algoritmos implementados.
+
+Esta reducción de dimensionalidad se utiliza en métodos como KNN secuencial, KNN range, R-Tree, R-Tree range y FAISS, optimizando el rendimiento en búsquedas y clasificación de canciones.
+
+```python
+def reducirPCA(df, n_components=15):
+    mfcc_vectors = np.array([
+        punto_info['MFCC_Vector'] 
+        for punto_info in df.values()
+    ])
+ 
+    scaler = StandardScaler()
+    mfcc_scaled = scaler.fit_transform(mfcc_vectors)
+    
+    pca = PCA(n_components=n_components)
+    reduced_vectors = pca.fit_transform(mfcc_scaled)
+
+    for i, (track_id, punto_info) in enumerate(df.items()):
+        punto_info['Reduced_MFCC'] = reduced_vectors[i]
+    
+    return df, pca, scaler
+```
+
+
 ## KNN Sequential
 
 El algoritmo implementado utiliza dos enfoques principales para comparar y encontrar canciones similares en una base de datos basada en sus vectores característicos: **KNN Secuencial** y **búsqueda por rango**. Ambos métodos emplean la distancia euclidiana como métrica para determinar la similitud entre las canciones y la consulta proporcionada por el usuario.
