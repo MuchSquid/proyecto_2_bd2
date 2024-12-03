@@ -162,6 +162,40 @@ for term, postings in block_data.items():
 
 El índice resultante se utiliza para realizar búsquedas eficientes mediante la similitud de coseno, devolviendo los documentos más relevantes para una consulta dada.
 
+## PostgreSQL con el uso del indice Gist
+
+El uso de índices GiST en PostgreSQL permite optimizar la búsqueda de datos multidimensionales o que requieren criterios de comparación personalizados. 
+
+### Creación del Gist
+
+Para implementar el índice GiST, primero se definen los datos en una columna de tipo cube, que puede almacenar vectores multidimensionales. Luego, se crea el índice GiST sobre esa columna.
+
+```
+CREATE EXTENSION IF NOT EXISTS cube;
+```
+
+### Creacion de la tabla y carga de datos
+
+Para este caso nosotros estaremos importarndo el csv de las canciones de spotify (spotifydata.csv) la cual usaremos como tabla y luego le agregamos nuestro indice.
+
+<img width="1559" alt="image" src="https://github.com/user-attachments/assets/77cd4e74-69f8-4be7-8b3e-147ef917df5a">
+
+### Creación del índice Gist
+
+```
+CREATE INDEX idx_lyrics_tsvector ON spotifydata USING gist (vector);
+```
+
+### Uso del índice Gist
+
+```
+SELECT track_id, track_name, lyrics, ts_rank(to_tsvector('spanish', lyrics), to_tsquery('spanish', '{keyValue}')) AS similitud
+    FROM spotifydata
+    WHERE to_tsvector('spanish', lyrics) @@ to_tsquery('spanish', '{keyValue}')
+    ORDER BY similitud DESC
+    LIMIT {top_k};
+```
+
 ### Experimento (comparación de tiempos PostgreSQL vs Indice Invertido)
 
 ![img1](/img1.png)
