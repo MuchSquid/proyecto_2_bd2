@@ -506,6 +506,34 @@ En conclusión, la implementación de **PCA** no solo reduce tiempos de consulta
 - Se uso tambien adicional las librerias de spline para las animaciones.
 
 - Se uso la api de spotify para agrega imagenes y audios a las canciones seguin el id de cada canción que se obtiene de las canciones.
+  
+## Vista principal
+
+La menu principal se compone de un AppBar que contiene las vistas de cada apartado del proyecto (filtro de busqueda de canciones en base a la letra y a canciones).
+
+<img width="1689" alt="image" src="https://github.com/user-attachments/assets/2c7833cb-b684-4203-a6b0-7286a37d033f">
+
+## Cabezera 
+
+- Este componente es donde se colocan los filtros para la busqueda en base a que algoritmo queremos usar, la query que vamos a colocar y la cantidad k de canciones o el radio de busqueda, esto va variar dependiendo de que pagina estemos usando tambien.
+
+<img width="998" alt="image" src="https://github.com/user-attachments/assets/68758576-ad5f-4dad-88ff-757fc223028b">
+
+<img width="1008" alt="image" src="https://github.com/user-attachments/assets/0564a030-f1ba-41c2-aa25-264936b599e1">
+
+### Tabla de contenido
+
+Esta parte contiene los resultados de la cabezera, estos se obtienen a travez de las api que conectan el frontend y backend mediante fastapi y typescript.
+
+<img width="1002" alt="image" src="https://github.com/user-attachments/assets/2b88bc94-3ac5-432b-a0db-19b19ae79704">
+
+### Tiempos de resultado
+
+Aca se muestran los tiempos que demoran cada consulta en hacerse, esta data se trae junto a los resultado de la tabla de resultados.
+
+<img width="349" alt="image" src="https://github.com/user-attachments/assets/9325b965-929d-4b82-a023-3e786e4b27b9">
+
+
 
 # Autores
 
