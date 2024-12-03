@@ -196,6 +196,10 @@ SELECT track_id, track_name, lyrics, ts_rank(to_tsvector('spanish', lyrics), to_
     LIMIT {top_k};
 ```
 
+### Que es lo que nos devuelve ts_rank?
+
+ts_rank mide la relevancia basada en la frecuencia, posición y densidad de los términos de búsqueda en el texto.
+
 ### Experimento (comparación de tiempos PostgreSQL vs Indice Invertido)
 
 ![img1](/img1.png)
